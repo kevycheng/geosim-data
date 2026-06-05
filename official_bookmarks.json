@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 2,
+  "source": "USER_EXPORT",
+  "updatedAt": 1780652354601,
+  "folders": [
+    {
+      "id": "91a5b2ee-d61f-4164-b1d1-ec0fdb46b214",
+      "name": "菇點",
+      "source": "USER",
+      "updatedAt": 1780641234694
+    },
+    {
+      "id": "75719b8f-109b-4421-a6c3-f62667937f38",
+      "name": "必飛處",
+      "source": "USER",
+      "updatedAt": 1780645800925
+    }
+  ],
+  "bookmarks": [
+    {
+      "id": "92d0b4b7-90d9-4cf7-95fb-9d7e6d417500",
+      "folderId": "91a5b2ee-d61f-4164-b1d1-ec0fdb46b214",
+      "name": "浮島神社波上宮",
+      "lat": 26.22094417061815,
+      "lng": 127.67110761255024,
+      "source": "USER",
+      "officialId": "",
+      "updatedAt": 1780645030228
+    },
+    {
+      "id": "26e6cf51-3d1f-43c9-a43b-3cbf3c593438",
+      "folderId": null,
+      "name": "松仁路95巷",
+      "lat": 25.036152050699588,
+      "lng": 121.57011475414036,
+      "source": "USER",
+      "officialId": "",
+      "updatedAt": 1780644964518
+    },
+    {
+      "id": "a6e9dbb3-aef2-40cc-98bd-d94358d2349e",
+      "folderId": null,
+      "name": "il Mercato",
+      "lat": 25.034410198795,
+      "lng": 121.56431648880243,
+      "source": "USER",
+      "officialId": "",
+      "updatedAt": 1780644969988
+    },
+    {
+      "id": "fc5350c9-9159-414b-be32-5b4acbf7bbd3",
+      "folderId": null,
+      "name": "131",
+      "lat": 25.054692704118267,
+      "lng": 121.55768036842345,
+      "source": "USER",
+      "officialId": "",
+      "updatedAt": 1780645016008
+    },
+    {
+      "id": "e9a01751-9434-44e6-aa1a-ff032d626918",
+      "folderId": null,
+      "name": "1479",
+      "lat": 25.077856150388698,
+      "lng": 121.57358855009079,
+      "source": "USER",
+      "officialId": "",
+      "updatedAt": 1780644997460
+    },
+    {
+      "id": "98aa9f11-c1ee-4d3c-854c-001142e9e5c4",
+      "folderId": null,
+      "name": "測試",
+      "lat": 26.1775631,
+      "lng": 127.6400986,
+      "source": "USER",
+      "officialId": "",
+      "updatedAt": 1780645883109
+    },
+    {
+      "id": "f57a5513-2899-4d7d-bc9f-d6b08128e063",
+      "folderId": null,
+      "name": "任天堂地下街",
+      "lat": 25.0487046,
+      "lng": 121.5672959,
+      "source": "USER",
+      "officialId": "",
+      "updatedAt": 1780648509426
+    },
+    {
+      "id": "41e4d7e2-34c5-4638-b3f6-f7c0510529cd",
+      "folderId": null,
+      "name": "任天堂中山",
+      "lat": 25.0487046,
+      "lng": 121.5142178,
+      "source": "USER",
+      "officialId": "",
+      "updatedAt": 1780648750800
+    },
+    {
+      "id": "b0bbc359-929a-473f-b78a-ce0a2e2796c3",
+      "folderId": null,
+      "name": "松山機場純點",
+      "lat": 25.062602740082404,
+      "lng": 121.55345924198627,
+      "source": "USER",
+      "officialId": "",
+      "updatedAt": 1780650042021
+    }
+  ]
+}
