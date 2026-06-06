@@ -1,19 +1,19 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1780716334386,
+  "updatedAt": 1780717730783,
   "folders": [
     {
       "id": "folder_nintendo_tw",
-      "name": "台灣任天堂官方授權店",
+      "name": "任天堂店",
       "source": "OFFICIAL",
-      "updatedAt": 1717590000000
+      "updatedAt": 1780717712990
     },
     {
       "id": "folder_flower",
-      "name": "採路路徑",
+      "name": "採花路徑",
       "source": "OFFICIAL",
-      "updatedAt": 1780715747485
+      "updatedAt": 1780717729579
     }
   ],
   "bookmarks": [
@@ -25,7 +25,7 @@
       "lng": 121.5311171,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_01",
-      "updatedAt": 1717590000000
+      "updatedAt": 1780717712990
     },
     {
       "id": "nintendo_tw_02",
@@ -35,7 +35,7 @@
       "lng": 121.5142178,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_02",
-      "updatedAt": 1717590000000
+      "updatedAt": 1780717712990
     },
     {
       "id": "nintendo_tw_03",
@@ -45,7 +45,7 @@
       "lng": 121.5672959,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_03",
-      "updatedAt": 1717590000000
+      "updatedAt": 1780717712990
     },
     {
       "id": "nintendo_tw_04",
@@ -55,7 +55,7 @@
       "lng": 121.6177854,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_04",
-      "updatedAt": 1717590000000
+      "updatedAt": 1780717712990
     },
     {
       "id": "nintendo_tw_05",
@@ -65,7 +65,7 @@
       "lng": 120.692229,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_05",
-      "updatedAt": 1717590000000
+      "updatedAt": 1780717712990
     },
     {
       "id": "nintendo_tw_06",
@@ -75,7 +75,7 @@
       "lng": 120.2329482,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_06",
-      "updatedAt": 1717590000000
+      "updatedAt": 1780717712990
     },
     {
       "id": "nintendo_tw_07",
@@ -85,7 +85,7 @@
       "lng": 120.3027073,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_07",
-      "updatedAt": 1717590000000
+      "updatedAt": 1780717712990
     },
     {
       "id": "nintendo_tw_08",
@@ -95,7 +95,7 @@
       "lng": 120.3074215,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_08",
-      "updatedAt": 1717590000000
+      "updatedAt": 1780717712990
     },
     {
       "id": "point_new",
@@ -105,7 +105,7 @@
       "lng": 12.442593,
       "source": "OFFICIAL",
       "officialId": "point_new",
-      "updatedAt": 1780716014313
+      "updatedAt": 1780717729579
     }
   ]
 }
