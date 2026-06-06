@@ -1,13 +1,19 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1717590000000,
+  "updatedAt": 1780716334386,
   "folders": [
     {
       "id": "folder_nintendo_tw",
       "name": "台灣任天堂官方授權店",
       "source": "OFFICIAL",
       "updatedAt": 1717590000000
+    },
+    {
+      "id": "folder_flower",
+      "name": "採路路徑",
+      "source": "OFFICIAL",
+      "updatedAt": 1780715747485
     }
   ],
   "bookmarks": [
@@ -90,6 +96,16 @@
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_08",
       "updatedAt": 1717590000000
+    },
+    {
+      "id": "point_new",
+      "folderId": "folder_flower",
+      "name": "巨型姑",
+      "lat": 55.806627,
+      "lng": 12.442593,
+      "source": "OFFICIAL",
+      "officialId": "point_new",
+      "updatedAt": 1780716014313
     }
   ]
 }
