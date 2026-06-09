@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "source": "GEOSIM",
+  "updatedAt": 1780720000000,
+  "folders": [
+    {
+      "id": "taipei",
+      "name": "台北測試路線"
+    }
+  ],
+  "routes": [
+    {
+      "id": "taipei_xinyi_walk_001",
+      "folderId": "taipei",
+      "name": "信義區步行短線",
+      "description": "低速步行測試，適合確認 GPX 匯入與路徑移動。",
+      "gpxUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/gpx/taipei_xinyi_walk_001.gpx",
+      "defaultSpeedKmh": 5,
+      "updatedAt": 1780720000000
+    }
+  ]
+}

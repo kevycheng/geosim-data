@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1780717730783,
+  "updatedAt": 1780972494303,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -10,10 +10,10 @@
       "updatedAt": 1780717712990
     },
     {
-      "id": "folder_flower",
-      "name": "採花路徑",
+      "id": "folder_pure",
+      "name": "純點收集",
       "source": "OFFICIAL",
-      "updatedAt": 1780717729579
+      "updatedAt": 1780972198840
     }
   ],
   "bookmarks": [
@@ -99,13 +99,33 @@
     },
     {
       "id": "point_new",
-      "folderId": "folder_flower",
+      "folderId": null,
       "name": "巨型姑",
       "lat": 55.806627,
       "lng": 12.442593,
       "source": "OFFICIAL",
       "officialId": "point_new",
-      "updatedAt": 1780717729579
+      "updatedAt": 1780972181614
+    },
+    {
+      "id": "point_new_2",
+      "folderId": "folder_pure",
+      "name": "飛機_松山機場",
+      "lat": 25.0674665,
+      "lng": 121.55398,
+      "source": "OFFICIAL",
+      "officialId": "point_new_2",
+      "updatedAt": 1780972311962
+    },
+    {
+      "id": "point_new_3",
+      "folderId": "folder_pure",
+      "name": "飛機_濱江街",
+      "lat": 25.0411,
+      "lng": 121.3309,
+      "source": "OFFICIAL",
+      "officialId": "point_new_3",
+      "updatedAt": 1780972476335
     }
   ]
 }
