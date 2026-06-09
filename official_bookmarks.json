@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1780973500000,
+  "updatedAt": 1780975094360,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -98,16 +98,6 @@
       "updatedAt": 1780717712990
     },
     {
-      "id": "point_new",
-      "folderId": null,
-      "name": "巨型姑",
-      "lat": 55.806627,
-      "lng": 12.442593,
-      "source": "OFFICIAL",
-      "officialId": "point_new",
-      "updatedAt": 1780972181614
-    },
-    {
       "id": "point_new_2",
       "folderId": "folder_pure",
       "name": "飛機_松山機場",
@@ -118,34 +108,14 @@
       "updatedAt": 1780972311962
     },
     {
-      "id": "point_new_3",
-      "folderId": "folder_pure",
-      "name": "飛機_濱江街",
-      "lat": 25.0411,
-      "lng": 121.3309,
-      "source": "OFFICIAL",
-      "officialId": "point_new_3",
-      "updatedAt": 1780972476335
-    },
-    {
       "id": "point_new_4",
       "folderId": "folder_pure",
-      "name": "漢堡_高雄",
+      "name": "漢堡_高雄(純)",
       "lat": 22.681261,
       "lng": 120.31822,
       "source": "OFFICIAL",
       "officialId": "point_new_4",
-      "updatedAt": 1780973011595
-    },
-    {
-      "id": "point_new_5",
-      "folderId": "folder_pure",
-      "name": "漢堡_霧峰",
-      "lat": 24.055154,
-      "lng": 120.695629,
-      "source": "OFFICIAL",
-      "officialId": "point_new_5",
-      "updatedAt": 1780973062891
+      "updatedAt": 1780974738457
     },
     {
       "id": "point_new_6",
@@ -180,32 +150,22 @@
     {
       "id": "point_new_9",
       "folderId": "folder_pure",
-      "name": "神社_稻荷大明神",
-      "lat": 34.3620,
-      "lng": 133.5850,
+      "name": "神社_稻荷大明神(美菇)",
+      "lat": 34.362,
+      "lng": 133.585,
       "source": "OFFICIAL",
       "officialId": "point_new_9",
-      "updatedAt": 1780973500004
-    },
-    {
-      "id": "point_new_10",
-      "folderId": "folder_pure",
-      "name": "拉麵_新北市新莊區",
-      "lat": 25.040937,
-      "lng": 121.457618,
-      "source": "OFFICIAL",
-      "officialId": "point_new_10",
-      "updatedAt": 1780973500005
+      "updatedAt": 1780974852951
     },
     {
       "id": "point_new_11",
       "folderId": "folder_pure",
-      "name": "拉麵_新北三重",
+      "name": "拉麵_新北三重(純)",
       "lat": 25.050287,
       "lng": 121.487401,
       "source": "OFFICIAL",
       "officialId": "point_new_11",
-      "updatedAt": 1780973500006
+      "updatedAt": 1780974969515
     },
     {
       "id": "point_new_12",
@@ -218,64 +178,14 @@
       "updatedAt": 1780973500007
     },
     {
-      "id": "point_new_13",
-      "folderId": "folder_pure",
-      "name": "泡菜_中和1",
-      "lat": 25.0074253,
-      "lng": 121.4732461,
-      "source": "OFFICIAL",
-      "officialId": "point_new_13",
-      "updatedAt": 1780973500008
-    },
-    {
-      "id": "point_new_14",
-      "folderId": "folder_pure",
-      "name": "泡菜_中和2",
-      "lat": 25.007706,
-      "lng": 121.473188,
-      "source": "OFFICIAL",
-      "officialId": "point_new_14",
-      "updatedAt": 1780973500009
-    },
-    {
       "id": "point_new_15",
       "folderId": "folder_pure",
-      "name": "漢堡_京都",
+      "name": "漢堡_京都(2點)",
       "lat": 34.933295,
       "lng": 135.790022,
       "source": "OFFICIAL",
       "officialId": "point_new_15",
-      "updatedAt": 1780973500010
-    },
-    {
-      "id": "point_new_16",
-      "folderId": "folder_pure",
-      "name": "漢堡_漢巴餐3霧峰",
-      "lat": 33.887446,
-      "lng": 130.88423,
-      "source": "OFFICIAL",
-      "officialId": "point_new_16",
-      "updatedAt": 1780973500011
-    },
-    {
-      "id": "point_new_17",
-      "folderId": "folder_pure",
-      "name": "漢堡_台南新化",
-      "lat": 23.038086,
-      "lng": 120.305365,
-      "source": "OFFICIAL",
-      "officialId": "point_new_17",
-      "updatedAt": 1780973500012
-    },
-    {
-      "id": "point_new_18",
-      "folderId": "folder_pure",
-      "name": "漢堡_惠來里台中市西屯區",
-      "lat": 24.16899,
-      "lng": 120.64990,
-      "source": "OFFICIAL",
-      "officialId": "point_new_18",
-      "updatedAt": 1780973500013
+      "updatedAt": 1780974649058
     },
     {
       "id": "point_new_19",
