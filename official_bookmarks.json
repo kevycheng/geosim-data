@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1780975030800,
+  "updatedAt": 1780975500000,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -20,6 +20,12 @@
       "name": "西雅圖金盆",
       "source": "OFFICIAL",
       "updatedAt": 1780975030800
+    },
+    {
+      "id": "folder_media_collect",
+      "name": "美片收集",
+      "source": "OFFICIAL",
+      "updatedAt": 1780975500000
     }
   ],
   "bookmarks": [
@@ -302,6 +308,316 @@
       "source": "OFFICIAL",
       "officialId": "seattle_gold_09",
       "updatedAt": 1780975030809
+    },
+    {
+      "id": "media_collect_01",
+      "folderId": "folder_media_collect",
+      "name": "黃皮🔍",
+      "lat": 34.701668,
+      "lng": 135.496423,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_01",
+      "updatedAt": 1780975500001
+    },
+    {
+      "id": "media_collect_02",
+      "folderId": "folder_media_collect",
+      "name": "藍黃紅皮🔍",
+      "lat": 35.003355,
+      "lng": 135.768294,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_02",
+      "updatedAt": 1780975500002
+    },
+    {
+      "id": "media_collect_03",
+      "folderId": "folder_media_collect",
+      "name": "紅皮🌹",
+      "lat": 34.66822,
+      "lng": 135.43059,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_03",
+      "updatedAt": 1780975500003
+    },
+    {
+      "id": "media_collect_04",
+      "folderId": "folder_media_collect",
+      "name": "Super Nintendo World🌹",
+      "lat": 34.66716,
+      "lng": 135.43051,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_04",
+      "updatedAt": 1780975500004
+    },
+    {
+      "id": "media_collect_05",
+      "folderId": "folder_media_collect",
+      "name": "首爾隱藏手繪風(隱藏)🔍",
+      "lat": 37.6033124,
+      "lng": 127.0348836,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_05",
+      "updatedAt": 1780975500005
+    },
+    {
+      "id": "media_collect_06",
+      "folderId": "folder_media_collect",
+      "name": "香港迪士尼🍄",
+      "lat": 22.31257,
+      "lng": 114.04132,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_06",
+      "updatedAt": 1780975500006
+    },
+    {
+      "id": "media_collect_07",
+      "folderId": "folder_media_collect",
+      "name": "法國迪士尼(隱藏)🔍",
+      "lat": 48.873152,
+      "lng": 2.776136,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_07",
+      "updatedAt": 1780975500007
+    },
+    {
+      "id": "media_collect_08",
+      "folderId": "folder_media_collect",
+      "name": "金字塔🌹",
+      "lat": 29.97254753,
+      "lng": 31.12836647,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_08",
+      "updatedAt": 1780975500008
+    },
+    {
+      "id": "media_collect_09",
+      "folderId": "folder_media_collect",
+      "name": "熱氣球Rose Valley🌹",
+      "lat": 38.65611,
+      "lng": 34.84095,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_09",
+      "updatedAt": 1780975500009
+    },
+    {
+      "id": "media_collect_10",
+      "folderId": "folder_media_collect",
+      "name": "大谷翔平🔍",
+      "lat": 34.0509219,
+      "lng": -118.2491722,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_10",
+      "updatedAt": 1780975500010
+    },
+    {
+      "id": "media_collect_11",
+      "folderId": "folder_media_collect",
+      "name": "安平古堡🍄",
+      "lat": 23.00161,
+      "lng": 120.16091,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_11",
+      "updatedAt": 1780975500011
+    },
+    {
+      "id": "media_collect_12",
+      "folderId": "folder_media_collect",
+      "name": "天空の響き🍄",
+      "lat": 34.153386,
+      "lng": 135.604234,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_12",
+      "updatedAt": 1780975500012
+    },
+    {
+      "id": "media_collect_13",
+      "folderId": "folder_media_collect",
+      "name": "Starfish Under the Sea🍄",
+      "lat": 32.68677,
+      "lng": -117.19762,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_13",
+      "updatedAt": 1780975500013
+    },
+    {
+      "id": "media_collect_14",
+      "folderId": "folder_media_collect",
+      "name": "The Rolling Hills of Italy Painting🍄",
+      "lat": 40.36953,
+      "lng": -80.10505,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_14",
+      "updatedAt": 1780975500014
+    },
+    {
+      "id": "media_collect_15",
+      "folderId": "folder_media_collect",
+      "name": "幸 の階段🌹",
+      "lat": 34.5132,
+      "lng": 134.86939,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_15",
+      "updatedAt": 1780975500015
+    },
+    {
+      "id": "media_collect_16",
+      "folderId": "folder_media_collect",
+      "name": "📍淨住寺",
+      "lat": 34.98883,
+      "lng": 135.68632,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_16",
+      "updatedAt": 1780975500016
+    },
+    {
+      "id": "media_collect_17",
+      "folderId": "folder_media_collect",
+      "name": "📍地藏院",
+      "lat": 34.99035,
+      "lng": 135.68601,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_17",
+      "updatedAt": 1780975500017
+    },
+    {
+      "id": "media_collect_18",
+      "folderId": "folder_media_collect",
+      "name": "🗾正法寺",
+      "lat": 34.957077,
+      "lng": 135.655586,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_18",
+      "updatedAt": 1780975500018
+    },
+    {
+      "id": "media_collect_19",
+      "folderId": "folder_media_collect",
+      "name": "🗾淨住寺",
+      "lat": 34.988794,
+      "lng": 135.686268,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_19",
+      "updatedAt": 1780975500019
+    },
+    {
+      "id": "media_collect_20",
+      "folderId": "folder_media_collect",
+      "name": "🗾大石神社",
+      "lat": 34.970071,
+      "lng": 135.795701,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_20",
+      "updatedAt": 1780975500020
+    },
+    {
+      "id": "media_collect_21",
+      "folderId": "folder_media_collect",
+      "name": "🗾指月橋",
+      "lat": 35.056453,
+      "lng": 135.675168,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_21",
+      "updatedAt": 1780975500021
+    },
+    {
+      "id": "media_collect_22",
+      "folderId": "folder_media_collect",
+      "name": "🗾隨心院",
+      "lat": 34.959668,
+      "lng": 135.81505,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_22",
+      "updatedAt": 1780975500022
+    },
+    {
+      "id": "media_collect_23",
+      "folderId": "folder_media_collect",
+      "name": "🗾地藏院_竹之寺",
+      "lat": 34.990394,
+      "lng": 135.68606,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_23",
+      "updatedAt": 1780975500023
+    },
+    {
+      "id": "media_collect_24",
+      "folderId": "folder_media_collect",
+      "name": "🗾折上稻荷神社",
+      "lat": 34.972288,
+      "lng": 135.803133,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_24",
+      "updatedAt": 1780975500024
+    },
+    {
+      "id": "media_collect_25",
+      "folderId": "folder_media_collect",
+      "name": "🗾藤森神社",
+      "lat": 34.951362,
+      "lng": 135.771709,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_25",
+      "updatedAt": 1780975500025
+    },
+    {
+      "id": "media_collect_26",
+      "folderId": "folder_media_collect",
+      "name": "🗾御香宮神社",
+      "lat": 34.933274,
+      "lng": 135.767434,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_26",
+      "updatedAt": 1780975500026
+    },
+    {
+      "id": "media_collect_27",
+      "folderId": "folder_media_collect",
+      "name": "🗾長尾天滿宮",
+      "lat": 34.9524291,
+      "lng": 135.8230761,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_27",
+      "updatedAt": 1780975500027
+    },
+    {
+      "id": "media_collect_28",
+      "folderId": "folder_media_collect",
+      "name": "🗾大越神社",
+      "lat": 34.950705,
+      "lng": 135.666385,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_28",
+      "updatedAt": 1780975500028
+    },
+    {
+      "id": "media_collect_29",
+      "folderId": "folder_media_collect",
+      "name": "🗾金札宮",
+      "lat": 34.936697,
+      "lng": 135.76128,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_29",
+      "updatedAt": 1780975500029
+    },
+    {
+      "id": "media_collect_30",
+      "folderId": "folder_media_collect",
+      "name": "🗾洛西竹林公園",
+      "lat": 34.959852,
+      "lng": 135.686904,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_30",
+      "updatedAt": 1780975500030
+    },
+    {
+      "id": "media_collect_31",
+      "folderId": "folder_media_collect",
+      "name": "🌸 龍貓巴士",
+      "lat": 24.13517,
+      "lng": 120.691631,
+      "source": "OFFICIAL",
+      "officialId": "media_collect_31",
+      "updatedAt": 1780975500031
     }
   ]
 }
