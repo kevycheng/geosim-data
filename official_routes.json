@@ -17,6 +17,15 @@
       "gpxUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/gpx/taipei_xinyi_walk_001.gpx",
       "defaultSpeedKmh": 5,
       "updatedAt": 1780720000000
+    },
+    {
+      "id": "taipei_101_loop",
+      "folderId": "taipei",
+      "name": "台北 101 繞圈路線",
+      "description": "繞行台北 101 的測試路線",
+      "gpxUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/gpx/taipei_101.gpx",
+      "defaultSpeedKmh": 5,
+      "updatedAt": 1780720000000
     }
   ]
 }

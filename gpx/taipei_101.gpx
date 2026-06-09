@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GeoSim">
+  <trk>
+    <name>台北 101 繞圈測試路線</name>
+    <trkseg>
+      <trkpt lat="25.033611" lon="121.565000">
+        <name>起點</name>
+      </trkpt>
+      <trkpt lat="25.034611" lon="121.565000">
+      </trkpt>
+      <trkpt lat="25.034611" lon="121.566000">
+      </trkpt>
+      <trkpt lat="25.033611" lon="121.566000">
+      </trkpt>
+      <trkpt lat="25.033611" lon="121.565000">
+        <name>終點</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
