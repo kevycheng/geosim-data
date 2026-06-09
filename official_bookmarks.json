@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1780972494303,
+  "updatedAt": 1780973500000,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -126,6 +126,176 @@
       "source": "OFFICIAL",
       "officialId": "point_new_3",
       "updatedAt": 1780972476335
+    },
+    {
+      "id": "point_new_4",
+      "folderId": "folder_pure",
+      "name": "漢堡_高雄",
+      "lat": 22.681261,
+      "lng": 120.31822,
+      "source": "OFFICIAL",
+      "officialId": "point_new_4",
+      "updatedAt": 1780973011595
+    },
+    {
+      "id": "point_new_5",
+      "folderId": "folder_pure",
+      "name": "漢堡_霧峰",
+      "lat": 24.055154,
+      "lng": 120.695629,
+      "source": "OFFICIAL",
+      "officialId": "point_new_5",
+      "updatedAt": 1780973062891
+    },
+    {
+      "id": "point_new_6",
+      "folderId": "folder_pure",
+      "name": "大學_麻省理工學院",
+      "lat": 42.36046093992396,
+      "lng": -71.09296779444408,
+      "source": "OFFICIAL",
+      "officialId": "point_new_6",
+      "updatedAt": 1780973500001
+    },
+    {
+      "id": "point_new_7",
+      "folderId": "folder_pure",
+      "name": "大學_台灣大學",
+      "lat": 25.021175,
+      "lng": 121.535384,
+      "source": "OFFICIAL",
+      "officialId": "point_new_7",
+      "updatedAt": 1780973500002
+    },
+    {
+      "id": "point_new_8",
+      "folderId": "folder_pure",
+      "name": "神社_沖繩縣金武觀音寺",
+      "lat": 26.455017281581885,
+      "lng": 127.92145532488927,
+      "source": "OFFICIAL",
+      "officialId": "point_new_8",
+      "updatedAt": 1780973500003
+    },
+    {
+      "id": "point_new_9",
+      "folderId": "folder_pure",
+      "name": "神社_稻荷大明神",
+      "lat": 34.3620,
+      "lng": 133.5850,
+      "source": "OFFICIAL",
+      "officialId": "point_new_9",
+      "updatedAt": 1780973500004
+    },
+    {
+      "id": "point_new_10",
+      "folderId": "folder_pure",
+      "name": "拉麵_新北市新莊區",
+      "lat": 25.040937,
+      "lng": 121.457618,
+      "source": "OFFICIAL",
+      "officialId": "point_new_10",
+      "updatedAt": 1780973500005
+    },
+    {
+      "id": "point_new_11",
+      "folderId": "folder_pure",
+      "name": "拉麵_新北三重",
+      "lat": 25.050287,
+      "lng": 121.487401,
+      "source": "OFFICIAL",
+      "officialId": "point_new_11",
+      "updatedAt": 1780973500006
+    },
+    {
+      "id": "point_new_12",
+      "folderId": "folder_pure",
+      "name": "泡菜_釜山",
+      "lat": 35.121665,
+      "lng": 129.11105,
+      "source": "OFFICIAL",
+      "officialId": "point_new_12",
+      "updatedAt": 1780973500007
+    },
+    {
+      "id": "point_new_13",
+      "folderId": "folder_pure",
+      "name": "泡菜_中和1",
+      "lat": 25.0074253,
+      "lng": 121.4732461,
+      "source": "OFFICIAL",
+      "officialId": "point_new_13",
+      "updatedAt": 1780973500008
+    },
+    {
+      "id": "point_new_14",
+      "folderId": "folder_pure",
+      "name": "泡菜_中和2",
+      "lat": 25.007706,
+      "lng": 121.473188,
+      "source": "OFFICIAL",
+      "officialId": "point_new_14",
+      "updatedAt": 1780973500009
+    },
+    {
+      "id": "point_new_15",
+      "folderId": "folder_pure",
+      "name": "漢堡_京都",
+      "lat": 34.933295,
+      "lng": 135.790022,
+      "source": "OFFICIAL",
+      "officialId": "point_new_15",
+      "updatedAt": 1780973500010
+    },
+    {
+      "id": "point_new_16",
+      "folderId": "folder_pure",
+      "name": "漢堡_漢巴餐3霧峰",
+      "lat": 33.887446,
+      "lng": 130.88423,
+      "source": "OFFICIAL",
+      "officialId": "point_new_16",
+      "updatedAt": 1780973500011
+    },
+    {
+      "id": "point_new_17",
+      "folderId": "folder_pure",
+      "name": "漢堡_台南新化",
+      "lat": 23.038086,
+      "lng": 120.305365,
+      "source": "OFFICIAL",
+      "officialId": "point_new_17",
+      "updatedAt": 1780973500012
+    },
+    {
+      "id": "point_new_18",
+      "folderId": "folder_pure",
+      "name": "漢堡_惠來里台中市西屯區",
+      "lat": 24.16899,
+      "lng": 120.64990,
+      "source": "OFFICIAL",
+      "officialId": "point_new_18",
+      "updatedAt": 1780973500013
+    },
+    {
+      "id": "point_new_19",
+      "folderId": "folder_pure",
+      "name": "橋樑_中和",
+      "lat": 24.9930915,
+      "lng": 121.5077236,
+      "source": "OFFICIAL",
+      "officialId": "point_new_19",
+      "updatedAt": 1780973500014
+    },
+    {
+      "id": "point_new_20",
+      "folderId": "folder_pure",
+      "name": "橋樑_長崎女神大橋",
+      "lat": 32.721391,
+      "lng": 129.849544,
+      "source": "OFFICIAL",
+      "officialId": "point_new_20",
+      "updatedAt": 1780973500015
     }
   ]
 }
