@@ -6,7 +6,7 @@
   "routesEnabled": true,
   "routesUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_routes.json",
   "nominatimEnabled": true,
-  "joystickEnabled": false,
+  "joystickEnabled": true,
   "adminToolsEnabled": false,
   "minSupportedVersionCode": 1,
   "message": "謝謝皮友們, 目前測試公告中 "
