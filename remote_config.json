@@ -8,6 +8,8 @@
   "nominatimEnabled": true,
   "joystickEnabled": true,
   "adminToolsEnabled": false,
+  "trialEnabled": false,
+  "trialExpiresAt": "",
   "minSupportedVersionCode": 1,
   "message": "謝謝皮友們, 目前測試公告中 "
 }
