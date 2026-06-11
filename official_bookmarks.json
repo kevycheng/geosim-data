@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1780975500000,
+  "updatedAt": 1781149961159,
   "folders": [
     {
       "id": "folder_nintendo_tw",
-      "name": "任天堂店",
+      "name": "任天堂官方店金盆",
       "source": "OFFICIAL",
-      "updatedAt": 1780717712990
+      "updatedAt": 1781149938368
     },
     {
       "id": "folder_pure",
@@ -37,7 +37,7 @@
       "lng": 121.5311171,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_01",
-      "updatedAt": 1780717712990
+      "updatedAt": 1781149938368
     },
     {
       "id": "nintendo_tw_02",
@@ -47,7 +47,7 @@
       "lng": 121.5142178,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_02",
-      "updatedAt": 1780717712990
+      "updatedAt": 1781149938368
     },
     {
       "id": "nintendo_tw_03",
@@ -57,7 +57,7 @@
       "lng": 121.5672959,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_03",
-      "updatedAt": 1780717712990
+      "updatedAt": 1781149938368
     },
     {
       "id": "nintendo_tw_04",
@@ -67,7 +67,7 @@
       "lng": 121.6177854,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_04",
-      "updatedAt": 1780717712990
+      "updatedAt": 1781149938368
     },
     {
       "id": "nintendo_tw_05",
@@ -77,7 +77,7 @@
       "lng": 120.692229,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_05",
-      "updatedAt": 1780717712990
+      "updatedAt": 1781149938368
     },
     {
       "id": "nintendo_tw_06",
@@ -87,7 +87,7 @@
       "lng": 120.2329482,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_06",
-      "updatedAt": 1780717712990
+      "updatedAt": 1781149938368
     },
     {
       "id": "nintendo_tw_07",
@@ -97,7 +97,7 @@
       "lng": 120.3027073,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_07",
-      "updatedAt": 1780717712990
+      "updatedAt": 1781149938368
     },
     {
       "id": "nintendo_tw_08",
@@ -107,7 +107,7 @@
       "lng": 120.3074215,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_08",
-      "updatedAt": 1780717712990
+      "updatedAt": 1781149938368
     },
     {
       "id": "point_new_2",
