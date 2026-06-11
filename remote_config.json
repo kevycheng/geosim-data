@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-06-11",
+  "firmwareVersion": "fw-20260611-211126-7abe3c",
   "bookmarksEnabled": true,
   "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.json",
   "routesEnabled": true,
@@ -9,7 +10,7 @@
   "joystickEnabled": true,
   "adminToolsEnabled": false,
   "trialEnabled": true,
-  "trialExpiresAt": "2026-06-12",
+  "trialExpiresAt": "2026-06-14",
   "minSupportedVersionCode": 1,
   "message": ""
 }
