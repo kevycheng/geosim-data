@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1781149961159,
+  "updatedAt": 1781256000000,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -188,16 +188,6 @@
       "source": "OFFICIAL",
       "officialId": "point_new_12",
       "updatedAt": 1780973500007
-    },
-    {
-      "id": "point_new_15",
-      "folderId": "folder_pure",
-      "name": "漢堡_京都(2點)",
-      "lat": 34.933295,
-      "lng": 135.790022,
-      "source": "OFFICIAL",
-      "officialId": "point_new_15",
-      "updatedAt": 1780974649058
     },
     {
       "id": "point_new_19",
@@ -618,6 +608,66 @@
       "source": "OFFICIAL",
       "officialId": "media_collect_31",
       "updatedAt": 1780975500031
+    },
+    {
+      "id": "point_new_21",
+      "folderId": "folder_pure",
+      "name": "文具_台中南屯",
+      "lat": 24.13309,
+      "lng": 120.65652,
+      "source": "OFFICIAL",
+      "officialId": "point_new_21",
+      "updatedAt": 1781255800001
+    },
+    {
+      "id": "point_new_22",
+      "folderId": "folder_pure",
+      "name": "文具_台南",
+      "lat": 22.988212,
+      "lng": 120.22657,
+      "source": "OFFICIAL",
+      "officialId": "point_new_22",
+      "updatedAt": 1781255800002
+    },
+    {
+      "id": "point_new_23",
+      "folderId": "folder_pure",
+      "name": "文具_桃園",
+      "lat": 24.990921,
+      "lng": 121.319904,
+      "source": "OFFICIAL",
+      "officialId": "point_new_23",
+      "updatedAt": 1781255800003
+    },
+    {
+      "id": "point_new_24",
+      "folderId": "folder_pure",
+      "name": "森林",
+      "lat": 25.0391138,
+      "lng": 121.5391674,
+      "source": "OFFICIAL",
+      "officialId": "point_new_24",
+      "updatedAt": 1781256000001
+    },
+    {
+      "id": "point_new_25",
+      "folderId": "folder_pure",
+      "name": "咖啡杯",
+      "lat": 25.0399841,
+      "lng": 121.538918,
+      "source": "OFFICIAL",
+      "officialId": "point_new_25",
+      "updatedAt": 1781256000002
+    },
+    {
+      "id": "point_new_26",
+      "folderId": "folder_pure",
+      "name": "雨天葉子帽",
+      "lat": -46.2595857658,
+      "lng": -73.8084976003,
+      "source": "OFFICIAL",
+      "officialId": "point_new_26",
+      "updatedAt": 1781256000003
     }
   ]
 }
