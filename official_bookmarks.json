@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1781447522398,
+  "updatedAt": 1781447731103,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -694,6 +694,16 @@
       "source": "OFFICIAL",
       "officialId": "point_20260614143202",
       "updatedAt": 1781447538659
+    },
+    {
+      "id": "point_20260614143531",
+      "folderId": "folder_20260614143045",
+      "name": "嘉義市立棒球場",
+      "lat": 23.4816471,
+      "lng": 120.4650697,
+      "source": "OFFICIAL",
+      "officialId": "point_20260614143531",
+      "updatedAt": 1781447738967
     }
   ]
 }
