@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1781256000000,
+  "updatedAt": 1781447522398,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -26,6 +26,12 @@
       "name": "美片收集",
       "source": "OFFICIAL",
       "updatedAt": 1780975500000
+    },
+    {
+      "id": "folder_20260614143045",
+      "name": "嘉義金盆",
+      "source": "OFFICIAL",
+      "updatedAt": 1781447456669
     }
   ],
   "bookmarks": [
@@ -668,6 +674,26 @@
       "source": "OFFICIAL",
       "officialId": "point_new_26",
       "updatedAt": 1781256000003
+    },
+    {
+      "id": "point_20260614143100",
+      "folderId": "folder_20260614143045",
+      "name": "嘉義市立美術館",
+      "lat": 23.476942,
+      "lng": 120.4406666,
+      "source": "OFFICIAL",
+      "officialId": "point_20260614143100",
+      "updatedAt": 1781447506214
+    },
+    {
+      "id": "point_20260614143202",
+      "folderId": "folder_20260614143045",
+      "name": "嘉義文化創意產業園區",
+      "lat": 23.4771902,
+      "lng": 120.4400848,
+      "source": "OFFICIAL",
+      "officialId": "point_20260614143202",
+      "updatedAt": 1781447538659
     }
   ]
 }
