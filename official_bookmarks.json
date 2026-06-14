@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1781447731103,
+  "updatedAt": 1781447985620,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -704,6 +704,16 @@
       "source": "OFFICIAL",
       "officialId": "point_20260614143531",
       "updatedAt": 1781447738967
+    },
+    {
+      "id": "point_20260614143945",
+      "folderId": "folder_20260614143045",
+      "name": "嘉義文化公園",
+      "lat": 23.4755571,
+      "lng": 120.4506842,
+      "source": "OFFICIAL",
+      "officialId": "point_20260614143945",
+      "updatedAt": 1781447992891
     }
   ]
 }

@@ -12,7 +12,7 @@
     {
       "id": "taipei_xinyi_walk_001",
       "folderId": "taipei",
-      "name": "GUI_SAVE_TEST",
+      "name": "信義區步行短線",
       "description": "低速步行測試，適合確認 GPX 匯入與路徑移動。",
       "gpxUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/gpx/taipei_xinyi_walk_001.gpx",
       "defaultSpeedKmh": 5,
