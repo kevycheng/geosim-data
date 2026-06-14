@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Gemini" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>Flower Track</name>
+    <trkseg>
+      <trkpt lat="21.1449925" lon="79.09907199999998"><ele>0</ele></trkpt>
+      <trkpt lat="21.1446934" lon="79.09850699999993"><ele>0</ele></trkpt>
+      <trkpt lat="21.1450197" lon="79.09816969999997"><ele>0</ele></trkpt>
+      <trkpt lat="21.1450105" lon="79.09757400000001"><ele>0</ele></trkpt>
+      <trkpt lat="21.1442983" lon="79.09652170000004"><ele>0</ele></trkpt>
+      <trkpt lat="21.1438492" lon="79.09652449999999"><ele>0</ele></trkpt>
+      <trkpt lat="21.1433902" lon="79.09595300000001"><ele>0</ele></trkpt>
+      <trkpt lat="21.1431726" lon="79.09543069999995"><ele>0</ele></trkpt>
+      <trkpt lat="21.1429519" lon="79.09548159999997"><ele>0</ele></trkpt>
+      <trkpt lat="21.1422963" lon="79.0957492"><ele>0</ele></trkpt>
+      <trkpt lat="21.1421648" lon="79.0956807"><ele>0</ele></trkpt>
+      <trkpt lat="21.1417287" lon="79.09599300000002"><ele>0</ele></trkpt>
+      <trkpt lat="21.1416641" lon="79.09616699999992"><ele>0</ele></trkpt>
+      <trkpt lat="21.1411678" lon="79.09705839999992"><ele>0</ele></trkpt>
+      <trkpt lat="21.1409737" lon="79.09788890000004"><ele>0</ele></trkpt>
+      <trkpt lat="21.1413494" lon="79.09832959999994"><ele>0</ele></trkpt>
+      <trkpt lat="21.141308" lon="79.09971510000003"><ele>0</ele></trkpt>
+      <trkpt lat="21.1420866" lon="79.10007070000006"><ele>0</ele></trkpt>
+      <trkpt lat="21.142393" lon="79.09936979999998"><ele>0</ele></trkpt>
+      <trkpt lat="21.1418554" lon="79.09888239999998"><ele>0</ele></trkpt>
+      <trkpt lat="21.1419976" lon="79.09830409999995"><ele>0</ele></trkpt>
+      <trkpt lat="21.1422963" lon="79.09771219999993"><ele>0</ele></trkpt>
+      <trkpt lat="21.1420348" lon="79.09753920000003"><ele>0</ele></trkpt>
+      <trkpt lat="21.1419768" lon="79.09679949999997"><ele>0</ele></trkpt>
+      <trkpt lat="21.1419778" lon="79.09678129999998"><ele>0</ele></trkpt>
+      <trkpt lat="21.1419768" lon="79.09679949999997"><ele>0</ele></trkpt>
+      <trkpt lat="21.1420348" lon="79.09753920000003"><ele>0</ele></trkpt>
+      <trkpt lat="21.1425955" lon="79.09767110000007"><ele>0</ele></trkpt>
+      <trkpt lat="21.1430537" lon="79.09717049999995"><ele>0</ele></trkpt>
+      <trkpt lat="21.1432843" lon="79.09789339999998"><ele>0</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

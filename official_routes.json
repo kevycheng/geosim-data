@@ -26,6 +26,15 @@
       "gpxUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/gpx/taipei_101.gpx",
       "defaultSpeedKmh": 5,
       "updatedAt": 1780720000000
+    },
+    {
+      "id": "route_1781444923137",
+      "folderId": "taipei",
+      "name": "flower路線",
+      "description": "",
+      "gpxUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/gpx/flower.gpx",
+      "defaultSpeedKmh": 18,
+      "updatedAt": 1781444923137
     }
   ]
 }
