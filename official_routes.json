@@ -26,15 +26,6 @@
       "gpxUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/gpx/taipei_101.gpx",
       "defaultSpeedKmh": 5,
       "updatedAt": 1780720000000
-    },
-    {
-      "id": "route_1781494193916_20260615032953",
-      "folderId": "taipei",
-      "name": "不知道誰的種花",
-      "description": "",
-      "gpxUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/gpx/route_1781494193916_20260615-112953.gpx",
-      "defaultSpeedKmh": 5,
-      "updatedAt": 1781494193923
     }
   ]
 }
