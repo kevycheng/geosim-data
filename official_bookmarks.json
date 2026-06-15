@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1781447985620,
+  "updatedAt": 1781496390563,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -714,6 +714,16 @@
       "source": "OFFICIAL",
       "officialId": "point_20260614143945",
       "updatedAt": 1781447992891
+    },
+    {
+      "id": "point_20260615040630",
+      "folderId": "folder_media_collect",
+      "name": "韓國雷神之槌菇",
+      "lat": 37.2469908,
+      "lng": 126.8690505,
+      "source": "OFFICIAL",
+      "officialId": "point_20260615040630",
+      "updatedAt": 1781496403409
     }
   ]
 }
