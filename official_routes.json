@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "GEOSIM",
-  "updatedAt": 1780720000000,
+  "updatedAt": 1781494193923,
   "folders": [
     {
       "id": "taipei",
@@ -28,13 +28,13 @@
       "updatedAt": 1780720000000
     },
     {
-      "id": "route_1781444923137",
+      "id": "route_1781494193916_20260615032953",
       "folderId": "taipei",
-      "name": "flower路線",
+      "name": "不知道誰的種花",
       "description": "",
-      "gpxUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/gpx/flower.gpx",
-      "defaultSpeedKmh": 18,
-      "updatedAt": 1781444923137
+      "gpxUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/gpx/route_1781494193916_20260615-112953.gpx",
+      "defaultSpeedKmh": 5,
+      "updatedAt": 1781494193923
     }
   ]
 }

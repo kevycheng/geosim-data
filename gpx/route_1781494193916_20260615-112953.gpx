@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GeoSim Data Manager" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>不知道誰的種花</name>
+    <trkseg>
+      <trkpt lat="-37.8046189" lon="175.30324671"></trkpt>
+      <trkpt lat="-37.80406789" lon="175.30340092"></trkpt>
+      <trkpt lat="-37.80433512" lon="175.30432569"></trkpt>
+      <trkpt lat="-37.80438238" lon="175.30442162"></trkpt>
+      <trkpt lat="-37.80451735" lon="175.30440094"></trkpt>
+      <trkpt lat="-37.80613314" lon="175.30458284"></trkpt>
+      <trkpt lat="-37.80661856" lon="175.30472887"></trkpt>
+      <trkpt lat="-37.80698397" lon="175.30360117"></trkpt>
+      <trkpt lat="-37.80694706" lon="175.30356045"></trkpt>
+      <trkpt lat="-37.80638558" lon="175.30288972"></trkpt>
+      <trkpt lat="-37.80670144" lon="175.30169149"></trkpt>
+      <trkpt lat="-37.80674356" lon="175.30089389"></trkpt>
+      <trkpt lat="-37.80586127" lon="175.30102116"></trkpt>
+      <trkpt lat="-37.80572988" lon="175.30093504"></trkpt>
+      <trkpt lat="-37.80538387" lon="175.30101237"></trkpt>
+      <trkpt lat="-37.80456255" lon="175.30121519"></trkpt>
+      <trkpt lat="-37.80366257" lon="175.30101459"></trkpt>
+      <trkpt lat="-37.80509881" lon="175.29964198"></trkpt>
+      <trkpt lat="-37.80589582" lon="175.29896106"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
