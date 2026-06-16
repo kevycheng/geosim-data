@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1781496390563,
+  "updatedAt": 1781594958330,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -32,6 +32,12 @@
       "name": "嘉義金盆",
       "source": "OFFICIAL",
       "updatedAt": 1781447456669
+    },
+    {
+      "id": "folder_20260616072627",
+      "name": "其它收集",
+      "source": "OFFICIAL",
+      "updatedAt": 1781594794835
     }
   ],
   "bookmarks": [
@@ -544,6 +550,56 @@
       "source": "OFFICIAL",
       "officialId": "point_20260615040630",
       "updatedAt": 1781496403409
+    },
+    {
+      "id": "point_20260616072648",
+      "folderId": "folder_20260616072627",
+      "name": "南投竹山公園",
+      "lat": 23.75773,
+      "lng": 120.67062,
+      "source": "OFFICIAL",
+      "officialId": "point_20260616072648",
+      "updatedAt": 1781594854351
+    },
+    {
+      "id": "point_20260616072748",
+      "folderId": "folder_20260616072627",
+      "name": "小品雅集",
+      "lat": 25.03139,
+      "lng": 121.54118,
+      "source": "OFFICIAL",
+      "officialId": "point_20260616072748",
+      "updatedAt": 1781594892495
+    },
+    {
+      "id": "point_20260616072817",
+      "folderId": "folder_20260616072627",
+      "name": "台北大巨蛋",
+      "lat": 25.04251,
+      "lng": 121.56,
+      "source": "OFFICIAL",
+      "officialId": "point_20260616072817",
+      "updatedAt": 1781594919272
+    },
+    {
+      "id": "point_20260616072844",
+      "folderId": "folder_20260616072627",
+      "name": "蒙奇奇菇點",
+      "lat": 35.72516,
+      "lng": 139.84378,
+      "source": "OFFICIAL",
+      "officialId": "point_20260616072844",
+      "updatedAt": 1781594953686
+    },
+    {
+      "id": "point_20260616072918",
+      "folderId": "folder_20260616072627",
+      "name": "衝浪美菇",
+      "lat": 12.10054,
+      "lng": 109.19441,
+      "source": "OFFICIAL",
+      "officialId": "point_20260616072918",
+      "updatedAt": 1781594980676
     }
   ]
 }

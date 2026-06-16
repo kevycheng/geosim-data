@@ -8,6 +8,7 @@
   "routesUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_routes.json",
   "nominatimEnabled": true,
   "joystickEnabled": true,
+  "healthConnectEnabled": true,
   "adminToolsEnabled": false,
   "trialEnabled": false,
   "trialExpiresAt": "2026-06-14",
