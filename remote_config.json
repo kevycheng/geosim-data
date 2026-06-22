@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-14",
-  "firmwareVersion": "fw-20260614-222904-5b85cf",
+  "updatedAt": "2026-06-22",
+  "firmwareVersion": "fw-20260622-101423-1ac2d6",
   "bookmarksEnabled": true,
   "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.json",
   "routesEnabled": true,
@@ -13,5 +13,5 @@
   "trialEnabled": false,
   "trialExpiresAt": "2026-06-14",
   "minSupportedVersionCode": 1,
-  "message": "遠端測試v2"
+  "message": "六月預覽版發佈 "
 }
