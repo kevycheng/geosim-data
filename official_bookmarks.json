@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1781594958330,
+  "updatedAt": 1782094080817,
   "folders": [
     {
       "id": "folder_nintendo_tw",
-      "name": "任天堂官方店金盆",
+      "name": "[金盆] 任天堂官方店",
       "source": "OFFICIAL",
-      "updatedAt": 1781149938368
+      "updatedAt": 1782094203684
     },
     {
       "id": "folder_pure",
@@ -17,21 +17,15 @@
     },
     {
       "id": "folder_seattle_gold",
-      "name": "西雅圖金盆",
+      "name": "[金盆] 西雅圖",
       "source": "OFFICIAL",
-      "updatedAt": 1780975030800
+      "updatedAt": 1782094214753
     },
     {
       "id": "folder_media_collect",
       "name": "美片收集",
       "source": "OFFICIAL",
       "updatedAt": 1780975500000
-    },
-    {
-      "id": "folder_20260614143045",
-      "name": "嘉義金盆",
-      "source": "OFFICIAL",
-      "updatedAt": 1781447456669
     },
     {
       "id": "folder_20260616072627",
@@ -142,16 +136,6 @@
       "updatedAt": 1780974738457
     },
     {
-      "id": "point_new_6",
-      "folderId": "folder_pure",
-      "name": "大學_麻省理工學院",
-      "lat": 42.36046093992396,
-      "lng": -71.09296779444408,
-      "source": "OFFICIAL",
-      "officialId": "point_new_6",
-      "updatedAt": 1780973500001
-    },
-    {
       "id": "point_new_7",
       "folderId": "folder_pure",
       "name": "大學_台灣大學",
@@ -160,16 +144,6 @@
       "source": "OFFICIAL",
       "officialId": "point_new_7",
       "updatedAt": 1780973500002
-    },
-    {
-      "id": "point_new_8",
-      "folderId": "folder_pure",
-      "name": "神社_沖繩縣金武觀音寺",
-      "lat": 26.455017281581885,
-      "lng": 127.92145532488927,
-      "source": "OFFICIAL",
-      "officialId": "point_new_8",
-      "updatedAt": 1780973500003
     },
     {
       "id": "point_new_9",
@@ -442,36 +416,6 @@
       "updatedAt": 1780975500031
     },
     {
-      "id": "point_new_21",
-      "folderId": "folder_pure",
-      "name": "文具_台中南屯",
-      "lat": 24.13309,
-      "lng": 120.65652,
-      "source": "OFFICIAL",
-      "officialId": "point_new_21",
-      "updatedAt": 1781255800001
-    },
-    {
-      "id": "point_new_22",
-      "folderId": "folder_pure",
-      "name": "文具_台南",
-      "lat": 22.988212,
-      "lng": 120.22657,
-      "source": "OFFICIAL",
-      "officialId": "point_new_22",
-      "updatedAt": 1781255800002
-    },
-    {
-      "id": "point_new_23",
-      "folderId": "folder_pure",
-      "name": "文具_桃園",
-      "lat": 24.990921,
-      "lng": 121.319904,
-      "source": "OFFICIAL",
-      "officialId": "point_new_23",
-      "updatedAt": 1781255800003
-    },
-    {
       "id": "point_new_24",
       "folderId": "folder_pure",
       "name": "森林",
@@ -503,7 +447,6 @@
     },
     {
       "id": "point_20260614143100",
-      "folderId": "folder_20260614143045",
       "name": "嘉義市立美術館",
       "lat": 23.476942,
       "lng": 120.4406666,
@@ -513,7 +456,6 @@
     },
     {
       "id": "point_20260614143202",
-      "folderId": "folder_20260614143045",
       "name": "嘉義文化創意產業園區",
       "lat": 23.4771902,
       "lng": 120.4400848,
@@ -523,7 +465,6 @@
     },
     {
       "id": "point_20260614143531",
-      "folderId": "folder_20260614143045",
       "name": "嘉義市立棒球場",
       "lat": 23.4816471,
       "lng": 120.4650697,
@@ -533,7 +474,6 @@
     },
     {
       "id": "point_20260614143945",
-      "folderId": "folder_20260614143045",
       "name": "嘉義文化公園",
       "lat": 23.4755571,
       "lng": 120.4506842,
@@ -554,42 +494,32 @@
     {
       "id": "point_20260616072648",
       "folderId": "folder_20260616072627",
-      "name": "南投竹山公園",
+      "name": "南投竹山公園_多菇",
       "lat": 23.75773,
       "lng": 120.67062,
       "source": "OFFICIAL",
       "officialId": "point_20260616072648",
-      "updatedAt": 1781594854351
-    },
-    {
-      "id": "point_20260616072748",
-      "folderId": "folder_20260616072627",
-      "name": "小品雅集",
-      "lat": 25.03139,
-      "lng": 121.54118,
-      "source": "OFFICIAL",
-      "officialId": "point_20260616072748",
-      "updatedAt": 1781594892495
+      "updatedAt": 1782094250925
     },
     {
       "id": "point_20260616072817",
       "folderId": "folder_20260616072627",
-      "name": "台北大巨蛋",
+      "name": "台北大巨蛋_體育場+爆米花",
       "lat": 25.04251,
       "lng": 121.56,
       "source": "OFFICIAL",
       "officialId": "point_20260616072817",
-      "updatedAt": 1781594919272
+      "updatedAt": 1782094243257
     },
     {
       "id": "point_20260616072844",
       "folderId": "folder_20260616072627",
-      "name": "蒙奇奇菇點",
+      "name": "日本_蒙奇奇菇點",
       "lat": 35.72516,
       "lng": 139.84378,
       "source": "OFFICIAL",
       "officialId": "point_20260616072844",
-      "updatedAt": 1781594953686
+      "updatedAt": 1782094258021
     },
     {
       "id": "point_20260616072918",
@@ -600,6 +530,16 @@
       "source": "OFFICIAL",
       "officialId": "point_20260616072918",
       "updatedAt": 1781594980676
+    },
+    {
+      "id": "point_20260622020800",
+      "folderId": "folder_pure",
+      "name": "文具_台北(小品雅集)",
+      "lat": 25.03139,
+      "lng": 121.54118,
+      "source": "OFFICIAL",
+      "officialId": "point_20260622020800",
+      "updatedAt": 1782094124366
     }
   ]
 }
