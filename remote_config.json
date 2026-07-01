@@ -12,6 +12,25 @@
   "adminToolsEnabled": false,
   "trialEnabled": false,
   "trialExpiresAt": "2026-06-14",
+  "freeTier": {
+    "enabled": false,
+    "dailyPointMockLimit": 20,
+    "dailyRouteMoveMinutesLimit": 40,
+    "dailySimulatedStepLimit": 10000,
+    "dailyPasteRouteLimit": null,
+    "maxPasteRoutePoints": 20,
+    "features": {
+      "singlePoint": true,
+      "routeMode": true,
+      "stepSimulation": true,
+      "pasteRoute": true,
+      "featuredContent": true,
+      "bookmarks": true,
+      "joystick": false,
+      "gpxImport": false,
+      "gpxExport": false
+    }
+  },
   "minSupportedVersionCode": 1,
   "message": "六月預覽版發佈 "
 }

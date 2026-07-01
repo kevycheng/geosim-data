@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1782094080817,
+  "updatedAt": 1782868091107,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -32,6 +32,12 @@
       "name": "其它收集",
       "source": "OFFICIAL",
       "updatedAt": 1781594794835
+    },
+    {
+      "id": "folder_20260701010731",
+      "name": "[Pikmin] 當月重要點位",
+      "source": "OFFICIAL",
+      "updatedAt": 1782868154136
     }
   ],
   "bookmarks": [
@@ -540,6 +546,16 @@
       "source": "OFFICIAL",
       "officialId": "point_20260622020800",
       "updatedAt": 1782094124366
+    },
+    {
+      "id": "point_20260701010811",
+      "folderId": "folder_20260701010731",
+      "name": "Xpark 金盆",
+      "lat": 25.017257,
+      "lng": 121.214242,
+      "source": "OFFICIAL",
+      "officialId": "point_20260701010811",
+      "updatedAt": 1782868124271
     }
   ]
 }
