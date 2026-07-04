@@ -558,74 +558,84 @@
       "updatedAt": 1782868124271
     },
     {
-  "id": "point_20260704093801",
-  "folderId": "folder_20260701010731",
-  "name": "柯布連道",
-  "lat": 22.2773,
-  "lng": 114.1728,
-  "source": "OFFICIAL",
-  "officialId": "point_20260704093801",
-  "updatedAt": 1783129064470
-},
-{
-  "id": "point_20260704093802",
-  "folderId": "folder_20260701010731",
-  "name": "菲林明道",
-  "lat": 22.2777,
-  "lng": 114.1739,
-  "source": "OFFICIAL",
-  "officialId": "point_20260704093802",
-  "updatedAt": 1783129064471
-},
-{
-  "id": "point_20260704093803",
-  "folderId": "folder_20260701010731",
-  "name": "杜老誌道",
-  "lat": 22.2785,
-  "lng": 114.1772,
-  "source": "OFFICIAL",
-  "officialId": "point_20260704093803",
-  "updatedAt": 1783129064472
-},
-{
-  "id": "point_20260704093804",
-  "folderId": "folder_20260701010731",
-  "name": "堅拿道西",
-  "lat": 22.2795,
-  "lng": 114.1813,
-  "source": "OFFICIAL",
-  "officialId": "point_20260704093804",
-  "updatedAt": 1783129064473
-},
-{
-  "id": "point_20260704093805",
-  "folderId": "folder_20260701010731",
-  "name": "波斯富街",
-  "lat": 22.2804,
-  "lng": 114.1848,
-  "source": "OFFICIAL",
-  "officialId": "point_20260704093805",
-  "updatedAt": 1783129064474
-},
-{
-  "id": "point_20260704093806",
-  "folderId": "folder_20260701010731",
-  "name": "百德新街",
-  "lat": 22.2808,
-  "lng": 114.1866,
-  "source": "OFFICIAL",
-  "officialId": "point_20260704093806",
-  "updatedAt": 1783129064475
-},
-{
-  "id": "point_20260704093807",
-  "folderId": "folder_20260701010731",
-  "name": "富明街",
-  "lat": 22.2799,
-  "lng": 114.186,
-  "source": "OFFICIAL",
-  "officialId": "point_20260704093807",
-  "updatedAt": 1783129064476
-}
-]
+      "id": "point_20260704093744",
+      "folderId": "folder_20260701010731",
+      "name": "Japan Expo 2026",
+      "lat": 48.972331,
+      "lng": 2.51798,
+      "source": "OFFICIAL",
+      "officialId": "point_20260704093744",
+      "updatedAt": 1783129064469
+    },
+    {
+      "id": "point_20260704093801",
+      "folderId": "folder_20260701010731",
+      "name": "柯布連道",
+      "lat": 22.2773,
+      "lng": 114.1728,
+      "source": "OFFICIAL",
+      "officialId": "point_20260704093801",
+      "updatedAt": 1783129064470
+    },
+    {
+      "id": "point_20260704093802",
+      "folderId": "folder_20260701010731",
+      "name": "菲林明道",
+      "lat": 22.2777,
+      "lng": 114.1739,
+      "source": "OFFICIAL",
+      "officialId": "point_20260704093802",
+      "updatedAt": 1783129064471
+    },
+    {
+      "id": "point_20260704093803",
+      "folderId": "folder_20260701010731",
+      "name": "杜老誌道",
+      "lat": 22.2785,
+      "lng": 114.1772,
+      "source": "OFFICIAL",
+      "officialId": "point_20260704093803",
+      "updatedAt": 1783129064472
+    },
+    {
+      "id": "point_20260704093804",
+      "folderId": "folder_20260701010731",
+      "name": "堅拿道西",
+      "lat": 22.2795,
+      "lng": 114.1813,
+      "source": "OFFICIAL",
+      "officialId": "point_20260704093804",
+      "updatedAt": 1783129064473
+    },
+    {
+      "id": "point_20260704093805",
+      "folderId": "folder_20260701010731",
+      "name": "波斯富街",
+      "lat": 22.2804,
+      "lng": 114.1848,
+      "source": "OFFICIAL",
+      "officialId": "point_20260704093805",
+      "updatedAt": 1783129064474
+    },
+    {
+      "id": "point_20260704093806",
+      "folderId": "folder_20260701010731",
+      "name": "百德新街",
+      "lat": 22.2808,
+      "lng": 114.1866,
+      "source": "OFFICIAL",
+      "officialId": "point_20260704093806",
+      "updatedAt": 1783129064475
+    },
+    {
+      "id": "point_20260704093807",
+      "folderId": "folder_20260701010731",
+      "name": "富明街",
+      "lat": 22.2799,
+      "lng": 114.186,
+      "source": "OFFICIAL",
+      "officialId": "point_20260704093807",
+      "updatedAt": 1783129064476
+    }
+  ]
 }
