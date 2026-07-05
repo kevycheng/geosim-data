@@ -568,11 +568,21 @@
       "updatedAt": 1783129064469
     },
     {
+      "id": "point_20260705140001",
+      "folderId": "folder_20260701010731",
+      "name": "任天堂",
+      "lat": 22.2751827,
+      "lng": 114.1701034,
+      "source": "OFFICIAL",
+      "officialId": "point_20260705140001",
+      "updatedAt": 1783227600000
+    },
+    {
       "id": "point_20260704093801",
       "folderId": "folder_20260701010731",
       "name": "柯布連道",
-      "lat": 22.2773,
-      "lng": 114.1728,
+      "lat": 22.276505,
+      "lng": 114.173152,
       "source": "OFFICIAL",
       "officialId": "point_20260704093801",
       "updatedAt": 1783129064470
@@ -581,8 +591,8 @@
       "id": "point_20260704093802",
       "folderId": "folder_20260701010731",
       "name": "菲林明道",
-      "lat": 22.2777,
-      "lng": 114.1739,
+      "lat": 22.277193,
+      "lng": 114.1753,
       "source": "OFFICIAL",
       "officialId": "point_20260704093802",
       "updatedAt": 1783129064471
@@ -591,8 +601,8 @@
       "id": "point_20260704093803",
       "folderId": "folder_20260701010731",
       "name": "杜老誌道",
-      "lat": 22.2785,
-      "lng": 114.1772,
+      "lat": 22.278265,
+      "lng": 114.177794,
       "source": "OFFICIAL",
       "officialId": "point_20260704093803",
       "updatedAt": 1783129064472
@@ -601,8 +611,8 @@
       "id": "point_20260704093804",
       "folderId": "folder_20260701010731",
       "name": "堅拿道西",
-      "lat": 22.2795,
-      "lng": 114.1813,
+      "lat": 22.279378,
+      "lng": 114.180968,
       "source": "OFFICIAL",
       "officialId": "point_20260704093804",
       "updatedAt": 1783129064473
@@ -611,8 +621,8 @@
       "id": "point_20260704093805",
       "folderId": "folder_20260701010731",
       "name": "波斯富街",
-      "lat": 22.2804,
-      "lng": 114.1848,
+      "lat": 22.280016,
+      "lng": 114.1834,
       "source": "OFFICIAL",
       "officialId": "point_20260704093805",
       "updatedAt": 1783129064474
@@ -621,8 +631,8 @@
       "id": "point_20260704093806",
       "folderId": "folder_20260701010731",
       "name": "百德新街",
-      "lat": 22.2808,
-      "lng": 114.1866,
+      "lat": 22.279762,
+      "lng": 114.185654,
       "source": "OFFICIAL",
       "officialId": "point_20260704093806",
       "updatedAt": 1783129064475
@@ -631,8 +641,8 @@
       "id": "point_20260704093807",
       "folderId": "folder_20260701010731",
       "name": "富明街",
-      "lat": 22.2799,
-      "lng": 114.186,
+      "lat": 22.279431,
+      "lng": 114.182962,
       "source": "OFFICIAL",
       "officialId": "point_20260704093807",
       "updatedAt": 1783129064476
