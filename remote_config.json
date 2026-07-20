@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-22",
-  "firmwareVersion": "fw-20260622-101423-1ac2d6",
+  "updatedAt": "2026-07-20",
+  "firmwareVersion": "fw-20260720-1",
   "bookmarksEnabled": true,
   "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.json",
   "routesEnabled": true,
@@ -9,29 +9,11 @@
   "nominatimEnabled": true,
   "joystickEnabled": true,
   "healthConnectEnabled": true,
-  "adminToolsEnabled": false,
-  "trialEnabled": false,
-  "trialExpiresAt": "2026-06-14",
+  "advancedFeaturesEnabled": true,
+  "minSupportedVersionCode": 1,
+  "message": "7月預覽版發佈",
   "freeTier": {
     "enabled": false,
-    "dailyPointMockLimit": 20,
-    "dailyRouteMoveMinutesLimit": 40,
-    "dailySimulatedStepLimit": 10000,
-    "dailyPasteRouteLimit": null,
-    "maxPasteRoutePoints": 20,
-    "features": {
-      "singlePoint": true,
-      "routeMode": true,
-      "stepSimulation": true,
-      "pasteRoute": true,
-      "featuredContent": true,
-      "bookmarks": true,
-      "joystick": false,
-      "gpxImport": false,
-      "gpxExport": false
-    }
-  },
-  "minSupportedVersionCode": 1,
-  "message": "7月預覽版發佈 ",
-  "advancedFeaturesEnabled": true
+    "dailyActiveMinutesLimit": 90
+  }
 }
