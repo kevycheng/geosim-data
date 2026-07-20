@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-07-20",
-  "firmwareVersion": "fw-20260720-1",
+  "firmwareVersion": "fw-20260720-2",
   "bookmarksEnabled": true,
   "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.json",
   "routesEnabled": true,
@@ -11,7 +11,8 @@
   "healthConnectEnabled": true,
   "advancedFeaturesEnabled": true,
   "minSupportedVersionCode": 1,
-  "message": "7月預覽版發佈",
+  "messageTitle": "GeoSim 公告",
+  "message": "7月預覽版發佈, 新增繞圈測試與快速加書籤。",
   "freeTier": {
     "enabled": false,
     "dailyActiveMinutesLimit": 90
