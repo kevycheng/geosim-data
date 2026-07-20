@@ -8,7 +8,7 @@
   "routesUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_routes.json",
   "nominatimEnabled": true,
   "joystickEnabled": true,
-  "healthConnectEnabled": true,
+  "healthConnectEnabled": false,
   "advancedFeaturesEnabled": true,
   "minSupportedVersionCode": 1,
   "messageTitle": "GeoSim 公告",
