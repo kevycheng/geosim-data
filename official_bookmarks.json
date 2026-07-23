@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1784820840000,
+  "updatedAt": 1784850765000,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -25,7 +25,7 @@
       "id": "folder_media_collect",
       "name": "[Pikmin]美片收集",
       "source": "OFFICIAL",
-      "updatedAt": 1784820840000
+      "updatedAt": 1784850765000
     },
     {
       "id": "folder_20260701010731",
@@ -640,6 +640,26 @@
       "source": "OFFICIAL",
       "officialId": "point_20260723225403",
       "updatedAt": 1784820840000
+    },
+    {
+      "id": "point_20260724075158",
+      "folderId": "folder_media_collect",
+      "name": "Victoria Beachcomber Resort",
+      "lat": -20.075991,
+      "lng": 57.513315,
+      "source": "OFFICIAL",
+      "officialId": "point_20260724075158",
+      "updatedAt": 1784850718000
+    },
+    {
+      "id": "point_20260724075245",
+      "folderId": "folder_media_collect",
+      "name": "Perttelin kirkko",
+      "lat": 60.446965,
+      "lng": 23.250156,
+      "source": "OFFICIAL",
+      "officialId": "point_20260724075245",
+      "updatedAt": 1784850765000
     }
   ]
 }
