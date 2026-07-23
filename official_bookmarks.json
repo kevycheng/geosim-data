@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1782868091107,
+  "updatedAt": 1784820840000,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -25,7 +25,7 @@
       "id": "folder_media_collect",
       "name": "[Pikmin]美片收集",
       "source": "OFFICIAL",
-      "updatedAt": 1780975500000
+      "updatedAt": 1784820840000
     },
     {
       "id": "folder_20260701010731",
@@ -610,6 +610,36 @@
       "source": "OFFICIAL",
       "officialId": "point_20260723120000",
       "updatedAt": 1784808000000
+    },
+    {
+      "id": "point_20260723225401",
+      "folderId": "folder_media_collect",
+      "name": "Schwangau, Bavaria, Germany",
+      "lat": 47.578766,
+      "lng": 10.749575,
+      "source": "OFFICIAL",
+      "officialId": "point_20260723225401",
+      "updatedAt": 1784820840000
+    },
+    {
+      "id": "point_20260723225402",
+      "folderId": "folder_media_collect",
+      "name": "Jaipur Municipal Corporation",
+      "lat": 26.988962,
+      "lng": 75.851014,
+      "source": "OFFICIAL",
+      "officialId": "point_20260723225402",
+      "updatedAt": 1784820840000
+    },
+    {
+      "id": "point_20260723225403",
+      "folderId": "folder_media_collect",
+      "name": "河合ふれあい広場",
+      "lat": 35.038266,
+      "lng": 137.166303,
+      "source": "OFFICIAL",
+      "officialId": "point_20260723225403",
+      "updatedAt": 1784820840000
     }
   ]
 }
