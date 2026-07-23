@@ -600,6 +600,16 @@
       "source": "OFFICIAL",
       "officialId": "point_20260704093807",
       "updatedAt": 1783129064476
+    },
+    {
+      "id": "point_20260723120000",
+      "folderId": "folder_20260701010731",
+      "name": "Gamer Con 2026 Nintendo",
+      "lat": 25.033452,
+      "lng": 121.561809,
+      "source": "OFFICIAL",
+      "officialId": "point_20260723120000",
+      "updatedAt": 1784808000000
     }
   ]
 }
