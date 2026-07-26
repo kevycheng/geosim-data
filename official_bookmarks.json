@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1784850765000,
+  "updatedAt": 1785069237000,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -32,6 +32,12 @@
       "name": "[Pikmin] 當月重要點位",
       "source": "OFFICIAL",
       "updatedAt": 1782868154136
+    },
+    {
+      "id": "folder_timezone",
+      "name": "[時區] 特殊國家",
+      "source": "OFFICIAL",
+      "updatedAt": 1785069237000
     }
   ],
   "bookmarks": [
@@ -660,6 +666,56 @@
       "source": "OFFICIAL",
       "officialId": "point_20260724075245",
       "updatedAt": 1784850765000
+    },
+    {
+      "id": "point_20260726203301",
+      "folderId": "folder_timezone",
+      "name": "美屬薩摩亞",
+      "lat": -14.295844,
+      "lng": -170.694194,
+      "source": "OFFICIAL",
+      "officialId": "point_20260726203301",
+      "updatedAt": 1785069237000
+    },
+    {
+      "id": "point_20260726203302",
+      "folderId": "folder_timezone",
+      "name": "庫克群島",
+      "lat": -21.235851,
+      "lng": -159.779139,
+      "source": "OFFICIAL",
+      "officialId": "point_20260726203302",
+      "updatedAt": 1785069237000
+    },
+    {
+      "id": "point_20260726203303",
+      "folderId": "folder_timezone",
+      "name": "大溪地",
+      "lat": -17.644674,
+      "lng": -149.49436,
+      "source": "OFFICIAL",
+      "officialId": "point_20260726203303",
+      "updatedAt": 1785069237000
+    },
+    {
+      "id": "point_20260726203304",
+      "folderId": "folder_timezone",
+      "name": "夏威夷州",
+      "lat": 21.537577,
+      "lng": -158.070787,
+      "source": "OFFICIAL",
+      "officialId": "point_20260726203304",
+      "updatedAt": 1785069237000
+    },
+    {
+      "id": "point_20260726203305",
+      "folderId": "folder_timezone",
+      "name": "阿拉斯加州",
+      "lat": 61.161264,
+      "lng": -149.707439,
+      "source": "OFFICIAL",
+      "officialId": "point_20260726203305",
+      "updatedAt": 1785069237000
     }
   ]
 }
