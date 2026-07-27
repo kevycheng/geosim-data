@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1785069237000,
+  "updatedAt": 1785135947000,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -38,6 +38,12 @@
       "name": "[時區] 特殊國家",
       "source": "OFFICIAL",
       "updatedAt": 1785069237000
+    },
+    {
+      "id": "folder_202608_special",
+      "name": "[Pikmin] 8月特殊地點",
+      "source": "OFFICIAL",
+      "updatedAt": 1785135947000
     }
   ],
   "bookmarks": [
@@ -716,6 +722,86 @@
       "source": "OFFICIAL",
       "officialId": "point_20260726203305",
       "updatedAt": 1785069237000
+    },
+    {
+      "id": "point_20260727150501",
+      "folderId": "folder_202608_special",
+      "name": "IKEA 新莊店",
+      "lat": 25.03765,
+      "lng": 121.46211,
+      "source": "OFFICIAL",
+      "officialId": "point_20260727150501",
+      "updatedAt": 1785135947000
+    },
+    {
+      "id": "point_20260727150502",
+      "folderId": "folder_202608_special",
+      "name": "IKEA 新店店",
+      "lat": 24.97531,
+      "lng": 121.53027,
+      "source": "OFFICIAL",
+      "officialId": "point_20260727150502",
+      "updatedAt": 1785135947000
+    },
+    {
+      "id": "point_20260727150503",
+      "folderId": "folder_202608_special",
+      "name": "IKEA 內湖店",
+      "lat": 25.0617,
+      "lng": 121.57925,
+      "source": "OFFICIAL",
+      "officialId": "point_20260727150503",
+      "updatedAt": 1785135947000
+    },
+    {
+      "id": "point_20260727150504",
+      "folderId": "folder_202608_special",
+      "name": "IKEA 台北城市店",
+      "lat": 25.05141,
+      "lng": 121.54823,
+      "source": "OFFICIAL",
+      "officialId": "point_20260727150504",
+      "updatedAt": 1785135947000
+    },
+    {
+      "id": "point_20260727150505",
+      "folderId": "folder_202608_special",
+      "name": "IKEA 桃園店",
+      "lat": 25.01309,
+      "lng": 121.21757,
+      "source": "OFFICIAL",
+      "officialId": "point_20260727150505",
+      "updatedAt": 1785135947000
+    },
+    {
+      "id": "point_20260727150506",
+      "folderId": "folder_202608_special",
+      "name": "IKEA 台中店",
+      "lat": 24.14647,
+      "lng": 120.64486,
+      "source": "OFFICIAL",
+      "officialId": "point_20260727150506",
+      "updatedAt": 1785135947000
+    },
+    {
+      "id": "point_20260727150507",
+      "folderId": "folder_202608_special",
+      "name": "IKEA 高雄店",
+      "lat": 22.60375,
+      "lng": 120.30554,
+      "source": "OFFICIAL",
+      "officialId": "point_20260727150507",
+      "updatedAt": 1785135947000
+    },
+    {
+      "id": "point_20260727150508",
+      "folderId": "folder_202608_special",
+      "name": "IKEA 嘉義城市店",
+      "lat": 23.47731,
+      "lng": 120.43864,
+      "source": "OFFICIAL",
+      "officialId": "point_20260727150508",
+      "updatedAt": 1785135947000
     }
   ]
 }
