@@ -1,1 +1,20 @@
-
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-07-27",
+  "firmwareVersion": "fw-20260727-1",
+  "bookmarksEnabled": true,
+  "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.json",
+  "routesEnabled": true,
+  "routesUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_routes.json",
+  "nominatimEnabled": true,
+  "joystickEnabled": true,
+  "healthConnectEnabled": false,
+  "advancedFeaturesEnabled": true,
+  "minSupportedVersionCode": 1,
+  "messageTitle": "GeoSim 更新囉",
+  "message": "新增「路線玩法」：移動可選平滑或跳點；到各點還能原地停留、模擬 GPS 浮動、或花式繞圈。請注意商店更新!",
+  "freeTier": {
+    "enabled": false,
+    "dailyActiveMinutesLimit": 90
+  }
+}
