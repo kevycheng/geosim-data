@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1785135947000,
+  "updatedAt": 1785576492000,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -13,7 +13,7 @@
       "id": "folder_pure",
       "name": "[Pikmin]純點收集",
       "source": "OFFICIAL",
-      "updatedAt": 1780972198840
+      "updatedAt": 1785576492000
     },
     {
       "id": "folder_seattle_gold",
@@ -28,12 +28,6 @@
       "updatedAt": 1784850765000
     },
     {
-      "id": "folder_20260701010731",
-      "name": "[Pikmin] 當月重要點位",
-      "source": "OFFICIAL",
-      "updatedAt": 1782868154136
-    },
-    {
       "id": "folder_timezone",
       "name": "[時區] 特殊國家",
       "source": "OFFICIAL",
@@ -43,7 +37,7 @@
       "id": "folder_202608_special",
       "name": "[Pikmin] 8月特殊地點",
       "source": "OFFICIAL",
-      "updatedAt": 1785135947000
+      "updatedAt": 1785576368000
     }
   ],
   "bookmarks": [
@@ -514,116 +508,6 @@
       "updatedAt": 1782094124366
     },
     {
-      "id": "point_20260701010811",
-      "folderId": "folder_20260701010731",
-      "name": "Xpark 金盆",
-      "lat": 25.017257,
-      "lng": 121.214242,
-      "source": "OFFICIAL",
-      "officialId": "point_20260701010811",
-      "updatedAt": 1782868124271
-    },
-    {
-      "id": "point_20260704093744",
-      "folderId": "folder_20260701010731",
-      "name": "Japan Expo 2026",
-      "lat": 48.972331,
-      "lng": 2.51798,
-      "source": "OFFICIAL",
-      "officialId": "point_20260704093744",
-      "updatedAt": 1783129064469
-    },
-    {
-      "id": "point_20260705140001",
-      "folderId": "folder_20260701010731",
-      "name": "任天堂",
-      "lat": 22.2751827,
-      "lng": 114.1701034,
-      "source": "OFFICIAL",
-      "officialId": "point_20260705140001",
-      "updatedAt": 1783227600000
-    },
-    {
-      "id": "point_20260704093801",
-      "folderId": "folder_20260701010731",
-      "name": "柯布連道",
-      "lat": 22.276505,
-      "lng": 114.173152,
-      "source": "OFFICIAL",
-      "officialId": "point_20260704093801",
-      "updatedAt": 1783129064470
-    },
-    {
-      "id": "point_20260704093802",
-      "folderId": "folder_20260701010731",
-      "name": "菲林明道",
-      "lat": 22.277193,
-      "lng": 114.1753,
-      "source": "OFFICIAL",
-      "officialId": "point_20260704093802",
-      "updatedAt": 1783129064471
-    },
-    {
-      "id": "point_20260704093803",
-      "folderId": "folder_20260701010731",
-      "name": "杜老誌道",
-      "lat": 22.278265,
-      "lng": 114.177794,
-      "source": "OFFICIAL",
-      "officialId": "point_20260704093803",
-      "updatedAt": 1783129064472
-    },
-    {
-      "id": "point_20260704093804",
-      "folderId": "folder_20260701010731",
-      "name": "堅拿道西",
-      "lat": 22.279378,
-      "lng": 114.180968,
-      "source": "OFFICIAL",
-      "officialId": "point_20260704093804",
-      "updatedAt": 1783129064473
-    },
-    {
-      "id": "point_20260704093805",
-      "folderId": "folder_20260701010731",
-      "name": "波斯富街",
-      "lat": 22.280016,
-      "lng": 114.1834,
-      "source": "OFFICIAL",
-      "officialId": "point_20260704093805",
-      "updatedAt": 1783129064474
-    },
-    {
-      "id": "point_20260704093806",
-      "folderId": "folder_20260701010731",
-      "name": "百德新街",
-      "lat": 22.279762,
-      "lng": 114.185654,
-      "source": "OFFICIAL",
-      "officialId": "point_20260704093806",
-      "updatedAt": 1783129064475
-    },
-    {
-      "id": "point_20260704093807",
-      "folderId": "folder_20260701010731",
-      "name": "富明街",
-      "lat": 22.279431,
-      "lng": 114.182962,
-      "source": "OFFICIAL",
-      "officialId": "point_20260704093807",
-      "updatedAt": 1783129064476
-    },
-    {
-      "id": "point_20260723120000",
-      "folderId": "folder_20260701010731",
-      "name": "Gamer Con 2026 Nintendo",
-      "lat": 25.033452,
-      "lng": 121.561809,
-      "source": "OFFICIAL",
-      "officialId": "point_20260723120000",
-      "updatedAt": 1784808000000
-    },
-    {
       "id": "point_20260723225401",
       "folderId": "folder_media_collect",
       "name": "Schwangau, Bavaria, Germany",
@@ -802,6 +686,26 @@
       "source": "OFFICIAL",
       "officialId": "point_20260727150508",
       "updatedAt": 1785135947000
+    },
+    {
+      "id": "point_20260701010811",
+      "folderId": "folder_202608_special",
+      "name": "Xpark 金盆",
+      "lat": 25.017257,
+      "lng": 121.214242,
+      "source": "OFFICIAL",
+      "officialId": "point_20260701010811",
+      "updatedAt": 1785576368000
+    },
+    {
+      "id": "point_20260801092812",
+      "folderId": "folder_pure",
+      "name": "純_塔可餅",
+      "lat": 24.15233258914237,
+      "lng": 120.65639577805996,
+      "source": "OFFICIAL",
+      "officialId": "point_20260801092812",
+      "updatedAt": 1785576492000
     }
   ]
 }
