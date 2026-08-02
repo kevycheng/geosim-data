@@ -10,11 +10,14 @@
   "joystickEnabled": true,
   "healthConnectEnabled": false,
   "advancedFeaturesEnabled": true,
+  "proPromote": false,
   "minSupportedVersionCode": 14,
   "messageTitle": "GeoSim 更新囉",
   "message": "新增「路線玩法」：移動可選平滑或跳點；到各點還能原地停留、模擬 GPS 浮動、或花式繞圈。請注意商店更新!",
   "freeTier": {
-    "enabled": false,
-    "dailyActiveMinutesLimit": 90
+    "enabled": true,
+    "dailyActiveMinutesLimit": 60,
+    "adRewardMinutes": 180,
+    "bonusCapMinutes": 360
   }
 }
