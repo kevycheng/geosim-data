@@ -19,6 +19,6 @@
     "adRewardMinutes": 180,
     "dailyClaimMinutes": 60,
     "adClaimMinutes": 240,
-    "bonusCapMinutes": 540
+    "bonusCapMinutes": 360
   }
 }
