@@ -12,8 +12,8 @@
   "advancedFeaturesEnabled": true,
   "proPromote": false,
   "minSupportedVersionCode": 1,
-  "messageTitle": "GeoSim 更新囉",
-  "message": "新增「路線玩法」：移動可選平滑或跳點；到各點還能原地停留、模擬 GPS 浮動、或花式繞圈。請注意商店更新!",
+  "messageTitle": "GeoSim 更新訊息",
+  "message": "v1.0.0(17)：路線書籤大升級(新增/編輯/移動/資料夾)、貼上路線與繞圈移動介面翻新。請到 Play 商店更新到最新版;已更新的感謝支持!",
   "freeTier": {
     "enabled": false,
     "dailyClaimMinutes": 60,
