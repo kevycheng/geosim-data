@@ -15,10 +15,15 @@
   "messageTitle": "GeoSim 更新訊息",
   "message": "v1.0.0(17)：路線書籤大升級(新增/編輯/移動/資料夾)、貼上路線與繞圈移動介面翻新。請到 Play 商店更新到最新版;已更新的感謝支持!",
   "freeTier": {
-    "enabled": false,
+    "enabled": true,
     "adRewardMinutes": 60,
     "dailyClaimMinutes": 60,
     "adClaimMinutes": 240,
     "bonusCapMinutes": 360
+  },
+  "promo": {
+  "codeHash": "befade5efff73cea49213557eb7b05beab29a2fd26c8a955fd259fb6a5bf136a",
+  "redeemable": true,
+  "adsDisabled": true
   }
 }
