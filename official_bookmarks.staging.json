@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1785588112000,
+  "updatedAt": 1785930355000,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -13,7 +13,7 @@
       "id": "folder_pure",
       "name": "[Pikmin]純點收集",
       "source": "OFFICIAL",
-      "updatedAt": 1785576492000
+      "updatedAt": 1785930355000
     },
     {
       "id": "folder_seattle_gold",
@@ -38,6 +38,12 @@
       "name": "[Pikmin] 8月特殊地點",
       "source": "OFFICIAL",
       "updatedAt": 1785588112000
+    },
+    {
+      "id": "folder_chiayi",
+      "name": "[Pikmin] 嘉義收集",
+      "source": "OFFICIAL",
+      "updatedAt": 1785930355000
     }
   ],
   "bookmarks": [
@@ -84,32 +90,32 @@
     {
       "id": "nintendo_tw_05",
       "folderId": "folder_nintendo_tw",
-      "name": "台中任天堂",
+      "name": "台中LaLaport任天堂",
       "lat": 24.135195,
       "lng": 120.692229,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_05",
-      "updatedAt": 1781149938368
+      "updatedAt": 1785930355000
     },
     {
       "id": "nintendo_tw_06",
       "folderId": "folder_nintendo_tw",
-      "name": "台南任天堂",
+      "name": "台南西門任天堂",
       "lat": 22.9907902,
       "lng": 120.2329482,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_06",
-      "updatedAt": 1781149938368
+      "updatedAt": 1785930355000
     },
     {
       "id": "nintendo_tw_07",
       "folderId": "folder_nintendo_tw",
-      "name": "漢神巨蛋任天堂",
+      "name": "高雄漢神巨蛋任天堂",
       "lat": 22.6700183,
       "lng": 120.3027073,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_07",
-      "updatedAt": 1781149938368
+      "updatedAt": 1785930355000
     },
     {
       "id": "nintendo_tw_08",
@@ -200,6 +206,56 @@
       "source": "OFFICIAL",
       "officialId": "point_new_20",
       "updatedAt": 1780973500015
+    },
+    {
+      "id": "point_new_24",
+      "folderId": "folder_pure",
+      "name": "森林_台北大安公園",
+      "lat": 25.0391138,
+      "lng": 121.5391674,
+      "source": "OFFICIAL",
+      "officialId": "point_new_24",
+      "updatedAt": 1785930355000
+    },
+    {
+      "id": "point_new_25",
+      "folderId": "folder_pure",
+      "name": "咖啡杯_台北",
+      "lat": 25.0399841,
+      "lng": 121.538918,
+      "source": "OFFICIAL",
+      "officialId": "point_new_25",
+      "updatedAt": 1785930355000
+    },
+    {
+      "id": "point_new_26",
+      "folderId": "folder_pure",
+      "name": "雨天葉子帽_智利",
+      "lat": -46.2595857658,
+      "lng": -73.8084976003,
+      "source": "OFFICIAL",
+      "officialId": "point_new_26",
+      "updatedAt": 1785930355000
+    },
+    {
+      "id": "point_20260622020800",
+      "folderId": "folder_pure",
+      "name": "文具_台北(小品雅集)",
+      "lat": 25.03139,
+      "lng": 121.54118,
+      "source": "OFFICIAL",
+      "officialId": "point_20260622020800",
+      "updatedAt": 1782094124366
+    },
+    {
+      "id": "point_20260801092812",
+      "folderId": "folder_pure",
+      "name": "塔可餅_台中",
+      "lat": 24.15233258914237,
+      "lng": 120.65639577805996,
+      "source": "OFFICIAL",
+      "officialId": "point_20260801092812",
+      "updatedAt": 1785930355000
     },
     {
       "id": "seattle_gold_01",
@@ -294,12 +350,12 @@
     {
       "id": "media_collect_01",
       "folderId": "folder_media_collect",
-      "name": "黃皮🔍",
+      "name": "大阪梅田黃皮🔍",
       "lat": 34.701668,
       "lng": 135.496423,
       "source": "OFFICIAL",
       "officialId": "media_collect_01",
-      "updatedAt": 1780975500001
+      "updatedAt": 1785930355000
     },
     {
       "id": "media_collect_04",
@@ -314,12 +370,12 @@
     {
       "id": "media_collect_05",
       "folderId": "folder_media_collect",
-      "name": "首爾隱藏手繪風(隱藏)🔍",
+      "name": "首爾隱藏手繪風🔍",
       "lat": 37.6033124,
       "lng": 127.0348836,
       "source": "OFFICIAL",
       "officialId": "media_collect_05",
-      "updatedAt": 1780975500005
+      "updatedAt": 1785930355000
     },
     {
       "id": "media_collect_06",
@@ -334,12 +390,12 @@
     {
       "id": "media_collect_08",
       "folderId": "folder_media_collect",
-      "name": "金字塔🌹",
+      "name": "埃及金字塔🌹",
       "lat": 29.97254753,
       "lng": 31.12836647,
       "source": "OFFICIAL",
       "officialId": "media_collect_08",
-      "updatedAt": 1780975500008
+      "updatedAt": 1785930355000
     },
     {
       "id": "media_collect_09",
@@ -364,12 +420,12 @@
     {
       "id": "media_collect_11",
       "folderId": "folder_media_collect",
-      "name": "安平古堡🍄",
+      "name": "台南安平古堡🍄",
       "lat": 23.00161,
       "lng": 120.16091,
       "source": "OFFICIAL",
       "officialId": "media_collect_11",
-      "updatedAt": 1780975500011
+      "updatedAt": 1785930355000
     },
     {
       "id": "media_collect_12",
@@ -422,72 +478,6 @@
       "updatedAt": 1780975500031
     },
     {
-      "id": "point_new_24",
-      "folderId": "folder_pure",
-      "name": "森林",
-      "lat": 25.0391138,
-      "lng": 121.5391674,
-      "source": "OFFICIAL",
-      "officialId": "point_new_24",
-      "updatedAt": 1781256000001
-    },
-    {
-      "id": "point_new_25",
-      "folderId": "folder_pure",
-      "name": "咖啡杯",
-      "lat": 25.0399841,
-      "lng": 121.538918,
-      "source": "OFFICIAL",
-      "officialId": "point_new_25",
-      "updatedAt": 1781256000002
-    },
-    {
-      "id": "point_new_26",
-      "folderId": "folder_pure",
-      "name": "雨天葉子帽",
-      "lat": -46.2595857658,
-      "lng": -73.8084976003,
-      "source": "OFFICIAL",
-      "officialId": "point_new_26",
-      "updatedAt": 1781256000003
-    },
-    {
-      "id": "point_20260614143100",
-      "name": "嘉義市立美術館",
-      "lat": 23.476942,
-      "lng": 120.4406666,
-      "source": "OFFICIAL",
-      "officialId": "point_20260614143100",
-      "updatedAt": 1781447506214
-    },
-    {
-      "id": "point_20260614143202",
-      "name": "嘉義文化創意產業園區",
-      "lat": 23.4771902,
-      "lng": 120.4400848,
-      "source": "OFFICIAL",
-      "officialId": "point_20260614143202",
-      "updatedAt": 1781447538659
-    },
-    {
-      "id": "point_20260614143531",
-      "name": "嘉義市立棒球場",
-      "lat": 23.4816471,
-      "lng": 120.4650697,
-      "source": "OFFICIAL",
-      "officialId": "point_20260614143531",
-      "updatedAt": 1781447738967
-    },
-    {
-      "id": "point_20260614143945",
-      "name": "嘉義文化公園",
-      "lat": 23.4755571,
-      "lng": 120.4506842,
-      "source": "OFFICIAL",
-      "officialId": "point_20260614143945",
-      "updatedAt": 1781447992891
-    },
-    {
       "id": "point_20260615040630",
       "folderId": "folder_media_collect",
       "name": "韓國雷神之槌菇",
@@ -498,34 +488,24 @@
       "updatedAt": 1781496403409
     },
     {
-      "id": "point_20260622020800",
-      "folderId": "folder_pure",
-      "name": "文具_台北(小品雅集)",
-      "lat": 25.03139,
-      "lng": 121.54118,
-      "source": "OFFICIAL",
-      "officialId": "point_20260622020800",
-      "updatedAt": 1782094124366
-    },
-    {
       "id": "point_20260723225401",
       "folderId": "folder_media_collect",
-      "name": "Schwangau, Bavaria, Germany",
+      "name": "德國新天鵝堡(Schwangau)",
       "lat": 47.578766,
       "lng": 10.749575,
       "source": "OFFICIAL",
       "officialId": "point_20260723225401",
-      "updatedAt": 1784820840000
+      "updatedAt": 1785930355000
     },
     {
       "id": "point_20260723225402",
       "folderId": "folder_media_collect",
-      "name": "Jaipur Municipal Corporation",
+      "name": "印度齋浦爾(Jaipur)",
       "lat": 26.988962,
       "lng": 75.851014,
       "source": "OFFICIAL",
       "officialId": "point_20260723225402",
-      "updatedAt": 1784820840000
+      "updatedAt": 1785930355000
     },
     {
       "id": "point_20260723225403",
@@ -540,22 +520,22 @@
     {
       "id": "point_20260724075158",
       "folderId": "folder_media_collect",
-      "name": "Victoria Beachcomber Resort",
+      "name": "毛里求斯Victoria度假村",
       "lat": -20.075991,
       "lng": 57.513315,
       "source": "OFFICIAL",
       "officialId": "point_20260724075158",
-      "updatedAt": 1784850718000
+      "updatedAt": 1785930355000
     },
     {
       "id": "point_20260724075245",
       "folderId": "folder_media_collect",
-      "name": "Perttelin kirkko",
+      "name": "芬蘭Perttelin教堂",
       "lat": 60.446965,
       "lng": 23.250156,
       "source": "OFFICIAL",
       "officialId": "point_20260724075245",
-      "updatedAt": 1784850765000
+      "updatedAt": 1785930355000
     },
     {
       "id": "point_20260726203301",
@@ -698,14 +678,44 @@
       "updatedAt": 1785576368000
     },
     {
-      "id": "point_20260801092812",
-      "folderId": "folder_pure",
-      "name": "塔可餅",
-      "lat": 24.15233258914237,
-      "lng": 120.65639577805996,
+      "id": "point_20260614143100",
+      "folderId": "folder_chiayi",
+      "name": "嘉義市立美術館",
+      "lat": 23.476942,
+      "lng": 120.4406666,
       "source": "OFFICIAL",
-      "officialId": "point_20260801092812",
-      "updatedAt": 1785576492000
+      "officialId": "point_20260614143100",
+      "updatedAt": 1785930355000
+    },
+    {
+      "id": "point_20260614143202",
+      "folderId": "folder_chiayi",
+      "name": "嘉義文化創意產業園區",
+      "lat": 23.4771902,
+      "lng": 120.4400848,
+      "source": "OFFICIAL",
+      "officialId": "point_20260614143202",
+      "updatedAt": 1785930355000
+    },
+    {
+      "id": "point_20260614143531",
+      "folderId": "folder_chiayi",
+      "name": "嘉義市立棒球場",
+      "lat": 23.4816471,
+      "lng": 120.4650697,
+      "source": "OFFICIAL",
+      "officialId": "point_20260614143531",
+      "updatedAt": 1785930355000
+    },
+    {
+      "id": "point_20260614143945",
+      "folderId": "folder_chiayi",
+      "name": "嘉義文化公園",
+      "lat": 23.4755571,
+      "lng": 120.4506842,
+      "source": "OFFICIAL",
+      "officialId": "point_20260614143945",
+      "updatedAt": 1785930355000
     }
   ]
 }
