@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1785930494000,
+  "updatedAt": 1785930194000,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -13,7 +13,7 @@
       "id": "folder_pure",
       "name": "[Pikmin]純點收集",
       "source": "OFFICIAL",
-      "updatedAt": 1785930355000
+      "updatedAt": 1785930194000
     },
     {
       "id": "folder_seattle_gold",
@@ -25,7 +25,7 @@
       "id": "folder_media_collect",
       "name": "[Pikmin]美片收集",
       "source": "OFFICIAL",
-      "updatedAt": 1784850765000
+      "updatedAt": 1785930194000
     },
     {
       "id": "folder_timezone",
@@ -44,12 +44,6 @@
       "name": "[Pikmin] 嘉義收集",
       "source": "OFFICIAL",
       "updatedAt": 1785930355000
-    },
-    {
-      "id": "folder_mushroom_share",
-      "name": "[限時] 蘑菇分享",
-      "source": "OFFICIAL",
-      "updatedAt": 1785930494000
     }
   ],
   "bookmarks": [
@@ -724,134 +718,24 @@
       "updatedAt": 1785930355000
     },
     {
-      "id": "point_20260805114801",
-      "folderId": "folder_mushroom_share",
-      "name": "巨大活動蘑菇 01",
-      "lat": -5.25619,
-      "lng": -36.71856,
+      "id": "point_20260805154301",
+      "folderId": "folder_media_collect",
+      "name": "藍洞",
+      "lat": 42.980329,
+      "lng": 16.022534,
       "source": "OFFICIAL",
-      "officialId": "point_20260805114801",
-      "updatedAt": 1785930494000
+      "officialId": "point_20260805154301",
+      "updatedAt": 1785930194000
     },
     {
-      "id": "point_20260805114802",
-      "folderId": "folder_mushroom_share",
-      "name": "巨大活動蘑菇 02",
-      "lat": -4.30212,
-      "lng": -38.99508,
+      "id": "point_20260805154302",
+      "folderId": "folder_pure",
+      "name": "體育館_台北大巨蛋",
+      "lat": 25.0421533,
+      "lng": 121.5605882,
       "source": "OFFICIAL",
-      "officialId": "point_20260805114802",
-      "updatedAt": 1785930494000
-    },
-    {
-      "id": "point_20260805114803",
-      "folderId": "folder_mushroom_share",
-      "name": "巨大活動蘑菇 03",
-      "lat": -4.21306,
-      "lng": -38.70039,
-      "source": "OFFICIAL",
-      "officialId": "point_20260805114803",
-      "updatedAt": 1785930494000
-    },
-    {
-      "id": "point_20260805114804",
-      "folderId": "folder_mushroom_share",
-      "name": "巨大活動蘑菇 04",
-      "lat": -3.03909,
-      "lng": -41.24119,
-      "source": "OFFICIAL",
-      "officialId": "point_20260805114804",
-      "updatedAt": 1785930494000
-    },
-    {
-      "id": "point_20260805114805",
-      "folderId": "folder_mushroom_share",
-      "name": "巨大活動蘑菇 05",
-      "lat": 3.84008,
-      "lng": -51.81888,
-      "source": "OFFICIAL",
-      "officialId": "point_20260805114805",
-      "updatedAt": 1785930494000
-    },
-    {
-      "id": "point_20260805114806",
-      "folderId": "folder_mushroom_share",
-      "name": "巨大活動蘑菇 06",
-      "lat": -6.53198,
-      "lng": -64.38716,
-      "source": "OFFICIAL",
-      "officialId": "point_20260805114806",
-      "updatedAt": 1785930494000
-    },
-    {
-      "id": "point_20260805114807",
-      "folderId": "folder_mushroom_share",
-      "name": "巨大活動蘑菇 07",
-      "lat": -2.84435,
-      "lng": -58.2147,
-      "source": "OFFICIAL",
-      "officialId": "point_20260805114807",
-      "updatedAt": 1785930494000
-    },
-    {
-      "id": "point_20260805114808",
-      "folderId": "folder_mushroom_share",
-      "name": "巨大活動蘑菇 08",
-      "lat": -3.58877,
-      "lng": -59.13166,
-      "source": "OFFICIAL",
-      "officialId": "point_20260805114808",
-      "updatedAt": 1785930494000
-    },
-    {
-      "id": "point_20260805114809",
-      "folderId": "folder_mushroom_share",
-      "name": "巨大活動蘑菇 09",
-      "lat": -3.58277,
-      "lng": -59.13287,
-      "source": "OFFICIAL",
-      "officialId": "point_20260805114809",
-      "updatedAt": 1785930494000
-    },
-    {
-      "id": "point_20260805114810",
-      "folderId": "folder_mushroom_share",
-      "name": "巨大活動蘑菇 10",
-      "lat": -1.00938,
-      "lng": -48.9603,
-      "source": "OFFICIAL",
-      "officialId": "point_20260805114810",
-      "updatedAt": 1785930494000
-    },
-    {
-      "id": "point_20260805114811",
-      "folderId": "folder_mushroom_share",
-      "name": "巨大活動蘑菇 11",
-      "lat": -2.05222,
-      "lng": -47.54449,
-      "source": "OFFICIAL",
-      "officialId": "point_20260805114811",
-      "updatedAt": 1785930494000
-    },
-    {
-      "id": "point_20260805114812",
-      "folderId": "folder_mushroom_share",
-      "name": "巨大活動蘑菇 12",
-      "lat": -2.05682,
-      "lng": -47.54345,
-      "source": "OFFICIAL",
-      "officialId": "point_20260805114812",
-      "updatedAt": 1785930494000
-    },
-    {
-      "id": "point_20260805114813",
-      "folderId": "folder_mushroom_share",
-      "name": "巨大活動蘑菇 13",
-      "lat": -4.88534,
-      "lng": -46.00872,
-      "source": "OFFICIAL",
-      "officialId": "point_20260805114813",
-      "updatedAt": 1785930494000
+      "officialId": "point_20260805154302",
+      "updatedAt": 1785930194000
     }
   ]
 }
