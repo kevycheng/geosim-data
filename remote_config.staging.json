@@ -12,9 +12,10 @@
   "advancedFeaturesEnabled": true,
   "proPromote": true,
   "proPurchaseEnabled": false, 
+  "donateEnabled": true,
   "minSupportedVersionCode": 14,
   "messageTitle": "GeoSim 更新訊息",
-  "message": "v1.0.0(18)：準正式版。請到 Play 商店更新到最新版;已更新的感謝支持!",
+  "message": "v1.0.0(21)：準正式版。實作Billing項目 , 請到 Play 商店更新到最新版;已更新的感謝支持!",
   "freeTier": {
     "enabled": true,
     "adRewardMinutes": 240,
