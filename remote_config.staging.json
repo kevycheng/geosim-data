@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08",
-  "firmwareVersion": "fw-20260808-1",
+  "updatedAt": "2026-08-09",
+  "firmwareVersion": "fw-20260809-1",
   "bookmarksEnabled": true,
   "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.staging.json",
   "routesEnabled": true,
