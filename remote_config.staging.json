@@ -11,7 +11,7 @@
   "healthConnectEnabled": false,
   "advancedFeaturesEnabled": true,
   "proPromote": true,
-  "proPurchaseEnabled": true, 
+  "proPurchaseEnabled": false, 
   "minSupportedVersionCode": 14,
   "messageTitle": "GeoSim 更新訊息",
   "message": "v1.0.0(18)：準正式版。請到 Play 商店更新到最新版;已更新的感謝支持!",
