@@ -3,7 +3,7 @@
   "updatedAt": "2026-08-08",
   "firmwareVersion": "fw-20260808-1",
   "bookmarksEnabled": true,
-  "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.staging.json",
+  "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.json",
   "routesEnabled": true,
   "routesUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_routes.json",
   "nominatimEnabled": true,
