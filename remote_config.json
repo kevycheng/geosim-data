@@ -1,25 +1,34 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-04",
-  "firmwareVersion": "fw-20260804-1",
+  "updatedAt": "2026-08-08",
+  "firmwareVersion": "fw-20260808-1",
   "bookmarksEnabled": true,
-  "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.json",
+  "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.staging.json",
   "routesEnabled": true,
   "routesUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_routes.json",
   "nominatimEnabled": true,
   "joystickEnabled": true,
   "healthConnectEnabled": false,
   "advancedFeaturesEnabled": true,
-  "proPromote": false,
-  "minSupportedVersionCode": 1,
+  "proPromote": true,
+  "minSupportedVersionCode": 14,
   "messageTitle": "GeoSim 更新訊息",
-  "message": "v1.0.0(17)：路線書籤大升級(新增/編輯/移動/資料夾)、貼上路線與繞圈移動介面翻新。請到 Play 商店更新到最新版;已更新的感謝支持!",
+  "message": "v1.0.0(18)：準正式版。請到 Play 商店更新到最新版;已更新的感謝支持!",
   "freeTier": {
     "enabled": false,
-    "dailyClaimMinutes": 60,
-    "adClaimMinutes": 240,
-    "adRewardMinutes": 180,
-    "bonusCapMinutes": 360,
-    "dailyActiveMinutesLimit": 90
+    "adRewardMinutes": 240,
+    "dailyClaimMinutes": 30,
+    "bonusCapMinutes": 1440,
+    "maxPasteRoutePoints": 20,
+    "features": {
+      "singlePoint": true, "routeMode": true, "stepSimulation": true,
+      "pasteRoute": true, "featuredContent": true, "bookmarks": true,
+      "joystick": false, "gpxImport": false, "gpxExport": false
+    }
+  },
+  "promo": {
+    "codeHash": "befade5efff73cea49213557eb7b05beab29a2fd26c8a955fd259fb6a5bf136a",
+    "redeemable": true,
+    "adsDisabled": true
   }
 }
