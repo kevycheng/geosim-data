@@ -11,7 +11,7 @@
   "healthConnectEnabled": false,
   "advancedFeaturesEnabled": true,
   "proPromote": true,
-  "proPurchaseEnabled": false, 
+  "proPurchaseEnabled": true, 
   "donateEnabled": true,
   "minSupportedVersionCode": 14,
   "messageTitle": "GeoSim 更新訊息",
