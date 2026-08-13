@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1785588112000,
+  "updatedAt": 1786608339000,
   "folders": [
     {
       "id": "folder_nintendo_tw",
-      "name": "[金盆] 任天堂官方店",
+      "name": "亞洲熱門景點",
       "source": "OFFICIAL",
       "updatedAt": 1782094203684
     },
     {
       "id": "folder_pure",
-      "name": "[Pikmin]純點收集",
+      "name": "台灣熱門景點",
       "source": "OFFICIAL",
       "updatedAt": 1785576492000
     },
     {
       "id": "folder_seattle_gold",
-      "name": "[金盆] 西雅圖",
+      "name": "北美熱門景點",
       "source": "OFFICIAL",
       "updatedAt": 1782094214753
     },
     {
       "id": "folder_media_collect",
-      "name": "[Pikmin]美片收集",
+      "name": "歐洲熱門景點",
       "source": "OFFICIAL",
       "updatedAt": 1784850765000
     },
     {
       "id": "folder_timezone",
-      "name": "[時區] 特殊國家",
+      "name": "全球世界遺產",
       "source": "OFFICIAL",
       "updatedAt": 1785069237000
     },
     {
       "id": "folder_202608_special",
-      "name": "[Pikmin] 8月特殊地點",
+      "name": "自然奇觀與地標",
       "source": "OFFICIAL",
       "updatedAt": 1785588112000
     }
@@ -44,9 +44,9 @@
     {
       "id": "nintendo_tw_01",
       "folderId": "folder_nintendo_tw",
-      "name": "台北三創任天堂",
-      "lat": 25.0455067,
-      "lng": 121.5311171,
+      "name": "東京塔",
+      "lat": 35.6585805,
+      "lng": 139.7454329,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_01",
       "updatedAt": 1781149938368
@@ -54,9 +54,9 @@
     {
       "id": "nintendo_tw_02",
       "folderId": "folder_nintendo_tw",
-      "name": "台北地下街任天堂",
-      "lat": 25.0487046,
-      "lng": 121.5142178,
+      "name": "京都清水寺",
+      "lat": 34.9948561,
+      "lng": 135.7850463,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_02",
       "updatedAt": 1781149938368
@@ -64,9 +64,9 @@
     {
       "id": "nintendo_tw_03",
       "folderId": "folder_nintendo_tw",
-      "name": "台北信義A11任天堂",
-      "lat": 25.0364985,
-      "lng": 121.5672959,
+      "name": "富士山觀景台",
+      "lat": 35.3606255,
+      "lng": 138.7273634,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_03",
       "updatedAt": 1781149938368
@@ -74,9 +74,9 @@
     {
       "id": "nintendo_tw_04",
       "folderId": "folder_nintendo_tw",
-      "name": "南港LaLaport任天堂",
-      "lat": 25.0592719,
-      "lng": 121.6177854,
+      "name": "首爾景福宮",
+      "lat": 37.579617,
+      "lng": 126.977041,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_04",
       "updatedAt": 1781149938368
@@ -84,9 +84,9 @@
     {
       "id": "nintendo_tw_05",
       "folderId": "folder_nintendo_tw",
-      "name": "台中任天堂",
-      "lat": 24.135195,
-      "lng": 120.692229,
+      "name": "新加坡濱海灣金沙",
+      "lat": 1.2838,
+      "lng": 103.8591,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_05",
       "updatedAt": 1781149938368
@@ -94,9 +94,9 @@
     {
       "id": "nintendo_tw_06",
       "folderId": "folder_nintendo_tw",
-      "name": "台南任天堂",
-      "lat": 22.9907902,
-      "lng": 120.2329482,
+      "name": "曼谷大皇宮",
+      "lat": 13.7500,
+      "lng": 100.4913,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_06",
       "updatedAt": 1781149938368
@@ -104,9 +104,9 @@
     {
       "id": "nintendo_tw_07",
       "folderId": "folder_nintendo_tw",
-      "name": "漢神巨蛋任天堂",
-      "lat": 22.6700183,
-      "lng": 120.3027073,
+      "name": "印度泰姬瑪哈陵",
+      "lat": 27.1751,
+      "lng": 78.0421,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_07",
       "updatedAt": 1781149938368
@@ -114,9 +114,9 @@
     {
       "id": "nintendo_tw_08",
       "folderId": "folder_nintendo_tw",
-      "name": "高雄夢時代任天堂",
-      "lat": 22.5950901,
-      "lng": 120.3074215,
+      "name": "杜拜哈里發塔",
+      "lat": 25.1972,
+      "lng": 55.2744,
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_08",
       "updatedAt": 1781149938368
@@ -124,9 +124,9 @@
     {
       "id": "point_new_2",
       "folderId": "folder_pure",
-      "name": "飛機_松山機場",
-      "lat": 25.0674665,
-      "lng": 121.55398,
+      "name": "台北101觀景台",
+      "lat": 25.033976,
+      "lng": 121.564538,
       "source": "OFFICIAL",
       "officialId": "point_new_2",
       "updatedAt": 1780972311962
@@ -134,9 +134,9 @@
     {
       "id": "point_new_4",
       "folderId": "folder_pure",
-      "name": "漢堡_高雄(純)",
-      "lat": 22.681261,
-      "lng": 120.31822,
+      "name": "故宮博物院",
+      "lat": 25.102355,
+      "lng": 121.548491,
       "source": "OFFICIAL",
       "officialId": "point_new_4",
       "updatedAt": 1780974738457
@@ -144,9 +144,9 @@
     {
       "id": "point_new_7",
       "folderId": "folder_pure",
-      "name": "大學_台灣大學",
-      "lat": 25.021175,
-      "lng": 121.535384,
+      "name": "日月潭水社碼頭",
+      "lat": 23.8648,
+      "lng": 120.9161,
       "source": "OFFICIAL",
       "officialId": "point_new_7",
       "updatedAt": 1780973500002
@@ -154,9 +154,9 @@
     {
       "id": "point_new_9",
       "folderId": "folder_pure",
-      "name": "神社_稻荷大明神(美菇)",
-      "lat": 34.362,
-      "lng": 133.585,
+      "name": "阿里山國家森林遊樂區",
+      "lat": 23.5082,
+      "lng": 120.8016,
       "source": "OFFICIAL",
       "officialId": "point_new_9",
       "updatedAt": 1780974852951
@@ -164,9 +164,9 @@
     {
       "id": "point_new_11",
       "folderId": "folder_pure",
-      "name": "拉麵_新北三重(純)",
-      "lat": 25.050287,
-      "lng": 121.487401,
+      "name": "高雄愛河之心",
+      "lat": 22.6521,
+      "lng": 120.3048,
       "source": "OFFICIAL",
       "officialId": "point_new_11",
       "updatedAt": 1780974969515
@@ -174,9 +174,9 @@
     {
       "id": "point_new_12",
       "folderId": "folder_pure",
-      "name": "泡菜_釜山",
-      "lat": 35.121665,
-      "lng": 129.11105,
+      "name": "花蓮太魯閣國家公園",
+      "lat": 24.1584,
+      "lng": 121.6223,
       "source": "OFFICIAL",
       "officialId": "point_new_12",
       "updatedAt": 1780973500007
@@ -184,9 +184,9 @@
     {
       "id": "point_new_19",
       "folderId": "folder_pure",
-      "name": "橋樑_中和",
-      "lat": 24.9930915,
-      "lng": 121.5077236,
+      "name": "墾丁鵝鑾鼻燈塔",
+      "lat": 21.9022,
+      "lng": 120.8526,
       "source": "OFFICIAL",
       "officialId": "point_new_19",
       "updatedAt": 1780973500014
@@ -194,9 +194,9 @@
     {
       "id": "point_new_20",
       "folderId": "folder_pure",
-      "name": "橋樑_長崎女神大橋",
-      "lat": 32.721391,
-      "lng": 129.849544,
+      "name": "台南赤崁樓",
+      "lat": 22.9976,
+      "lng": 120.2025,
       "source": "OFFICIAL",
       "officialId": "point_new_20",
       "updatedAt": 1780973500015
@@ -204,9 +204,9 @@
     {
       "id": "seattle_gold_01",
       "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_01",
-      "lat": 47.60815,
-      "lng": -122.34286,
+      "name": "紐約自由女神像",
+      "lat": 40.689247,
+      "lng": -74.044502,
       "source": "OFFICIAL",
       "officialId": "seattle_gold_01",
       "updatedAt": 1780975030801
@@ -214,9 +214,9 @@
     {
       "id": "seattle_gold_02",
       "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_02",
-      "lat": 47.607412,
-      "lng": -122.342139,
+      "name": "舊金山金門大橋",
+      "lat": 37.819929,
+      "lng": -122.478255,
       "source": "OFFICIAL",
       "officialId": "seattle_gold_02",
       "updatedAt": 1780975030802
@@ -224,9 +224,9 @@
     {
       "id": "seattle_gold_03",
       "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_03",
-      "lat": 47.606547,
-      "lng": -122.340875,
+      "name": "西雅圖太空針塔",
+      "lat": 47.6205,
+      "lng": -122.3493,
       "source": "OFFICIAL",
       "officialId": "seattle_gold_03",
       "updatedAt": 1780975030803
@@ -234,9 +234,9 @@
     {
       "id": "seattle_gold_04",
       "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_04",
-      "lat": 47.60624,
-      "lng": -122.34233,
+      "name": "芝加哥雲門（千禧公園）",
+      "lat": 41.8827,
+      "lng": -87.6233,
       "source": "OFFICIAL",
       "officialId": "seattle_gold_04",
       "updatedAt": 1780975030804
@@ -244,9 +244,9 @@
     {
       "id": "seattle_gold_05",
       "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_05",
-      "lat": 47.60615,
-      "lng": -122.3409,
+      "name": "洛杉磯好萊塢標誌",
+      "lat": 34.1341,
+      "lng": -118.3215,
       "source": "OFFICIAL",
       "officialId": "seattle_gold_05",
       "updatedAt": 1780975030805
@@ -254,9 +254,9 @@
     {
       "id": "seattle_gold_06",
       "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_06",
-      "lat": 47.60395,
-      "lng": -122.33764,
+      "name": "華盛頓林肯紀念堂",
+      "lat": 38.8893,
+      "lng": -77.0502,
       "source": "OFFICIAL",
       "officialId": "seattle_gold_06",
       "updatedAt": 1780975030806
@@ -264,9 +264,9 @@
     {
       "id": "seattle_gold_07",
       "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_07",
-      "lat": 47.60395,
-      "lng": -122.33888,
+      "name": "大峽谷國家公園觀景台",
+      "lat": 36.0544,
+      "lng": -112.1401,
       "source": "OFFICIAL",
       "officialId": "seattle_gold_07",
       "updatedAt": 1780975030807
@@ -274,9 +274,9 @@
     {
       "id": "seattle_gold_08",
       "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_08",
-      "lat": 47.60347,
-      "lng": -122.33618,
+      "name": "黃石國家公園老忠實噴泉",
+      "lat": 44.4605,
+      "lng": -110.8281,
       "source": "OFFICIAL",
       "officialId": "seattle_gold_08",
       "updatedAt": 1780975030808
@@ -284,9 +284,9 @@
     {
       "id": "seattle_gold_09",
       "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_09",
-      "lat": 47.60091,
-      "lng": -122.33619,
+      "name": "多倫多加拿大國家電視塔",
+      "lat": 43.6426,
+      "lng": -79.3871,
       "source": "OFFICIAL",
       "officialId": "seattle_gold_09",
       "updatedAt": 1780975030809
@@ -294,9 +294,9 @@
     {
       "id": "media_collect_01",
       "folderId": "folder_media_collect",
-      "name": "黃皮🔍",
-      "lat": 34.701668,
-      "lng": 135.496423,
+      "name": "巴黎艾菲爾鐵塔",
+      "lat": 48.8588443,
+      "lng": 2.2943506,
       "source": "OFFICIAL",
       "officialId": "media_collect_01",
       "updatedAt": 1780975500001
@@ -304,9 +304,9 @@
     {
       "id": "media_collect_04",
       "folderId": "folder_media_collect",
-      "name": "Super Nintendo World🌹",
-      "lat": 34.66716,
-      "lng": 135.43051,
+      "name": "巴黎羅浮宮",
+      "lat": 48.8606111,
+      "lng": 2.337644,
       "source": "OFFICIAL",
       "officialId": "media_collect_04",
       "updatedAt": 1780975500004
@@ -314,9 +314,9 @@
     {
       "id": "media_collect_05",
       "folderId": "folder_media_collect",
-      "name": "首爾隱藏手繪風(隱藏)🔍",
-      "lat": 37.6033124,
-      "lng": 127.0348836,
+      "name": "倫敦大本鐘",
+      "lat": 51.5007292,
+      "lng": -0.1246254,
       "source": "OFFICIAL",
       "officialId": "media_collect_05",
       "updatedAt": 1780975500005
@@ -324,9 +324,9 @@
     {
       "id": "media_collect_06",
       "folderId": "folder_media_collect",
-      "name": "香港迪士尼🍄",
-      "lat": 22.31257,
-      "lng": 114.04132,
+      "name": "羅馬競技場",
+      "lat": 41.8902102,
+      "lng": 12.4922309,
       "source": "OFFICIAL",
       "officialId": "media_collect_06",
       "updatedAt": 1780975500006
@@ -334,9 +334,9 @@
     {
       "id": "media_collect_08",
       "folderId": "folder_media_collect",
-      "name": "金字塔🌹",
-      "lat": 29.97254753,
-      "lng": 31.12836647,
+      "name": "巴塞隆納聖家堂",
+      "lat": 41.4036299,
+      "lng": 2.1743558,
       "source": "OFFICIAL",
       "officialId": "media_collect_08",
       "updatedAt": 1780975500008
@@ -344,9 +344,9 @@
     {
       "id": "media_collect_09",
       "folderId": "folder_media_collect",
-      "name": "熱氣球Rose Valley🌹",
-      "lat": 38.65611,
-      "lng": 34.84095,
+      "name": "雅典衛城",
+      "lat": 37.9715,
+      "lng": 23.7257,
       "source": "OFFICIAL",
       "officialId": "media_collect_09",
       "updatedAt": 1780975500009
@@ -354,9 +354,9 @@
     {
       "id": "media_collect_10",
       "folderId": "folder_media_collect",
-      "name": "大谷翔平🔍",
-      "lat": 34.0509219,
-      "lng": -118.2491722,
+      "name": "柏林布蘭登堡門",
+      "lat": 52.5163,
+      "lng": 13.3777,
       "source": "OFFICIAL",
       "officialId": "media_collect_10",
       "updatedAt": 1780975500010
@@ -364,9 +364,9 @@
     {
       "id": "media_collect_11",
       "folderId": "folder_media_collect",
-      "name": "安平古堡🍄",
-      "lat": 23.00161,
-      "lng": 120.16091,
+      "name": "威尼斯聖馬可廣場",
+      "lat": 45.4342,
+      "lng": 12.3385,
       "source": "OFFICIAL",
       "officialId": "media_collect_11",
       "updatedAt": 1780975500011
@@ -374,9 +374,9 @@
     {
       "id": "media_collect_12",
       "folderId": "folder_media_collect",
-      "name": "天空の響き🍄",
-      "lat": 34.153386,
-      "lng": 135.604234,
+      "name": "阿姆斯特丹國立博物館",
+      "lat": 52.36,
+      "lng": 4.8852,
       "source": "OFFICIAL",
       "officialId": "media_collect_12",
       "updatedAt": 1780975500012
@@ -384,9 +384,9 @@
     {
       "id": "media_collect_13",
       "folderId": "folder_media_collect",
-      "name": "Starfish Under the Sea🍄",
-      "lat": 32.68677,
-      "lng": -117.19762,
+      "name": "維也納美泉宮",
+      "lat": 48.1845,
+      "lng": 16.3122,
       "source": "OFFICIAL",
       "officialId": "media_collect_13",
       "updatedAt": 1780975500013
@@ -394,9 +394,9 @@
     {
       "id": "media_collect_14",
       "folderId": "folder_media_collect",
-      "name": "The Rolling Hills of Italy Painting🍄",
-      "lat": 40.36953,
-      "lng": -80.10505,
+      "name": "布拉格查理大橋",
+      "lat": 50.0865,
+      "lng": 14.4114,
       "source": "OFFICIAL",
       "officialId": "media_collect_14",
       "updatedAt": 1780975500014
@@ -404,9 +404,9 @@
     {
       "id": "media_collect_15",
       "folderId": "folder_media_collect",
-      "name": "幸 の階段🌹",
-      "lat": 34.5132,
-      "lng": 134.86939,
+      "name": "瑞士少女峰車站",
+      "lat": 46.5475,
+      "lng": 7.9822,
       "source": "OFFICIAL",
       "officialId": "media_collect_15",
       "updatedAt": 1780975500015
@@ -414,9 +414,9 @@
     {
       "id": "media_collect_31",
       "folderId": "folder_media_collect",
-      "name": "🌸 龍貓巴士",
-      "lat": 24.13517,
-      "lng": 120.691631,
+      "name": "布達佩斯國會大廈",
+      "lat": 47.5072,
+      "lng": 19.0456,
       "source": "OFFICIAL",
       "officialId": "media_collect_31",
       "updatedAt": 1780975500031
@@ -424,9 +424,9 @@
     {
       "id": "point_new_24",
       "folderId": "folder_pure",
-      "name": "森林",
-      "lat": 25.0391138,
-      "lng": 121.5391674,
+      "name": "雪梨歌劇院",
+      "lat": -33.8567844,
+      "lng": 151.2152967,
       "source": "OFFICIAL",
       "officialId": "point_new_24",
       "updatedAt": 1781256000001
@@ -434,9 +434,9 @@
     {
       "id": "point_new_25",
       "folderId": "folder_pure",
-      "name": "咖啡杯",
-      "lat": 25.0399841,
-      "lng": 121.538918,
+      "name": "馬丘比丘",
+      "lat": -13.1631412,
+      "lng": -72.5449629,
       "source": "OFFICIAL",
       "officialId": "point_new_25",
       "updatedAt": 1781256000002
@@ -444,45 +444,49 @@
     {
       "id": "point_new_26",
       "folderId": "folder_pure",
-      "name": "雨天葉子帽",
-      "lat": -46.2595857658,
-      "lng": -73.8084976003,
+      "name": "吉薩金字塔群",
+      "lat": 29.9792345,
+      "lng": 31.1342019,
       "source": "OFFICIAL",
       "officialId": "point_new_26",
       "updatedAt": 1781256000003
     },
     {
       "id": "point_20260614143100",
-      "name": "嘉義市立美術館",
-      "lat": 23.476942,
-      "lng": 120.4406666,
+      "folderId": "folder_timezone",
+      "name": "萬里長城八達嶺",
+      "lat": 40.3582,
+      "lng": 116.0151,
       "source": "OFFICIAL",
       "officialId": "point_20260614143100",
       "updatedAt": 1781447506214
     },
     {
       "id": "point_20260614143202",
-      "name": "嘉義文化創意產業園區",
-      "lat": 23.4771902,
-      "lng": 120.4400848,
+      "folderId": "folder_timezone",
+      "name": "吳哥窟",
+      "lat": 13.4125,
+      "lng": 103.867,
       "source": "OFFICIAL",
       "officialId": "point_20260614143202",
       "updatedAt": 1781447538659
     },
     {
       "id": "point_20260614143531",
-      "name": "嘉義市立棒球場",
-      "lat": 23.4816471,
-      "lng": 120.4650697,
+      "folderId": "folder_timezone",
+      "name": "里約熱內盧基督像",
+      "lat": -22.9519,
+      "lng": -43.2105,
       "source": "OFFICIAL",
       "officialId": "point_20260614143531",
       "updatedAt": 1781447738967
     },
     {
       "id": "point_20260614143945",
-      "name": "嘉義文化公園",
-      "lat": 23.4755571,
-      "lng": 120.4506842,
+      "folderId": "folder_timezone",
+      "name": "約旦佩特拉古城",
+      "lat": 30.3285,
+      "lng": 35.4444,
       "source": "OFFICIAL",
       "officialId": "point_20260614143945",
       "updatedAt": 1781447992891
@@ -490,9 +494,9 @@
     {
       "id": "point_20260615040630",
       "folderId": "folder_media_collect",
-      "name": "韓國雷神之槌菇",
-      "lat": 37.2469908,
-      "lng": 126.8690505,
+      "name": "伊斯坦堡聖索菲亞大教堂",
+      "lat": 41.0086,
+      "lng": 28.9802,
       "source": "OFFICIAL",
       "officialId": "point_20260615040630",
       "updatedAt": 1781496403409
@@ -500,9 +504,9 @@
     {
       "id": "point_20260622020800",
       "folderId": "folder_pure",
-      "name": "文具_台北(小品雅集)",
-      "lat": 25.03139,
-      "lng": 121.54118,
+      "name": "日月潭拉魯島",
+      "lat": 23.8596,
+      "lng": 120.9069,
       "source": "OFFICIAL",
       "officialId": "point_20260622020800",
       "updatedAt": 1782094124366
@@ -510,9 +514,9 @@
     {
       "id": "point_20260723225401",
       "folderId": "folder_media_collect",
-      "name": "Schwangau, Bavaria, Germany",
-      "lat": 47.578766,
-      "lng": 10.749575,
+      "name": "德國新天鵝堡",
+      "lat": 47.5576,
+      "lng": 10.7498,
       "source": "OFFICIAL",
       "officialId": "point_20260723225401",
       "updatedAt": 1784820840000
@@ -520,9 +524,9 @@
     {
       "id": "point_20260723225402",
       "folderId": "folder_media_collect",
-      "name": "Jaipur Municipal Corporation",
-      "lat": 26.988962,
-      "lng": 75.851014,
+      "name": "聖米歇爾山",
+      "lat": 48.636,
+      "lng": -1.5115,
       "source": "OFFICIAL",
       "officialId": "point_20260723225402",
       "updatedAt": 1784820840000
@@ -530,9 +534,9 @@
     {
       "id": "point_20260723225403",
       "folderId": "folder_media_collect",
-      "name": "河合ふれあい広場",
-      "lat": 35.038266,
-      "lng": 137.166303,
+      "name": "阿瑪菲海岸",
+      "lat": 40.634,
+      "lng": 14.6027,
       "source": "OFFICIAL",
       "officialId": "point_20260723225403",
       "updatedAt": 1784820840000
@@ -540,9 +544,9 @@
     {
       "id": "point_20260724075158",
       "folderId": "folder_media_collect",
-      "name": "Victoria Beachcomber Resort",
-      "lat": -20.075991,
-      "lng": 57.513315,
+      "name": "莫斯科紅場",
+      "lat": 55.7539,
+      "lng": 37.6208,
       "source": "OFFICIAL",
       "officialId": "point_20260724075158",
       "updatedAt": 1784850718000
@@ -550,9 +554,9 @@
     {
       "id": "point_20260724075245",
       "folderId": "folder_media_collect",
-      "name": "Perttelin kirkko",
-      "lat": 60.446965,
-      "lng": 23.250156,
+      "name": "赫爾辛基大教堂",
+      "lat": 60.1704,
+      "lng": 24.9522,
       "source": "OFFICIAL",
       "officialId": "point_20260724075245",
       "updatedAt": 1784850765000
@@ -560,9 +564,9 @@
     {
       "id": "point_20260726203301",
       "folderId": "folder_timezone",
-      "name": "美屬薩摩亞",
-      "lat": -14.295844,
-      "lng": -170.694194,
+      "name": "復活節島摩艾石像",
+      "lat": -27.1127,
+      "lng": -109.3497,
       "source": "OFFICIAL",
       "officialId": "point_20260726203301",
       "updatedAt": 1785069237000
@@ -570,9 +574,9 @@
     {
       "id": "point_20260726203302",
       "folderId": "folder_timezone",
-      "name": "庫克群島",
-      "lat": -21.235851,
-      "lng": -159.779139,
+      "name": "玻利維亞天空之鏡（烏尤尼鹽沼）",
+      "lat": -20.1338,
+      "lng": -67.4891,
       "source": "OFFICIAL",
       "officialId": "point_20260726203302",
       "updatedAt": 1785069237000
@@ -580,9 +584,9 @@
     {
       "id": "point_20260726203303",
       "folderId": "folder_timezone",
-      "name": "大溪地",
-      "lat": -17.644674,
-      "lng": -149.49436,
+      "name": "大溪地波拉波拉島",
+      "lat": -16.5004,
+      "lng": -151.7415,
       "source": "OFFICIAL",
       "officialId": "point_20260726203303",
       "updatedAt": 1785069237000
@@ -590,9 +594,9 @@
     {
       "id": "point_20260726203304",
       "folderId": "folder_timezone",
-      "name": "夏威夷州",
-      "lat": 21.537577,
-      "lng": -158.070787,
+      "name": "夏威夷火山國家公園",
+      "lat": 19.4194,
+      "lng": -155.2885,
       "source": "OFFICIAL",
       "officialId": "point_20260726203304",
       "updatedAt": 1785069237000
@@ -600,9 +604,9 @@
     {
       "id": "point_20260726203305",
       "folderId": "folder_timezone",
-      "name": "阿拉斯加州",
-      "lat": 61.161264,
-      "lng": -149.707439,
+      "name": "阿拉斯加冰河灣國家公園",
+      "lat": 58.6658,
+      "lng": -136.9002,
       "source": "OFFICIAL",
       "officialId": "point_20260726203305",
       "updatedAt": 1785069237000
@@ -610,9 +614,9 @@
     {
       "id": "point_20260727150501",
       "folderId": "folder_202608_special",
-      "name": "IKEA 新莊店",
-      "lat": 25.0414382,
-      "lng": 121.4652689,
+      "name": "尼加拉瀑布",
+      "lat": 43.0962,
+      "lng": -79.0377,
       "source": "OFFICIAL",
       "officialId": "point_20260727150501",
       "updatedAt": 1785588112000
@@ -620,9 +624,9 @@
     {
       "id": "point_20260727150502",
       "folderId": "folder_202608_special",
-      "name": "IKEA 新店店",
-      "lat": 24.9721159,
-      "lng": 121.5307952,
+      "name": "伊瓜蘇瀑布",
+      "lat": -25.6953,
+      "lng": -54.4367,
       "source": "OFFICIAL",
       "officialId": "point_20260727150502",
       "updatedAt": 1785588112000
@@ -630,9 +634,9 @@
     {
       "id": "point_20260727150503",
       "folderId": "folder_202608_special",
-      "name": "IKEA 內湖店",
-      "lat": 25.0608403,
-      "lng": 121.5782445,
+      "name": "維多利亞瀑布",
+      "lat": -17.9244,
+      "lng": 25.8572,
       "source": "OFFICIAL",
       "officialId": "point_20260727150503",
       "updatedAt": 1785583724000
@@ -640,9 +644,9 @@
     {
       "id": "point_20260727150504",
       "folderId": "folder_202608_special",
-      "name": "IKEA 台北城市店",
-      "lat": 25.0529122,
-      "lng": 121.5480881,
+      "name": "冰島藍湖溫泉",
+      "lat": 63.8804,
+      "lng": -22.4495,
       "source": "OFFICIAL",
       "officialId": "point_20260727150504",
       "updatedAt": 1785583724000
@@ -650,9 +654,9 @@
     {
       "id": "point_20260727150505",
       "folderId": "folder_202608_special",
-      "name": "IKEA 桃園店",
-      "lat": 25.0131961,
-      "lng": 121.2174794,
+      "name": "土耳其卡帕多奇亞奇石林",
+      "lat": 38.6431,
+      "lng": 34.8303,
       "source": "OFFICIAL",
       "officialId": "point_20260727150505",
       "updatedAt": 1785588112000
@@ -660,9 +664,9 @@
     {
       "id": "point_20260727150506",
       "folderId": "folder_202608_special",
-      "name": "IKEA 台中店",
-      "lat": 24.1474184,
-      "lng": 120.6431792,
+      "name": "希臘聖托里尼伊亞",
+      "lat": 36.4618,
+      "lng": 25.3753,
       "source": "OFFICIAL",
       "officialId": "point_20260727150506",
       "updatedAt": 1785583724000
@@ -670,9 +674,9 @@
     {
       "id": "point_20260727150507",
       "folderId": "folder_202608_special",
-      "name": "IKEA 高雄店",
-      "lat": 22.605661,
-      "lng": 120.303915,
+      "name": "紐西蘭米爾福德峽灣",
+      "lat": -44.6716,
+      "lng": 167.9256,
       "source": "OFFICIAL",
       "officialId": "point_20260727150507",
       "updatedAt": 1785588112000
@@ -680,9 +684,9 @@
     {
       "id": "point_20260727150508",
       "folderId": "folder_202608_special",
-      "name": "IKEA 嘉義城市店",
-      "lat": 23.4782175,
-      "lng": 120.4380616,
+      "name": "大堡堡礁觀景點",
+      "lat": -18.2871,
+      "lng": 147.6992,
       "source": "OFFICIAL",
       "officialId": "point_20260727150508",
       "updatedAt": 1785588112000
@@ -690,9 +694,9 @@
     {
       "id": "point_20260701010811",
       "folderId": "folder_202608_special",
-      "name": "Xpark 金盆",
-      "lat": 25.017257,
-      "lng": 121.214242,
+      "name": "澳洲烏魯魯（艾爾斯岩）",
+      "lat": -25.3444,
+      "lng": 131.0369,
       "source": "OFFICIAL",
       "officialId": "point_20260701010811",
       "updatedAt": 1785576368000
@@ -700,9 +704,9 @@
     {
       "id": "point_20260801092812",
       "folderId": "folder_pure",
-      "name": "塔可餅",
-      "lat": 24.15233258914237,
-      "lng": 120.65639577805996,
+      "name": "墾丁國家公園",
+      "lat": 21.9481,
+      "lng": 120.7797,
       "source": "OFFICIAL",
       "officialId": "point_20260801092812",
       "updatedAt": 1785576492000
