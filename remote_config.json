@@ -12,7 +12,7 @@
   "advancedFeaturesEnabled": true,
   "proPromote": true,
   "proPurchaseEnabled": false,
-  "donateEnabled": true,
+  "donateEnabled": false,
   "minSupportedVersionCode": 20,
   "messageTitle": "GeoSim 正式上線",
   "message": "慶祝上線，進階功能限時免費開放、體驗期間無廣告，盡情試玩！喜歡的話歡迎到商店留個評價支持我 ❤️",
