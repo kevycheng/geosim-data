@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1785930194000,
+  "updatedAt": 1786952817384,
   "folders": [
     {
       "id": "folder_nintendo_tw",
@@ -38,6 +38,12 @@
       "name": "[Pikmin] 8月特殊地點",
       "source": "OFFICIAL",
       "updatedAt": 1785588112000
+    },
+    {
+      "id": "folder_weekly_cat",
+      "name": "[每周精選明信片] 貓咪",
+      "source": "OFFICIAL",
+      "updatedAt": 1786952817384
     }
   ],
   "bookmarks": [
@@ -690,6 +696,206 @@
       "source": "OFFICIAL",
       "officialId": "point_20260805154302",
       "updatedAt": 1785930194000
+    },
+    {
+      "id": "pc_dfeb8dd4a35b4f28a9372985c9449893",
+      "folderId": "folder_weekly_cat",
+      "name": "ひょっこりにゃんこ",
+      "lat": 35.384985,
+      "lng": 139.929237,
+      "source": "OFFICIAL",
+      "officialId": "pc_dfeb8dd4a35b4f28a9372985c9449893",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_376b9e7fb2e247a08e14e0ca3790ca51",
+      "folderId": "folder_weekly_cat",
+      "name": "Tác phẩm đôi mèo",
+      "lat": 11.945642,
+      "lng": 108.407969,
+      "source": "OFFICIAL",
+      "officialId": "pc_376b9e7fb2e247a08e14e0ca3790ca51",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_2b291a03af3540a1aa5f18b50d779288",
+      "folderId": "folder_weekly_cat",
+      "name": "根の上の猫",
+      "lat": 41.77453,
+      "lng": 140.727422,
+      "source": "OFFICIAL",
+      "officialId": "pc_2b291a03af3540a1aa5f18b50d779288",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_aed140f8856e4150a27dad64179dd49e",
+      "folderId": "folder_weekly_cat",
+      "name": "A Cat Starry Night",
+      "lat": 41.96446,
+      "lng": -76.510632,
+      "source": "OFFICIAL",
+      "officialId": "pc_aed140f8856e4150a27dad64179dd49e",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_ce708098bcb344e38fdbe8a78998fd61",
+      "folderId": "folder_weekly_cat",
+      "name": "Astronaut Kitty",
+      "lat": -37.651976,
+      "lng": 145.020414,
+      "source": "OFFICIAL",
+      "officialId": "pc_ce708098bcb344e38fdbe8a78998fd61",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_bcf9d2b6a5de4049bb24be320841fd4c",
+      "folderId": "folder_weekly_cat",
+      "name": "Mural del gato",
+      "lat": 25.665866,
+      "lng": -100.412802,
+      "source": "OFFICIAL",
+      "officialId": "pc_bcf9d2b6a5de4049bb24be320841fd4c",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_5f7338115c114ac6acc1dd318db10b28",
+      "folderId": "folder_weekly_cat",
+      "name": "Purr-fect Mural",
+      "lat": 33.606386,
+      "lng": -112.063591,
+      "source": "OFFICIAL",
+      "officialId": "pc_5f7338115c114ac6acc1dd318db10b28",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_f154438e8b65421f91bb661104ca807e",
+      "folderId": "folder_weekly_cat",
+      "name": "Terminal 2E Sleeping Cat",
+      "lat": 49.00098,
+      "lng": 2.585445,
+      "source": "OFFICIAL",
+      "officialId": "pc_f154438e8b65421f91bb661104ca807e",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_5fc1ed7cf4b14438a02e0adfdf137e63",
+      "folderId": "folder_weekly_cat",
+      "name": "嘉義公車路龍貓",
+      "lat": 23.592118,
+      "lng": 120.355486,
+      "source": "OFFICIAL",
+      "officialId": "pc_5fc1ed7cf4b14438a02e0adfdf137e63",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_3ddfd709a67c41028a19a0d5c69339da",
+      "folderId": "folder_weekly_cat",
+      "name": "Вірні Друзі",
+      "lat": 50.897902,
+      "lng": 34.809139,
+      "source": "OFFICIAL",
+      "officialId": "pc_3ddfd709a67c41028a19a0d5c69339da",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_e265447e10be4abd9da8d2c97e9761d4",
+      "folderId": "folder_weekly_cat",
+      "name": "Cat Cafe Mural",
+      "lat": 33.133703,
+      "lng": -117.229409,
+      "source": "OFFICIAL",
+      "officialId": "pc_e265447e10be4abd9da8d2c97e9761d4",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_2b31669c08614036b17f6698f86f1c55",
+      "folderId": "folder_weekly_cat",
+      "name": "Katzen auf der Mauer",
+      "lat": 50.877345,
+      "lng": 12.800534,
+      "source": "OFFICIAL",
+      "officialId": "pc_2b31669c08614036b17f6698f86f1c55",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_8c13198dc29b408787ec37142d353a4d",
+      "folderId": "folder_weekly_cat",
+      "name": "ねこあくしょん",
+      "lat": 35.727667,
+      "lng": 139.767597,
+      "source": "OFFICIAL",
+      "officialId": "pc_8c13198dc29b408787ec37142d353a4d",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_c5432c95d06d42d682293e1918dc9f5c",
+      "folderId": "folder_weekly_cat",
+      "name": "Le cgat noir",
+      "lat": 48.598818,
+      "lng": 7.791304,
+      "source": "OFFICIAL",
+      "officialId": "pc_c5432c95d06d42d682293e1918dc9f5c",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_ff3b2b86705e4ae4b2f0b04b50bb3e8a",
+      "folderId": "folder_weekly_cat",
+      "name": "美少女戰士",
+      "lat": 48.436108,
+      "lng": -123.399773,
+      "source": "OFFICIAL",
+      "officialId": "pc_ff3b2b86705e4ae4b2f0b04b50bb3e8a",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_ccbba8143c0340a8898499a6f952cdd4",
+      "folderId": "folder_weekly_cat",
+      "name": "Gato gato",
+      "lat": 20.753463,
+      "lng": -89.830848,
+      "source": "OFFICIAL",
+      "officialId": "pc_ccbba8143c0340a8898499a6f952cdd4",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_768f87b4fabe48d5a8a39040c7fb8386",
+      "folderId": "folder_weekly_cat",
+      "name": "Mural del Gato Colorido",
+      "lat": -34.071852,
+      "lng": -70.72428,
+      "source": "OFFICIAL",
+      "officialId": "pc_768f87b4fabe48d5a8a39040c7fb8386",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_e41aba51d6a1444d8d69804ce4e5f33d",
+      "folderId": "folder_weekly_cat",
+      "name": "Mural Gato Blanco Michlin",
+      "lat": 4.199341,
+      "lng": -74.643173,
+      "source": "OFFICIAL",
+      "officialId": "pc_e41aba51d6a1444d8d69804ce4e5f33d",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_872d61c388ce47199cd18c64a0845818",
+      "folderId": "folder_weekly_cat",
+      "name": "貨櫃上的貓",
+      "lat": 25.008002,
+      "lng": 121.26188,
+      "source": "OFFICIAL",
+      "officialId": "pc_872d61c388ce47199cd18c64a0845818",
+      "updatedAt": 1786952817384
+    },
+    {
+      "id": "pc_c3b03acabb9a427aa275a4ea7421ff60",
+      "folderId": "folder_weekly_cat",
+      "name": "Gato Colorido",
+      "lat": -3.090779,
+      "lng": -60.044453,
+      "source": "OFFICIAL",
+      "officialId": "pc_c3b03acabb9a427aa275a4ea7421ff60",
+      "updatedAt": 1786952817384
     }
   ]
 }
