@@ -38,12 +38,6 @@
       "name": "[Pikmin] 8月特殊地點",
       "source": "OFFICIAL",
       "updatedAt": 1785588112000
-    },
-    {
-      "id": "folder_chiayi",
-      "name": "[Pikmin] 嘉義收集",
-      "source": "OFFICIAL",
-      "updatedAt": 1785930355000
     }
   ],
   "bookmarks": [
@@ -676,46 +670,6 @@
       "source": "OFFICIAL",
       "officialId": "point_20260701010811",
       "updatedAt": 1785576368000
-    },
-    {
-      "id": "point_20260614143100",
-      "folderId": "folder_chiayi",
-      "name": "嘉義市立美術館",
-      "lat": 23.476942,
-      "lng": 120.4406666,
-      "source": "OFFICIAL",
-      "officialId": "point_20260614143100",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "point_20260614143202",
-      "folderId": "folder_chiayi",
-      "name": "嘉義文化創意產業園區",
-      "lat": 23.4771902,
-      "lng": 120.4400848,
-      "source": "OFFICIAL",
-      "officialId": "point_20260614143202",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "point_20260614143531",
-      "folderId": "folder_chiayi",
-      "name": "嘉義市立棒球場",
-      "lat": 23.4816471,
-      "lng": 120.4650697,
-      "source": "OFFICIAL",
-      "officialId": "point_20260614143531",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "point_20260614143945",
-      "folderId": "folder_chiayi",
-      "name": "嘉義文化公園",
-      "lat": 23.4755571,
-      "lng": 120.4506842,
-      "source": "OFFICIAL",
-      "officialId": "point_20260614143945",
-      "updatedAt": 1785930355000
     },
     {
       "id": "point_20260805154301",
