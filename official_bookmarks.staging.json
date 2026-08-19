@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1787124546516,
+  "updatedAt": 1787146403349,
   "folders": [
     {
       "id": "folder_weekly_featured",
@@ -61,6 +61,97 @@
       "source": "OFFICIAL",
       "updatedAt": 1787124546516,
       "parentId": "folder_gold_pots"
+    },
+    {
+      "id": "folder_pure_airport",
+      "name": "飛機",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_burger",
+      "name": "漢堡",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_university",
+      "name": "大學",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_shrine",
+      "name": "神社",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_ramen",
+      "name": "拉麵",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_korean",
+      "name": "泡菜",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_bridge",
+      "name": "橋樑",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_forest",
+      "name": "森林",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_cafe",
+      "name": "咖啡杯",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_rainy_leaf",
+      "name": "雨天葉子帽",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_stationery",
+      "name": "文具",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_mexican",
+      "name": "塔可餅",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_stadium",
+      "name": "體育館",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
     }
   ],
   "bookmarks": [
@@ -143,136 +234,6 @@
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_08",
       "updatedAt": 1781149938368
-    },
-    {
-      "id": "point_new_2",
-      "folderId": "folder_pure",
-      "name": "飛機_松山機場",
-      "lat": 25.0674665,
-      "lng": 121.55398,
-      "source": "OFFICIAL",
-      "officialId": "point_new_2",
-      "updatedAt": 1780972311962
-    },
-    {
-      "id": "point_new_4",
-      "folderId": "folder_pure",
-      "name": "漢堡_高雄(純)",
-      "lat": 22.681261,
-      "lng": 120.31822,
-      "source": "OFFICIAL",
-      "officialId": "point_new_4",
-      "updatedAt": 1780974738457
-    },
-    {
-      "id": "point_new_7",
-      "folderId": "folder_pure",
-      "name": "大學_台灣大學",
-      "lat": 25.021175,
-      "lng": 121.535384,
-      "source": "OFFICIAL",
-      "officialId": "point_new_7",
-      "updatedAt": 1780973500002
-    },
-    {
-      "id": "point_new_9",
-      "folderId": "folder_pure",
-      "name": "神社_稻荷大明神(美菇)",
-      "lat": 34.362,
-      "lng": 133.585,
-      "source": "OFFICIAL",
-      "officialId": "point_new_9",
-      "updatedAt": 1780974852951
-    },
-    {
-      "id": "point_new_11",
-      "folderId": "folder_pure",
-      "name": "拉麵_新北三重(純)",
-      "lat": 25.050287,
-      "lng": 121.487401,
-      "source": "OFFICIAL",
-      "officialId": "point_new_11",
-      "updatedAt": 1780974969515
-    },
-    {
-      "id": "point_new_12",
-      "folderId": "folder_pure",
-      "name": "泡菜_釜山",
-      "lat": 35.121665,
-      "lng": 129.11105,
-      "source": "OFFICIAL",
-      "officialId": "point_new_12",
-      "updatedAt": 1780973500007
-    },
-    {
-      "id": "point_new_19",
-      "folderId": "folder_pure",
-      "name": "橋樑_中和",
-      "lat": 24.9930915,
-      "lng": 121.5077236,
-      "source": "OFFICIAL",
-      "officialId": "point_new_19",
-      "updatedAt": 1780973500014
-    },
-    {
-      "id": "point_new_20",
-      "folderId": "folder_pure",
-      "name": "橋樑_長崎女神大橋",
-      "lat": 32.721391,
-      "lng": 129.849544,
-      "source": "OFFICIAL",
-      "officialId": "point_new_20",
-      "updatedAt": 1780973500015
-    },
-    {
-      "id": "point_new_24",
-      "folderId": "folder_pure",
-      "name": "森林_台北大安公園",
-      "lat": 25.0391138,
-      "lng": 121.5391674,
-      "source": "OFFICIAL",
-      "officialId": "point_new_24",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "point_new_25",
-      "folderId": "folder_pure",
-      "name": "咖啡杯_台北",
-      "lat": 25.0399841,
-      "lng": 121.538918,
-      "source": "OFFICIAL",
-      "officialId": "point_new_25",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "point_new_26",
-      "folderId": "folder_pure",
-      "name": "雨天葉子帽_智利",
-      "lat": -46.2595857658,
-      "lng": -73.8084976003,
-      "source": "OFFICIAL",
-      "officialId": "point_new_26",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "point_20260622020800",
-      "folderId": "folder_pure",
-      "name": "文具_台北(小品雅集)",
-      "lat": 25.03139,
-      "lng": 121.54118,
-      "source": "OFFICIAL",
-      "officialId": "point_20260622020800",
-      "updatedAt": 1782094124366
-    },
-    {
-      "id": "point_20260801092812",
-      "folderId": "folder_pure",
-      "name": "塔可餅_台中",
-      "lat": 24.15233258914237,
-      "lng": 120.65639577805996,
-      "source": "OFFICIAL",
-      "officialId": "point_20260801092812",
-      "updatedAt": 1785930355000
     },
     {
       "id": "seattle_gold_01",
@@ -505,16 +466,6 @@
       "updatedAt": 1785576368000
     },
     {
-      "id": "point_20260805154302",
-      "folderId": "folder_pure",
-      "name": "體育館_台北大巨蛋",
-      "lat": 25.0421533,
-      "lng": 121.5605882,
-      "source": "OFFICIAL",
-      "officialId": "point_20260805154302",
-      "updatedAt": 1785930194000
-    },
-    {
       "id": "pc_376b9e7fb2e247a08e14e0ca3790ca51",
       "folderId": "folder_weekly_featured_mushroom",
       "name": "Tác phẩm đôi mèo",
@@ -713,6 +664,146 @@
       "source": "OFFICIAL",
       "officialId": "pc_d02413bed32148ffa2278f75010525a3",
       "updatedAt": 1786954551274
+    },
+    {
+      "id": "point_new_2",
+      "folderId": "folder_pure_airport",
+      "name": "飛機_松山機場",
+      "lat": 25.0674665,
+      "lng": 121.55398,
+      "source": "OFFICIAL",
+      "officialId": "point_new_2",
+      "updatedAt": 1780972311962
+    },
+    {
+      "id": "point_new_4",
+      "folderId": "folder_pure_burger",
+      "name": "漢堡_高雄(純)",
+      "lat": 22.681261,
+      "lng": 120.31822,
+      "source": "OFFICIAL",
+      "officialId": "point_new_4",
+      "updatedAt": 1780974738457
+    },
+    {
+      "id": "point_new_7",
+      "folderId": "folder_pure_university",
+      "name": "大學_台灣大學",
+      "lat": 25.021175,
+      "lng": 121.535384,
+      "source": "OFFICIAL",
+      "officialId": "point_new_7",
+      "updatedAt": 1780973500002
+    },
+    {
+      "id": "point_new_9",
+      "folderId": "folder_pure_shrine",
+      "name": "神社_稻荷大明神(美菇)",
+      "lat": 34.362,
+      "lng": 133.585,
+      "source": "OFFICIAL",
+      "officialId": "point_new_9",
+      "updatedAt": 1780974852951
+    },
+    {
+      "id": "point_new_11",
+      "folderId": "folder_pure_ramen",
+      "name": "拉麵_新北三重(純)",
+      "lat": 25.050287,
+      "lng": 121.487401,
+      "source": "OFFICIAL",
+      "officialId": "point_new_11",
+      "updatedAt": 1780974969515
+    },
+    {
+      "id": "point_new_12",
+      "folderId": "folder_pure_korean",
+      "name": "泡菜_釜山",
+      "lat": 35.121665,
+      "lng": 129.11105,
+      "source": "OFFICIAL",
+      "officialId": "point_new_12",
+      "updatedAt": 1780973500007
+    },
+    {
+      "id": "point_new_19",
+      "folderId": "folder_pure_bridge",
+      "name": "橋樑_中和",
+      "lat": 24.9930915,
+      "lng": 121.5077236,
+      "source": "OFFICIAL",
+      "officialId": "point_new_19",
+      "updatedAt": 1780973500014
+    },
+    {
+      "id": "point_new_20",
+      "folderId": "folder_pure_bridge",
+      "name": "橋樑_長崎女神大橋",
+      "lat": 32.721391,
+      "lng": 129.849544,
+      "source": "OFFICIAL",
+      "officialId": "point_new_20",
+      "updatedAt": 1780973500015
+    },
+    {
+      "id": "point_new_24",
+      "folderId": "folder_pure_forest",
+      "name": "森林_台北大安公園",
+      "lat": 25.0391138,
+      "lng": 121.5391674,
+      "source": "OFFICIAL",
+      "officialId": "point_new_24",
+      "updatedAt": 1785930355000
+    },
+    {
+      "id": "point_new_25",
+      "folderId": "folder_pure_cafe",
+      "name": "咖啡杯_台北",
+      "lat": 25.0399841,
+      "lng": 121.538918,
+      "source": "OFFICIAL",
+      "officialId": "point_new_25",
+      "updatedAt": 1785930355000
+    },
+    {
+      "id": "point_new_26",
+      "folderId": "folder_pure_rainy_leaf",
+      "name": "雨天葉子帽_智利",
+      "lat": -46.2595857658,
+      "lng": -73.8084976003,
+      "source": "OFFICIAL",
+      "officialId": "point_new_26",
+      "updatedAt": 1785930355000
+    },
+    {
+      "id": "point_20260622020800",
+      "folderId": "folder_pure_stationery",
+      "name": "文具_台北(小品雅集)",
+      "lat": 25.03139,
+      "lng": 121.54118,
+      "source": "OFFICIAL",
+      "officialId": "point_20260622020800",
+      "updatedAt": 1782094124366
+    },
+    {
+      "id": "point_20260801092812",
+      "folderId": "folder_pure_mexican",
+      "name": "塔可餅_台中",
+      "lat": 24.15233258914237,
+      "lng": 120.65639577805996,
+      "source": "OFFICIAL",
+      "officialId": "point_20260801092812",
+      "updatedAt": 1785930355000
+    },
+    {
+      "id": "point_20260805154302",
+      "folderId": "folder_pure_stadium",
+      "name": "體育館_台北大巨蛋",
+      "lat": 25.0421533,
+      "lng": 121.5605882,
+      "source": "OFFICIAL",
+      "officialId": "point_20260805154302",
+      "updatedAt": 1785930194000
     }
   ]
 }
