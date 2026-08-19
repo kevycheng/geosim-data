@@ -1,63 +1,66 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1786954551274,
+  "updatedAt": 1787124546516,
   "folders": [
+    {
+      "id": "folder_weekly_featured",
+      "name": "0.[每周精選明信片] 主題:貓咪",
+      "source": "OFFICIAL",
+      "updatedAt": 1787124546516
+    },
+    {
+      "id": "folder_weekly_featured_mushroom",
+      "name": "0.[每周精選明信片] 主題:貓咪 (菇)",
+      "parentId": "folder_weekly_featured",
+      "source": "OFFICIAL",
+      "updatedAt": 1787124546516
+    },
+    {
+      "id": "folder_weekly_featured_flower",
+      "name": "0.[每周精選明信片] 主題:貓咪 (花)",
+      "parentId": "folder_weekly_featured",
+      "source": "OFFICIAL",
+      "updatedAt": 1787124546516
+    },
+    {
+      "id": "folder_gold_pots",
+      "name": "1.[Pikmin] 金盆 (Gold Pots)",
+      "source": "OFFICIAL",
+      "updatedAt": 1787124546516
+    },
+    {
+      "id": "folder_pure",
+      "name": "2.[Pikmin] 純點收集",
+      "source": "OFFICIAL",
+      "updatedAt": 1787124546516
+    },
+    {
+      "id": "folder_timezone",
+      "name": "3.[其它] 特殊時區",
+      "source": "OFFICIAL",
+      "updatedAt": 1787124546516
+    },
     {
       "id": "folder_nintendo_tw",
       "name": "[金盆] 任天堂官方店",
       "source": "OFFICIAL",
-      "updatedAt": 1782094203684
-    },
-    {
-      "id": "folder_pure",
-      "name": "[Pikmin]純點收集",
-      "source": "OFFICIAL",
-      "updatedAt": 1785930194000
+      "updatedAt": 1787124546516,
+      "parentId": "folder_gold_pots"
     },
     {
       "id": "folder_seattle_gold",
       "name": "[金盆] 西雅圖",
       "source": "OFFICIAL",
-      "updatedAt": 1782094214753
-    },
-    {
-      "id": "folder_media_collect",
-      "name": "[Pikmin]美片收集",
-      "source": "OFFICIAL",
-      "updatedAt": 1785930194000
-    },
-    {
-      "id": "folder_timezone",
-      "name": "[時區] 特殊國家",
-      "source": "OFFICIAL",
-      "updatedAt": 1785069237000
+      "updatedAt": 1787124546516,
+      "parentId": "folder_gold_pots"
     },
     {
       "id": "folder_202608_special",
       "name": "[Pikmin] 8月特殊地點",
       "source": "OFFICIAL",
-      "updatedAt": 1785588112000
-    },
-    {
-      "id": "folder_weekly_featured",
-      "name": "[每周精選明信片] 貓咪",
-      "source": "OFFICIAL",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "folder_weekly_featured_mushroom",
-      "name": "每周精選(菇)",
-      "parentId": "folder_weekly_featured",
-      "source": "OFFICIAL",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "folder_weekly_featured_flower",
-      "name": "每周精選(花)",
-      "parentId": "folder_weekly_featured",
-      "source": "OFFICIAL",
-      "updatedAt": 1786954551274
+      "updatedAt": 1787124546516,
+      "parentId": "folder_gold_pots"
     }
   ],
   "bookmarks": [
@@ -362,196 +365,6 @@
       "updatedAt": 1780975030809
     },
     {
-      "id": "media_collect_01",
-      "folderId": "folder_media_collect",
-      "name": "大阪梅田黃皮🔍",
-      "lat": 34.701668,
-      "lng": 135.496423,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_01",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "media_collect_04",
-      "folderId": "folder_media_collect",
-      "name": "Super Nintendo World🌹",
-      "lat": 34.66716,
-      "lng": 135.43051,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_04",
-      "updatedAt": 1780975500004
-    },
-    {
-      "id": "media_collect_05",
-      "folderId": "folder_media_collect",
-      "name": "首爾隱藏手繪風🔍",
-      "lat": 37.6033124,
-      "lng": 127.0348836,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_05",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "media_collect_06",
-      "folderId": "folder_media_collect",
-      "name": "香港迪士尼🍄",
-      "lat": 22.31257,
-      "lng": 114.04132,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_06",
-      "updatedAt": 1780975500006
-    },
-    {
-      "id": "media_collect_08",
-      "folderId": "folder_media_collect",
-      "name": "埃及金字塔🌹",
-      "lat": 29.97254753,
-      "lng": 31.12836647,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_08",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "media_collect_09",
-      "folderId": "folder_media_collect",
-      "name": "熱氣球Rose Valley🌹",
-      "lat": 38.65611,
-      "lng": 34.84095,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_09",
-      "updatedAt": 1780975500009
-    },
-    {
-      "id": "media_collect_10",
-      "folderId": "folder_media_collect",
-      "name": "大谷翔平🔍",
-      "lat": 34.0509219,
-      "lng": -118.2491722,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_10",
-      "updatedAt": 1780975500010
-    },
-    {
-      "id": "media_collect_11",
-      "folderId": "folder_media_collect",
-      "name": "台南安平古堡🍄",
-      "lat": 23.00161,
-      "lng": 120.16091,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_11",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "media_collect_12",
-      "folderId": "folder_media_collect",
-      "name": "天空の響き🍄",
-      "lat": 34.153386,
-      "lng": 135.604234,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_12",
-      "updatedAt": 1780975500012
-    },
-    {
-      "id": "media_collect_13",
-      "folderId": "folder_media_collect",
-      "name": "Starfish Under the Sea🍄",
-      "lat": 32.68677,
-      "lng": -117.19762,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_13",
-      "updatedAt": 1780975500013
-    },
-    {
-      "id": "media_collect_14",
-      "folderId": "folder_media_collect",
-      "name": "The Rolling Hills of Italy Painting🍄",
-      "lat": 40.36953,
-      "lng": -80.10505,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_14",
-      "updatedAt": 1780975500014
-    },
-    {
-      "id": "media_collect_15",
-      "folderId": "folder_media_collect",
-      "name": "幸 の階段🌹",
-      "lat": 34.5132,
-      "lng": 134.86939,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_15",
-      "updatedAt": 1780975500015
-    },
-    {
-      "id": "media_collect_31",
-      "folderId": "folder_media_collect",
-      "name": "🌸 龍貓巴士",
-      "lat": 24.13517,
-      "lng": 120.691631,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_31",
-      "updatedAt": 1780975500031
-    },
-    {
-      "id": "point_20260615040630",
-      "folderId": "folder_media_collect",
-      "name": "韓國雷神之槌菇",
-      "lat": 37.2469908,
-      "lng": 126.8690505,
-      "source": "OFFICIAL",
-      "officialId": "point_20260615040630",
-      "updatedAt": 1781496403409
-    },
-    {
-      "id": "point_20260723225401",
-      "folderId": "folder_media_collect",
-      "name": "德國新天鵝堡(Schwangau)",
-      "lat": 47.578766,
-      "lng": 10.749575,
-      "source": "OFFICIAL",
-      "officialId": "point_20260723225401",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "point_20260723225402",
-      "folderId": "folder_media_collect",
-      "name": "印度齋浦爾(Jaipur)",
-      "lat": 26.988962,
-      "lng": 75.851014,
-      "source": "OFFICIAL",
-      "officialId": "point_20260723225402",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "point_20260723225403",
-      "folderId": "folder_media_collect",
-      "name": "河合ふれあい広場",
-      "lat": 35.038266,
-      "lng": 137.166303,
-      "source": "OFFICIAL",
-      "officialId": "point_20260723225403",
-      "updatedAt": 1784820840000
-    },
-    {
-      "id": "point_20260724075158",
-      "folderId": "folder_media_collect",
-      "name": "毛里求斯Victoria度假村",
-      "lat": -20.075991,
-      "lng": 57.513315,
-      "source": "OFFICIAL",
-      "officialId": "point_20260724075158",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "point_20260724075245",
-      "folderId": "folder_media_collect",
-      "name": "芬蘭Perttelin教堂",
-      "lat": 60.446965,
-      "lng": 23.250156,
-      "source": "OFFICIAL",
-      "officialId": "point_20260724075245",
-      "updatedAt": 1785930355000
-    },
-    {
       "id": "point_20260726203301",
       "folderId": "folder_timezone",
       "name": "美屬薩摩亞",
@@ -690,16 +503,6 @@
       "source": "OFFICIAL",
       "officialId": "point_20260701010811",
       "updatedAt": 1785576368000
-    },
-    {
-      "id": "point_20260805154301",
-      "folderId": "folder_media_collect",
-      "name": "藍洞",
-      "lat": 42.980329,
-      "lng": 16.022534,
-      "source": "OFFICIAL",
-      "officialId": "point_20260805154301",
-      "updatedAt": 1785930194000
     },
     {
       "id": "point_20260805154302",
