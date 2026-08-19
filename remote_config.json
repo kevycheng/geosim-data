@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17",
-  "firmwareVersion": "fw-20260817-2",
+  "updatedAt": "2026-08-19",
+  "firmwareVersion": "fw-20260819-2",
   "bookmarksEnabled": true,
   "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.json",
   "routesEnabled": true,
@@ -14,8 +14,8 @@
   "proPurchaseEnabled": false,
   "donateEnabled": true,
   "minSupportedVersionCode": 20,
-  "messageTitle": "新版上線：分享來了 🎉",
-  "message": "現在可以把路線、書籤、座標一鍵分享或複製給朋友！GeoSim 專注協助你測試自己的 GPS／地圖定位，歡迎進商店更新，試試新的分享功能。",
+  "messageTitle": "GeoSim 更新",
+  "message": "路線編輯更好用了：清單長按拖曳排序、地圖上直接拖移點位。感謝使用 GeoSim 🙏",
   "freeTier": {
     "enabled": true,
     "adRewardMinutes": 240,
