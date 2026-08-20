@@ -64,91 +64,91 @@
     },
     {
       "id": "folder_pure_airport",
-      "name": "飛機",
+      "name": "✈️飛機",
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1787146403349
     },
     {
       "id": "folder_pure_burger",
-      "name": "漢堡",
+      "name": "🍔漢堡",
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1787146403349
     },
     {
       "id": "folder_pure_university",
-      "name": "大學",
+      "name": "🎓大學",
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1787146403349
     },
     {
       "id": "folder_pure_shrine",
-      "name": "神社",
+      "name": "⛩️神社",
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1787146403349
     },
     {
       "id": "folder_pure_ramen",
-      "name": "拉麵",
+      "name": "🍜拉麵",
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1787146403349
     },
     {
       "id": "folder_pure_korean",
-      "name": "泡菜",
+      "name": "🥬泡菜",
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1787146403349
     },
     {
       "id": "folder_pure_bridge",
-      "name": "橋樑",
+      "name": "🌉橋樑",
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1787146403349
     },
     {
       "id": "folder_pure_forest",
-      "name": "森林",
+      "name": "🌲森林",
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1787146403349
     },
     {
       "id": "folder_pure_cafe",
-      "name": "咖啡杯",
+      "name": "☕咖啡杯",
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1787146403349
     },
     {
       "id": "folder_pure_rainy_leaf",
-      "name": "雨天葉子帽",
+      "name": "🍃雨天葉子帽",
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1787146403349
     },
     {
       "id": "folder_pure_stationery",
-      "name": "文具",
+      "name": "🖊️文具",
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1787146403349
     },
     {
       "id": "folder_pure_mexican",
-      "name": "塔可餅",
+      "name": "🌮塔可餅",
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1787146403349
     },
     {
       "id": "folder_pure_stadium",
-      "name": "體育館",
+      "name": "🏟️體育館",
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1787146403349
