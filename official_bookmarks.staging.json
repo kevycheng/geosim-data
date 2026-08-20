@@ -25,7 +25,7 @@
     },
     {
       "id": "folder_gold_pots",
-      "name": "1.[Pikmin] 金盆 (Gold Pots)",
+      "name": "1.[Pikmin] 金盆",
       "source": "OFFICIAL",
       "updatedAt": 1787124546516
     },
@@ -57,7 +57,7 @@
     },
     {
       "id": "folder_202608_special",
-      "name": "[Pikmin] 8月特殊地點",
+      "name": "[金盆] 8月特殊點位",
       "source": "OFFICIAL",
       "updatedAt": 1787124546516,
       "parentId": "folder_gold_pots"
