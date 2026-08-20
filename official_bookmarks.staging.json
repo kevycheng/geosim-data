@@ -5,20 +5,20 @@
   "folders": [
     {
       "id": "folder_weekly_featured",
-      "name": "0.[每周精選明信片] 主題:貓咪",
+      "name": "0.[每周精選] 主題:貓咪",
       "source": "OFFICIAL",
       "updatedAt": 1787124546516
     },
     {
       "id": "folder_weekly_featured_mushroom",
-      "name": "0.[每周精選明信片] 主題:貓咪 (菇)",
+      "name": "[菇] 主題: 貓咪",
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
       "updatedAt": 1787124546516
     },
     {
       "id": "folder_weekly_featured_flower",
-      "name": "0.[每周精選明信片] 主題:貓咪 (花)",
+      "name": "[花] 主題: 貓咪",
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
       "updatedAt": 1787124546516
