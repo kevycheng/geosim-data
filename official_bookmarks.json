@@ -1,43 +1,178 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1785930194000,
+  "updatedAt": 1787306797506,
   "folders": [
+    {
+      "id": "folder_weekly_featured",
+      "name": "0.[每周精選] 主題:貓咪",
+      "source": "OFFICIAL",
+      "updatedAt": 1787124546516
+    },
+    {
+      "id": "folder_weekly_featured_mushroom",
+      "name": "[菇] 主題: 貓咪",
+      "parentId": "folder_weekly_featured",
+      "source": "OFFICIAL",
+      "updatedAt": 1787124546516
+    },
+    {
+      "id": "folder_weekly_featured_flower",
+      "name": "[花] 主題: 貓咪",
+      "parentId": "folder_weekly_featured",
+      "source": "OFFICIAL",
+      "updatedAt": 1787124546516
+    },
+    {
+      "id": "folder_gold_pots",
+      "name": "1.[Pikmin] 金盆",
+      "source": "OFFICIAL",
+      "updatedAt": 1787124546516
+    },
+    {
+      "id": "folder_pure",
+      "name": "2.[Pikmin] 純點收集",
+      "source": "OFFICIAL",
+      "updatedAt": 1787124546516
+    },
+    {
+      "id": "folder_timezone",
+      "name": "3.[其它] 特殊時區",
+      "source": "OFFICIAL",
+      "updatedAt": 1787124546516
+    },
     {
       "id": "folder_nintendo_tw",
       "name": "[金盆] 任天堂官方店",
       "source": "OFFICIAL",
-      "updatedAt": 1782094203684
-    },
-    {
-      "id": "folder_pure",
-      "name": "[Pikmin]純點收集",
-      "source": "OFFICIAL",
-      "updatedAt": 1785930194000
+      "updatedAt": 1787124546516,
+      "parentId": "folder_gold_pots"
     },
     {
       "id": "folder_seattle_gold",
       "name": "[金盆] 西雅圖",
       "source": "OFFICIAL",
-      "updatedAt": 1782094214753
-    },
-    {
-      "id": "folder_media_collect",
-      "name": "[Pikmin]美片收集",
-      "source": "OFFICIAL",
-      "updatedAt": 1785930194000
-    },
-    {
-      "id": "folder_timezone",
-      "name": "[時區] 特殊國家",
-      "source": "OFFICIAL",
-      "updatedAt": 1785069237000
+      "updatedAt": 1787124546516,
+      "parentId": "folder_gold_pots"
     },
     {
       "id": "folder_202608_special",
-      "name": "[Pikmin] 8月特殊地點",
+      "name": "[金盆] 8月特殊點位",
       "source": "OFFICIAL",
-      "updatedAt": 1785588112000
+      "updatedAt": 1787124546516,
+      "parentId": "folder_gold_pots"
+    },
+    {
+      "id": "folder_pure_airport",
+      "name": "✈️ 飛機",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_burger",
+      "name": "🍔 漢堡",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_university",
+      "name": "🎓 大學",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_shrine",
+      "name": "⛩️ 神社",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_ramen",
+      "name": "🍜 拉麵",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_korean",
+      "name": "🥬 泡菜",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_bridge",
+      "name": "🌉 橋樑",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_forest",
+      "name": "🌲 森林",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_cafe",
+      "name": "☕ 咖啡杯",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_rainy_leaf",
+      "name": "🍃 雨天葉子帽",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_stationery",
+      "name": "🖊️ 文具",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_mexican",
+      "name": "🌮 塔可餅",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_stadium",
+      "name": "🏟️ 體育館",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_dessert",
+      "name": "🍮 甜點",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787306797506
+    },
+    {
+      "id": "folder_pure_bakery",
+      "name": "🍞 麵包",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787306797506
+    },
+    {
+      "id": "folder_pure_library",
+      "name": "📚 圖書館",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787306797506
     }
   ],
   "bookmarks": [
@@ -120,136 +255,6 @@
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_08",
       "updatedAt": 1781149938368
-    },
-    {
-      "id": "point_new_2",
-      "folderId": "folder_pure",
-      "name": "飛機_松山機場",
-      "lat": 25.0674665,
-      "lng": 121.55398,
-      "source": "OFFICIAL",
-      "officialId": "point_new_2",
-      "updatedAt": 1780972311962
-    },
-    {
-      "id": "point_new_4",
-      "folderId": "folder_pure",
-      "name": "漢堡_高雄(純)",
-      "lat": 22.681261,
-      "lng": 120.31822,
-      "source": "OFFICIAL",
-      "officialId": "point_new_4",
-      "updatedAt": 1780974738457
-    },
-    {
-      "id": "point_new_7",
-      "folderId": "folder_pure",
-      "name": "大學_台灣大學",
-      "lat": 25.021175,
-      "lng": 121.535384,
-      "source": "OFFICIAL",
-      "officialId": "point_new_7",
-      "updatedAt": 1780973500002
-    },
-    {
-      "id": "point_new_9",
-      "folderId": "folder_pure",
-      "name": "神社_稻荷大明神(美菇)",
-      "lat": 34.362,
-      "lng": 133.585,
-      "source": "OFFICIAL",
-      "officialId": "point_new_9",
-      "updatedAt": 1780974852951
-    },
-    {
-      "id": "point_new_11",
-      "folderId": "folder_pure",
-      "name": "拉麵_新北三重(純)",
-      "lat": 25.050287,
-      "lng": 121.487401,
-      "source": "OFFICIAL",
-      "officialId": "point_new_11",
-      "updatedAt": 1780974969515
-    },
-    {
-      "id": "point_new_12",
-      "folderId": "folder_pure",
-      "name": "泡菜_釜山",
-      "lat": 35.121665,
-      "lng": 129.11105,
-      "source": "OFFICIAL",
-      "officialId": "point_new_12",
-      "updatedAt": 1780973500007
-    },
-    {
-      "id": "point_new_19",
-      "folderId": "folder_pure",
-      "name": "橋樑_中和",
-      "lat": 24.9930915,
-      "lng": 121.5077236,
-      "source": "OFFICIAL",
-      "officialId": "point_new_19",
-      "updatedAt": 1780973500014
-    },
-    {
-      "id": "point_new_20",
-      "folderId": "folder_pure",
-      "name": "橋樑_長崎女神大橋",
-      "lat": 32.721391,
-      "lng": 129.849544,
-      "source": "OFFICIAL",
-      "officialId": "point_new_20",
-      "updatedAt": 1780973500015
-    },
-    {
-      "id": "point_new_24",
-      "folderId": "folder_pure",
-      "name": "森林_台北大安公園",
-      "lat": 25.0391138,
-      "lng": 121.5391674,
-      "source": "OFFICIAL",
-      "officialId": "point_new_24",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "point_new_25",
-      "folderId": "folder_pure",
-      "name": "咖啡杯_台北",
-      "lat": 25.0399841,
-      "lng": 121.538918,
-      "source": "OFFICIAL",
-      "officialId": "point_new_25",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "point_new_26",
-      "folderId": "folder_pure",
-      "name": "雨天葉子帽_智利",
-      "lat": -46.2595857658,
-      "lng": -73.8084976003,
-      "source": "OFFICIAL",
-      "officialId": "point_new_26",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "point_20260622020800",
-      "folderId": "folder_pure",
-      "name": "文具_台北(小品雅集)",
-      "lat": 25.03139,
-      "lng": 121.54118,
-      "source": "OFFICIAL",
-      "officialId": "point_20260622020800",
-      "updatedAt": 1782094124366
-    },
-    {
-      "id": "point_20260801092812",
-      "folderId": "folder_pure",
-      "name": "塔可餅_台中",
-      "lat": 24.15233258914237,
-      "lng": 120.65639577805996,
-      "source": "OFFICIAL",
-      "officialId": "point_20260801092812",
-      "updatedAt": 1785930355000
     },
     {
       "id": "seattle_gold_01",
@@ -340,196 +345,6 @@
       "source": "OFFICIAL",
       "officialId": "seattle_gold_09",
       "updatedAt": 1780975030809
-    },
-    {
-      "id": "media_collect_01",
-      "folderId": "folder_media_collect",
-      "name": "大阪梅田黃皮🔍",
-      "lat": 34.701668,
-      "lng": 135.496423,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_01",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "media_collect_04",
-      "folderId": "folder_media_collect",
-      "name": "Super Nintendo World🌹",
-      "lat": 34.66716,
-      "lng": 135.43051,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_04",
-      "updatedAt": 1780975500004
-    },
-    {
-      "id": "media_collect_05",
-      "folderId": "folder_media_collect",
-      "name": "首爾隱藏手繪風🔍",
-      "lat": 37.6033124,
-      "lng": 127.0348836,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_05",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "media_collect_06",
-      "folderId": "folder_media_collect",
-      "name": "香港迪士尼🍄",
-      "lat": 22.31257,
-      "lng": 114.04132,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_06",
-      "updatedAt": 1780975500006
-    },
-    {
-      "id": "media_collect_08",
-      "folderId": "folder_media_collect",
-      "name": "埃及金字塔🌹",
-      "lat": 29.97254753,
-      "lng": 31.12836647,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_08",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "media_collect_09",
-      "folderId": "folder_media_collect",
-      "name": "熱氣球Rose Valley🌹",
-      "lat": 38.65611,
-      "lng": 34.84095,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_09",
-      "updatedAt": 1780975500009
-    },
-    {
-      "id": "media_collect_10",
-      "folderId": "folder_media_collect",
-      "name": "大谷翔平🔍",
-      "lat": 34.0509219,
-      "lng": -118.2491722,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_10",
-      "updatedAt": 1780975500010
-    },
-    {
-      "id": "media_collect_11",
-      "folderId": "folder_media_collect",
-      "name": "台南安平古堡🍄",
-      "lat": 23.00161,
-      "lng": 120.16091,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_11",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "media_collect_12",
-      "folderId": "folder_media_collect",
-      "name": "天空の響き🍄",
-      "lat": 34.153386,
-      "lng": 135.604234,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_12",
-      "updatedAt": 1780975500012
-    },
-    {
-      "id": "media_collect_13",
-      "folderId": "folder_media_collect",
-      "name": "Starfish Under the Sea🍄",
-      "lat": 32.68677,
-      "lng": -117.19762,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_13",
-      "updatedAt": 1780975500013
-    },
-    {
-      "id": "media_collect_14",
-      "folderId": "folder_media_collect",
-      "name": "The Rolling Hills of Italy Painting🍄",
-      "lat": 40.36953,
-      "lng": -80.10505,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_14",
-      "updatedAt": 1780975500014
-    },
-    {
-      "id": "media_collect_15",
-      "folderId": "folder_media_collect",
-      "name": "幸 の階段🌹",
-      "lat": 34.5132,
-      "lng": 134.86939,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_15",
-      "updatedAt": 1780975500015
-    },
-    {
-      "id": "media_collect_31",
-      "folderId": "folder_media_collect",
-      "name": "🌸 龍貓巴士",
-      "lat": 24.13517,
-      "lng": 120.691631,
-      "source": "OFFICIAL",
-      "officialId": "media_collect_31",
-      "updatedAt": 1780975500031
-    },
-    {
-      "id": "point_20260615040630",
-      "folderId": "folder_media_collect",
-      "name": "韓國雷神之槌菇",
-      "lat": 37.2469908,
-      "lng": 126.8690505,
-      "source": "OFFICIAL",
-      "officialId": "point_20260615040630",
-      "updatedAt": 1781496403409
-    },
-    {
-      "id": "point_20260723225401",
-      "folderId": "folder_media_collect",
-      "name": "德國新天鵝堡(Schwangau)",
-      "lat": 47.578766,
-      "lng": 10.749575,
-      "source": "OFFICIAL",
-      "officialId": "point_20260723225401",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "point_20260723225402",
-      "folderId": "folder_media_collect",
-      "name": "印度齋浦爾(Jaipur)",
-      "lat": 26.988962,
-      "lng": 75.851014,
-      "source": "OFFICIAL",
-      "officialId": "point_20260723225402",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "point_20260723225403",
-      "folderId": "folder_media_collect",
-      "name": "河合ふれあい広場",
-      "lat": 35.038266,
-      "lng": 137.166303,
-      "source": "OFFICIAL",
-      "officialId": "point_20260723225403",
-      "updatedAt": 1784820840000
-    },
-    {
-      "id": "point_20260724075158",
-      "folderId": "folder_media_collect",
-      "name": "毛里求斯Victoria度假村",
-      "lat": -20.075991,
-      "lng": 57.513315,
-      "source": "OFFICIAL",
-      "officialId": "point_20260724075158",
-      "updatedAt": 1785930355000
-    },
-    {
-      "id": "point_20260724075245",
-      "folderId": "folder_media_collect",
-      "name": "芬蘭Perttelin教堂",
-      "lat": 60.446965,
-      "lng": 23.250156,
-      "source": "OFFICIAL",
-      "officialId": "point_20260724075245",
-      "updatedAt": 1785930355000
     },
     {
       "id": "point_20260726203301",
@@ -672,24 +487,1084 @@
       "updatedAt": 1785576368000
     },
     {
-      "id": "point_20260805154301",
-      "folderId": "folder_media_collect",
-      "name": "藍洞",
-      "lat": 42.980329,
-      "lng": 16.022534,
+      "id": "pc_376b9e7fb2e247a08e14e0ca3790ca51",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "Tác phẩm đôi mèo",
+      "lat": 11.945642,
+      "lng": 108.407969,
       "source": "OFFICIAL",
-      "officialId": "point_20260805154301",
-      "updatedAt": 1785930194000
+      "officialId": "pc_376b9e7fb2e247a08e14e0ca3790ca51",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_2b291a03af3540a1aa5f18b50d779288",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "根の上の猫",
+      "lat": 41.77453,
+      "lng": 140.727422,
+      "source": "OFFICIAL",
+      "officialId": "pc_2b291a03af3540a1aa5f18b50d779288",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_aed140f8856e4150a27dad64179dd49e",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "A Cat Starry Night",
+      "lat": 41.96446,
+      "lng": -76.510632,
+      "source": "OFFICIAL",
+      "officialId": "pc_aed140f8856e4150a27dad64179dd49e",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_ce708098bcb344e38fdbe8a78998fd61",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "Astronaut Kitty",
+      "lat": -37.651976,
+      "lng": 145.020414,
+      "source": "OFFICIAL",
+      "officialId": "pc_ce708098bcb344e38fdbe8a78998fd61",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_bcf9d2b6a5de4049bb24be320841fd4c",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "Mural del gato",
+      "lat": 25.665866,
+      "lng": -100.412802,
+      "source": "OFFICIAL",
+      "officialId": "pc_bcf9d2b6a5de4049bb24be320841fd4c",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_5f7338115c114ac6acc1dd318db10b28",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "Purr-fect Mural",
+      "lat": 33.606386,
+      "lng": -112.063591,
+      "source": "OFFICIAL",
+      "officialId": "pc_5f7338115c114ac6acc1dd318db10b28",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_f154438e8b65421f91bb661104ca807e",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "Terminal 2E Sleeping Cat",
+      "lat": 49.00098,
+      "lng": 2.585445,
+      "source": "OFFICIAL",
+      "officialId": "pc_f154438e8b65421f91bb661104ca807e",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_5fc1ed7cf4b14438a02e0adfdf137e63",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "嘉義公車路龍貓",
+      "lat": 23.592118,
+      "lng": 120.355486,
+      "source": "OFFICIAL",
+      "officialId": "pc_5fc1ed7cf4b14438a02e0adfdf137e63",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_900653ad22574c0483524696146a9c27",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "The Cats Mural",
+      "lat": 1.447905,
+      "lng": 124.824789,
+      "source": "OFFICIAL",
+      "officialId": "pc_900653ad22574c0483524696146a9c27",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_3ddfd709a67c41028a19a0d5c69339da",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "Вірні Друзі",
+      "lat": 50.897902,
+      "lng": 34.809139,
+      "source": "OFFICIAL",
+      "officialId": "pc_3ddfd709a67c41028a19a0d5c69339da",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_dfeb8dd4a35b4f28a9372985c9449893",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "ひょっこりにゃんこ",
+      "lat": 35.384985,
+      "lng": 139.929237,
+      "source": "OFFICIAL",
+      "officialId": "pc_dfeb8dd4a35b4f28a9372985c9449893",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_872d61c388ce47199cd18c64a0845818",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "貨櫃上的貓",
+      "lat": 25.008002,
+      "lng": 121.26188,
+      "source": "OFFICIAL",
+      "officialId": "pc_872d61c388ce47199cd18c64a0845818",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_c3b03acabb9a427aa275a4ea7421ff60",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "Gato Colorido",
+      "lat": -3.090779,
+      "lng": -60.044453,
+      "source": "OFFICIAL",
+      "officialId": "pc_c3b03acabb9a427aa275a4ea7421ff60",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_e58cec4976ab416aaa017a04fd02d973",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "Cat and Dog Mural.",
+      "lat": 42.313007,
+      "lng": -122.862869,
+      "source": "OFFICIAL",
+      "officialId": "pc_e58cec4976ab416aaa017a04fd02d973",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_1b55e81ac00d4021a201e35ca9c94a61",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "貓",
+      "lat": 22.506878,
+      "lng": -98.05695,
+      "source": "OFFICIAL",
+      "officialId": "pc_1b55e81ac00d4021a201e35ca9c94a61",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_89f115b6083a4187afae9d7d9e95e8dc",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "好ㄘ",
+      "lat": 22.988268,
+      "lng": 120.160535,
+      "source": "OFFICIAL",
+      "officialId": "pc_89f115b6083a4187afae9d7d9e95e8dc",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_f594af5d6ad14b6c9e1168c373f05543",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "三麗鷗 布丁狗抱無嘴貓",
+      "lat": 35.709684,
+      "lng": 139.773121,
+      "source": "OFFICIAL",
+      "officialId": "pc_f594af5d6ad14b6c9e1168c373f05543",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_8c29e83837ea468f8901bbd9eaec29f6",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "nyans（にゃんず）",
+      "lat": 35.458217,
+      "lng": 133.086279,
+      "source": "OFFICIAL",
+      "officialId": "pc_8c29e83837ea468f8901bbd9eaec29f6",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_67df569932be46839c13f9610a8f0299",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "NJS兔子",
+      "lat": 37.54425,
+      "lng": 127.05894,
+      "source": "OFFICIAL",
+      "officialId": "pc_67df569932be46839c13f9610a8f0299",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "pc_d02413bed32148ffa2278f75010525a3",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "茉莉與貓貓",
+      "lat": 25.069929,
+      "lng": 121.365795,
+      "source": "OFFICIAL",
+      "officialId": "pc_d02413bed32148ffa2278f75010525a3",
+      "updatedAt": 1786954551274
+    },
+    {
+      "id": "point_new_2",
+      "folderId": "folder_pure_airport",
+      "name": "飛機_松山機場",
+      "lat": 25.0674665,
+      "lng": 121.55398,
+      "source": "OFFICIAL",
+      "officialId": "point_new_2",
+      "updatedAt": 1780972311962
+    },
+    {
+      "id": "point_new_4",
+      "folderId": "folder_pure_burger",
+      "name": "漢堡_高雄(純)",
+      "lat": 22.681261,
+      "lng": 120.31822,
+      "source": "OFFICIAL",
+      "officialId": "point_new_4",
+      "updatedAt": 1780974738457
+    },
+    {
+      "id": "point_new_7",
+      "folderId": "folder_pure_university",
+      "name": "大學_台灣大學",
+      "lat": 25.021175,
+      "lng": 121.535384,
+      "source": "OFFICIAL",
+      "officialId": "point_new_7",
+      "updatedAt": 1780973500002
+    },
+    {
+      "id": "point_new_9",
+      "folderId": "folder_pure_shrine",
+      "name": "神社_稻荷大明神(美菇)",
+      "lat": 34.362,
+      "lng": 133.585,
+      "source": "OFFICIAL",
+      "officialId": "point_new_9",
+      "updatedAt": 1780974852951
+    },
+    {
+      "id": "point_new_11",
+      "folderId": "folder_pure_ramen",
+      "name": "拉麵_新北三重(純)",
+      "lat": 25.050287,
+      "lng": 121.487401,
+      "source": "OFFICIAL",
+      "officialId": "point_new_11",
+      "updatedAt": 1780974969515
+    },
+    {
+      "id": "point_new_12",
+      "folderId": "folder_pure_korean",
+      "name": "泡菜_釜山",
+      "lat": 35.121665,
+      "lng": 129.11105,
+      "source": "OFFICIAL",
+      "officialId": "point_new_12",
+      "updatedAt": 1780973500007
+    },
+    {
+      "id": "point_new_19",
+      "folderId": "folder_pure_bridge",
+      "name": "橋樑_中和",
+      "lat": 24.9930915,
+      "lng": 121.5077236,
+      "source": "OFFICIAL",
+      "officialId": "point_new_19",
+      "updatedAt": 1780973500014
+    },
+    {
+      "id": "point_new_20",
+      "folderId": "folder_pure_bridge",
+      "name": "橋樑_長崎女神大橋",
+      "lat": 32.721391,
+      "lng": 129.849544,
+      "source": "OFFICIAL",
+      "officialId": "point_new_20",
+      "updatedAt": 1780973500015
+    },
+    {
+      "id": "point_new_24",
+      "folderId": "folder_pure_forest",
+      "name": "森林_台北大安公園",
+      "lat": 25.0391138,
+      "lng": 121.5391674,
+      "source": "OFFICIAL",
+      "officialId": "point_new_24",
+      "updatedAt": 1785930355000
+    },
+    {
+      "id": "point_new_25",
+      "folderId": "folder_pure_cafe",
+      "name": "咖啡杯_台北",
+      "lat": 25.0399841,
+      "lng": 121.538918,
+      "source": "OFFICIAL",
+      "officialId": "point_new_25",
+      "updatedAt": 1785930355000
+    },
+    {
+      "id": "point_new_26",
+      "folderId": "folder_pure_rainy_leaf",
+      "name": "雨天葉子帽_智利",
+      "lat": -46.2595857658,
+      "lng": -73.8084976003,
+      "source": "OFFICIAL",
+      "officialId": "point_new_26",
+      "updatedAt": 1785930355000
+    },
+    {
+      "id": "point_20260622020800",
+      "folderId": "folder_pure_stationery",
+      "name": "文具_台北(小品雅集)",
+      "lat": 25.03139,
+      "lng": 121.54118,
+      "source": "OFFICIAL",
+      "officialId": "point_20260622020800",
+      "updatedAt": 1782094124366
+    },
+    {
+      "id": "point_20260801092812",
+      "folderId": "folder_pure_mexican",
+      "name": "塔可餅_台中",
+      "lat": 24.15233258914237,
+      "lng": 120.65639577805996,
+      "source": "OFFICIAL",
+      "officialId": "point_20260801092812",
+      "updatedAt": 1785930355000
     },
     {
       "id": "point_20260805154302",
-      "folderId": "folder_pure",
+      "folderId": "folder_pure_stadium",
       "name": "體育館_台北大巨蛋",
       "lat": 25.0421533,
       "lng": 121.5605882,
       "source": "OFFICIAL",
       "officialId": "point_20260805154302",
       "updatedAt": 1785930194000
+    },
+    {
+      "id": "point_2026082117415301",
+      "folderId": "folder_pure_forest",
+      "name": "森林_拉拉山遊客中心",
+      "lat": 24.680086,
+      "lng": 121.384509,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117415301",
+      "updatedAt": 1787305313843
+    },
+    {
+      "id": "point_2026082117415302",
+      "folderId": "folder_pure_forest",
+      "name": "森林_嘉義忠孝路",
+      "lat": 23.503635,
+      "lng": 120.448689,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117415302",
+      "updatedAt": 1787305313843
+    },
+    {
+      "id": "point_2026082117415303",
+      "folderId": "folder_pure_forest",
+      "name": "森林_東興",
+      "lat": 24.950242,
+      "lng": 121.228852,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117415303",
+      "updatedAt": 1787305313843
+    },
+    {
+      "id": "point_2026082117415304",
+      "folderId": "folder_pure_forest",
+      "name": "森林_台南東橋",
+      "lat": 23.02354,
+      "lng": 120.230521,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117415304",
+      "updatedAt": 1787305313843
+    },
+    {
+      "id": "point_2026082117415305",
+      "folderId": "folder_pure_forest",
+      "name": "森林_台中大雅",
+      "lat": 24.216783,
+      "lng": 120.614346,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117415305",
+      "updatedAt": 1787305313843
+    },
+    {
+      "id": "point_2026082117452601",
+      "folderId": "folder_pure_mexican",
+      "name": "塔可餅_基隆tasi tacos",
+      "lat": 25.115596,
+      "lng": 121.75579,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117452601",
+      "updatedAt": 1787305526003
+    },
+    {
+      "id": "point_2026082117452602",
+      "folderId": "folder_pure_mexican",
+      "name": "塔可餅_中和建八路",
+      "lat": 24.997451,
+      "lng": 121.489041,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117452602",
+      "updatedAt": 1787305526003
+    },
+    {
+      "id": "point_2026082117452603",
+      "folderId": "folder_pure_mexican",
+      "name": "塔可餅_汐止大同路",
+      "lat": 25.058754,
+      "lng": 121.636381,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117452603",
+      "updatedAt": 1787305526003
+    },
+    {
+      "id": "point_2026082117452604",
+      "folderId": "folder_pure_mexican",
+      "name": "塔可餅_三重三民街",
+      "lat": 25.068098,
+      "lng": 121.477812,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117452604",
+      "updatedAt": 1787305526003
+    },
+    {
+      "id": "point_2026082117475801",
+      "folderId": "folder_pure_stationery",
+      "name": "文具_民雄柑仔店",
+      "lat": 23.566848,
+      "lng": 120.437106,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117475801",
+      "updatedAt": 1787305678785
+    },
+    {
+      "id": "point_2026082117475802",
+      "folderId": "folder_pure_stationery",
+      "name": "文具_橋頭金玉堂",
+      "lat": 22.750612,
+      "lng": 120.309239,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117475802",
+      "updatedAt": 1787305678785
+    },
+    {
+      "id": "point_2026082117475803",
+      "folderId": "folder_pure_stationery",
+      "name": "文具_高雄三民",
+      "lat": 22.641291,
+      "lng": 120.320009,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117475803",
+      "updatedAt": 1787305678785
+    },
+    {
+      "id": "point_2026082117475804",
+      "folderId": "folder_pure_stationery",
+      "name": "文具_彰化愛菲爾",
+      "lat": 24.180462,
+      "lng": 120.493748,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117475804",
+      "updatedAt": 1787305678785
+    },
+    {
+      "id": "point_2026082117475805",
+      "folderId": "folder_pure_stationery",
+      "name": "文具_桃園潮州街",
+      "lat": 24.98809,
+      "lng": 121.299319,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117475805",
+      "updatedAt": 1787305678785
+    },
+    {
+      "id": "point_2026082117493501",
+      "folderId": "folder_pure_shrine",
+      "name": "神社_帶廣神社",
+      "lat": 42.931823,
+      "lng": 143.209487,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117493501",
+      "updatedAt": 1787305775622
+    },
+    {
+      "id": "point_2026082117493502",
+      "folderId": "folder_pure_shrine",
+      "name": "神社_東京傳通院",
+      "lat": 35.712419,
+      "lng": 139.746871,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117493502",
+      "updatedAt": 1787305775622
+    },
+    {
+      "id": "point_2026082117493503",
+      "folderId": "folder_pure_shrine",
+      "name": "神社_京都大德寺",
+      "lat": 35.043885,
+      "lng": 135.746032,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117493503",
+      "updatedAt": 1787305775622
+    },
+    {
+      "id": "point_2026082117493504",
+      "folderId": "folder_pure_shrine",
+      "name": "神社_名古屋日泰寺",
+      "lat": 35.171164,
+      "lng": 136.955649,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117493504",
+      "updatedAt": 1787305775622
+    },
+    {
+      "id": "point_2026082117493505",
+      "folderId": "folder_pure_shrine",
+      "name": "神社_金武觀音寺",
+      "lat": 26.455021,
+      "lng": 127.921454,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117493505",
+      "updatedAt": 1787305775622
+    },
+    {
+      "id": "point_2026082117515101",
+      "folderId": "folder_pure_airport",
+      "name": "飛機_桃園機場",
+      "lat": 25.085595,
+      "lng": 121.243784,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117515101",
+      "updatedAt": 1787305911156
+    },
+    {
+      "id": "point_2026082117515102",
+      "folderId": "folder_pure_airport",
+      "name": "飛機_新竹空軍基地",
+      "lat": 24.821391,
+      "lng": 120.952048,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117515102",
+      "updatedAt": 1787305911156
+    },
+    {
+      "id": "point_2026082117515103",
+      "folderId": "folder_pure_airport",
+      "name": "飛機_屏南機場",
+      "lat": 22.67826,
+      "lng": 120.46196,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117515103",
+      "updatedAt": 1787305911156
+    },
+    {
+      "id": "point_2026082117515104",
+      "folderId": "folder_pure_airport",
+      "name": "飛機_歸仁機場",
+      "lat": 22.981668,
+      "lng": 120.279843,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117515104",
+      "updatedAt": 1787305911156
+    },
+    {
+      "id": "point_2026082117515105",
+      "folderId": "folder_pure_airport",
+      "name": "飛機_小琉球舊跑道",
+      "lat": 22.34992,
+      "lng": 120.37591,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117515105",
+      "updatedAt": 1787305911156
+    },
+    {
+      "id": "point_2026082117561001",
+      "folderId": "folder_pure_bridge",
+      "name": "橋樑_三鶯二橋",
+      "lat": 24.954252,
+      "lng": 121.374216,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561001",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561002",
+      "folderId": "folder_pure_bridge",
+      "name": "橋樑_崁頂溪橋",
+      "lat": 23.026384,
+      "lng": 121.156899,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561002",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561003",
+      "folderId": "folder_pure_bridge",
+      "name": "橋樑_旗山地景橋",
+      "lat": 22.884015,
+      "lng": 120.486495,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561003",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561004",
+      "folderId": "folder_pure_bridge",
+      "name": "橋樑_雙園大橋",
+      "lat": 22.4978,
+      "lng": 120.41238,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561004",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561005",
+      "folderId": "folder_pure_bridge",
+      "name": "橋樑_援中港大橋",
+      "lat": 22.717393,
+      "lng": 120.278183,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561005",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561006",
+      "folderId": "folder_pure_burger",
+      "name": "漢堡_台南愛買",
+      "lat": 23.034972,
+      "lng": 120.228335,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561006",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561007",
+      "folderId": "folder_pure_burger",
+      "name": "漢堡_板橋忠孝路",
+      "lat": 25.000457,
+      "lng": 121.461926,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561007",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561008",
+      "folderId": "folder_pure_burger",
+      "name": "漢堡_士林中山北路",
+      "lat": 25.114574,
+      "lng": 121.528886,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561008",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561009",
+      "folderId": "folder_pure_burger",
+      "name": "漢堡_台中自立街",
+      "lat": 24.141022,
+      "lng": 120.669225,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561009",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561010",
+      "folderId": "folder_pure_burger",
+      "name": "漢堡_頭份縱貫公路",
+      "lat": 24.693353,
+      "lng": 120.915104,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561010",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561011",
+      "folderId": "folder_pure_ramen",
+      "name": "拉麵_西螺休息站",
+      "lat": 23.789012,
+      "lng": 120.479877,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561011",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561012",
+      "folderId": "folder_pure_ramen",
+      "name": "拉麵_花蓮花崗國中",
+      "lat": 23.97729,
+      "lng": 121.61251,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561012",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561013",
+      "folderId": "folder_pure_ramen",
+      "name": "拉麵_屏東四維國小",
+      "lat": 22.59507,
+      "lng": 120.488966,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561013",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561014",
+      "folderId": "folder_pure_ramen",
+      "name": "拉麵_台南安平超盛號",
+      "lat": 22.98739,
+      "lng": 120.18096,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561014",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561015",
+      "folderId": "folder_pure_ramen",
+      "name": "拉麵_湖口喜福萊",
+      "lat": 24.902319,
+      "lng": 121.032584,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561015",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561016",
+      "folderId": "folder_pure_university",
+      "name": "大學_中興大學",
+      "lat": 24.12099,
+      "lng": 120.676724,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561016",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561017",
+      "folderId": "folder_pure_university",
+      "name": "大學_台東大學",
+      "lat": 22.737445,
+      "lng": 121.069035,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561017",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561018",
+      "folderId": "folder_pure_university",
+      "name": "大學_嘉大民雄校區",
+      "lat": 23.541968,
+      "lng": 120.423609,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561018",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561019",
+      "folderId": "folder_pure_university",
+      "name": "大學_陽明交大台南校區",
+      "lat": 22.926431,
+      "lng": 120.299972,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561019",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561020",
+      "folderId": "folder_pure_university",
+      "name": "大學_長榮大學",
+      "lat": 22.900036,
+      "lng": 120.272494,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561020",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561021",
+      "folderId": "folder_pure_stadium",
+      "name": "體育館_桃園體育館",
+      "lat": 24.992927,
+      "lng": 121.323229,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561021",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561022",
+      "folderId": "folder_pure_stadium",
+      "name": "體育館_海軍大操場",
+      "lat": 22.69141,
+      "lng": 120.28766,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561022",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561023",
+      "folderId": "folder_pure_stadium",
+      "name": "體育館_嘉義健康生活館",
+      "lat": 23.448429,
+      "lng": 120.277784,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561023",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561024",
+      "folderId": "folder_pure_stadium",
+      "name": "體育館_中興游泳池",
+      "lat": 23.941666,
+      "lng": 120.699196,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561024",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561025",
+      "folderId": "folder_pure_stadium",
+      "name": "體育館_金門體育館",
+      "lat": 24.430208,
+      "lng": 118.242899,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561025",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561026",
+      "folderId": "folder_pure_korean",
+      "name": "泡菜_南港車站",
+      "lat": 25.053771,
+      "lng": 121.609742,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561026",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561027",
+      "folderId": "folder_pure_korean",
+      "name": "泡菜_三元花園韓式餐廳",
+      "lat": 24.183018,
+      "lng": 120.598504,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561027",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561028",
+      "folderId": "folder_pure_korean",
+      "name": "泡菜_新竹夯臭豆腐",
+      "lat": 24.809643,
+      "lng": 120.955038,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561028",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561029",
+      "folderId": "folder_pure_korean",
+      "name": "泡菜_安平韓國餐廳",
+      "lat": 22.991564,
+      "lng": 120.178461,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561029",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561030",
+      "folderId": "folder_pure_korean",
+      "name": "泡菜_高雄西部濱海公路",
+      "lat": 22.656265,
+      "lng": 120.29201,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561030",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082118063701",
+      "folderId": "folder_pure_cafe",
+      "name": "咖啡杯_金門蜉蝣咖啡",
+      "lat": 24.438074,
+      "lng": 118.320828,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063701",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063702",
+      "folderId": "folder_pure_cafe",
+      "name": "咖啡杯_嘉義玉津咖啡",
+      "lat": 23.604215,
+      "lng": 120.401374,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063702",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063703",
+      "folderId": "folder_pure_cafe",
+      "name": "咖啡杯_新竹",
+      "lat": 24.801785,
+      "lng": 120.95768,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063703",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063704",
+      "folderId": "folder_pure_cafe",
+      "name": "咖啡杯_桃園SOSL",
+      "lat": 25.023536,
+      "lng": 121.292946,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063704",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063705",
+      "folderId": "folder_pure_cafe",
+      "name": "咖啡杯_台中IKEA",
+      "lat": 24.148705,
+      "lng": 120.642907,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063705",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063706",
+      "folderId": "folder_pure_dessert",
+      "name": "甜點_宜蘭義豐蔥油派",
+      "lat": 24.621857,
+      "lng": 121.815472,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063706",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063707",
+      "folderId": "folder_pure_dessert",
+      "name": "甜點_桃園詠宸銀絲卷",
+      "lat": 25.042588,
+      "lng": 121.243556,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063707",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063708",
+      "folderId": "folder_pure_dessert",
+      "name": "甜點_台南",
+      "lat": 22.979187,
+      "lng": 120.216265,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063708",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063709",
+      "folderId": "folder_pure_dessert",
+      "name": "甜點_台北詔安街",
+      "lat": 25.024928,
+      "lng": 121.514248,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063709",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063710",
+      "folderId": "folder_pure_dessert",
+      "name": "甜點_高雄鼎盛街",
+      "lat": 22.632233,
+      "lng": 120.289637,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063710",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063711",
+      "folderId": "folder_pure_bakery",
+      "name": "麵包_竹東麵包店",
+      "lat": 24.748315,
+      "lng": 121.07929,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063711",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063712",
+      "folderId": "folder_pure_bakery",
+      "name": "麵包_台中法國麵包",
+      "lat": 24.209364,
+      "lng": 120.616068,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063712",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063713",
+      "folderId": "folder_pure_bakery",
+      "name": "麵包_旺萊山民雄店",
+      "lat": 23.518609,
+      "lng": 120.452245,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063713",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063714",
+      "folderId": "folder_pure_bakery",
+      "name": "麵包_進興餅店",
+      "lat": 24.036218,
+      "lng": 120.505862,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063714",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063715",
+      "folderId": "folder_pure_bakery",
+      "name": "麵包_美濃滿金商行",
+      "lat": 22.89024,
+      "lng": 120.54185,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063715",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063716",
+      "folderId": "folder_pure_library",
+      "name": "圖書館_溪口國小",
+      "lat": 23.604122,
+      "lng": 120.394157,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063716",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063717",
+      "folderId": "folder_pure_library",
+      "name": "圖書館_東勢許良宇",
+      "lat": 24.249964,
+      "lng": 120.834869,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063717",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063718",
+      "folderId": "folder_pure_library",
+      "name": "圖書館_苗栗迷你書",
+      "lat": 24.685841,
+      "lng": 120.912631,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063718",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063719",
+      "folderId": "folder_pure_library",
+      "name": "圖書館_中石化大社廠",
+      "lat": 22.72528,
+      "lng": 120.340447,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063719",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063720",
+      "folderId": "folder_pure_library",
+      "name": "圖書館_南投",
+      "lat": 23.901951,
+      "lng": 120.691499,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063720",
+      "updatedAt": 1787306797456
     }
   ]
 }

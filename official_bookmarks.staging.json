@@ -1,28 +1,8 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1787306797506,
+  "updatedAt": 1787354933190,
   "folders": [
-    {
-      "id": "folder_weekly_featured",
-      "name": "0.[每周精選] 主題:貓咪",
-      "source": "OFFICIAL",
-      "updatedAt": 1787124546516
-    },
-    {
-      "id": "folder_weekly_featured_mushroom",
-      "name": "[菇] 主題: 貓咪",
-      "parentId": "folder_weekly_featured",
-      "source": "OFFICIAL",
-      "updatedAt": 1787124546516
-    },
-    {
-      "id": "folder_weekly_featured_flower",
-      "name": "[花] 主題: 貓咪",
-      "parentId": "folder_weekly_featured",
-      "source": "OFFICIAL",
-      "updatedAt": 1787124546516
-    },
     {
       "id": "folder_gold_pots",
       "name": "1.[Pikmin] 金盆",
@@ -173,6 +153,26 @@
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1787306797506
+    },
+    {
+      "id": "folder_weekly_featured",
+      "name": "0.[每周精選] 主題:神社/寺廟",
+      "source": "OFFICIAL",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "folder_weekly_featured_mushroom",
+      "name": "[菇] 主題: 神社/寺廟",
+      "parentId": "folder_weekly_featured",
+      "source": "OFFICIAL",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "folder_weekly_featured_flower",
+      "name": "[花] 主題: 神社/寺廟",
+      "parentId": "folder_weekly_featured",
+      "source": "OFFICIAL",
+      "updatedAt": 1787354933190
     }
   ],
   "bookmarks": [
@@ -485,206 +485,6 @@
       "source": "OFFICIAL",
       "officialId": "point_20260701010811",
       "updatedAt": 1785576368000
-    },
-    {
-      "id": "pc_376b9e7fb2e247a08e14e0ca3790ca51",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "Tác phẩm đôi mèo",
-      "lat": 11.945642,
-      "lng": 108.407969,
-      "source": "OFFICIAL",
-      "officialId": "pc_376b9e7fb2e247a08e14e0ca3790ca51",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_2b291a03af3540a1aa5f18b50d779288",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "根の上の猫",
-      "lat": 41.77453,
-      "lng": 140.727422,
-      "source": "OFFICIAL",
-      "officialId": "pc_2b291a03af3540a1aa5f18b50d779288",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_aed140f8856e4150a27dad64179dd49e",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "A Cat Starry Night",
-      "lat": 41.96446,
-      "lng": -76.510632,
-      "source": "OFFICIAL",
-      "officialId": "pc_aed140f8856e4150a27dad64179dd49e",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_ce708098bcb344e38fdbe8a78998fd61",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "Astronaut Kitty",
-      "lat": -37.651976,
-      "lng": 145.020414,
-      "source": "OFFICIAL",
-      "officialId": "pc_ce708098bcb344e38fdbe8a78998fd61",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_bcf9d2b6a5de4049bb24be320841fd4c",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "Mural del gato",
-      "lat": 25.665866,
-      "lng": -100.412802,
-      "source": "OFFICIAL",
-      "officialId": "pc_bcf9d2b6a5de4049bb24be320841fd4c",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_5f7338115c114ac6acc1dd318db10b28",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "Purr-fect Mural",
-      "lat": 33.606386,
-      "lng": -112.063591,
-      "source": "OFFICIAL",
-      "officialId": "pc_5f7338115c114ac6acc1dd318db10b28",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_f154438e8b65421f91bb661104ca807e",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "Terminal 2E Sleeping Cat",
-      "lat": 49.00098,
-      "lng": 2.585445,
-      "source": "OFFICIAL",
-      "officialId": "pc_f154438e8b65421f91bb661104ca807e",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_5fc1ed7cf4b14438a02e0adfdf137e63",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "嘉義公車路龍貓",
-      "lat": 23.592118,
-      "lng": 120.355486,
-      "source": "OFFICIAL",
-      "officialId": "pc_5fc1ed7cf4b14438a02e0adfdf137e63",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_900653ad22574c0483524696146a9c27",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "The Cats Mural",
-      "lat": 1.447905,
-      "lng": 124.824789,
-      "source": "OFFICIAL",
-      "officialId": "pc_900653ad22574c0483524696146a9c27",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_3ddfd709a67c41028a19a0d5c69339da",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "Вірні Друзі",
-      "lat": 50.897902,
-      "lng": 34.809139,
-      "source": "OFFICIAL",
-      "officialId": "pc_3ddfd709a67c41028a19a0d5c69339da",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_dfeb8dd4a35b4f28a9372985c9449893",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "ひょっこりにゃんこ",
-      "lat": 35.384985,
-      "lng": 139.929237,
-      "source": "OFFICIAL",
-      "officialId": "pc_dfeb8dd4a35b4f28a9372985c9449893",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_872d61c388ce47199cd18c64a0845818",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "貨櫃上的貓",
-      "lat": 25.008002,
-      "lng": 121.26188,
-      "source": "OFFICIAL",
-      "officialId": "pc_872d61c388ce47199cd18c64a0845818",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_c3b03acabb9a427aa275a4ea7421ff60",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "Gato Colorido",
-      "lat": -3.090779,
-      "lng": -60.044453,
-      "source": "OFFICIAL",
-      "officialId": "pc_c3b03acabb9a427aa275a4ea7421ff60",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_e58cec4976ab416aaa017a04fd02d973",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "Cat and Dog Mural.",
-      "lat": 42.313007,
-      "lng": -122.862869,
-      "source": "OFFICIAL",
-      "officialId": "pc_e58cec4976ab416aaa017a04fd02d973",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_1b55e81ac00d4021a201e35ca9c94a61",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "貓",
-      "lat": 22.506878,
-      "lng": -98.05695,
-      "source": "OFFICIAL",
-      "officialId": "pc_1b55e81ac00d4021a201e35ca9c94a61",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_89f115b6083a4187afae9d7d9e95e8dc",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "好ㄘ",
-      "lat": 22.988268,
-      "lng": 120.160535,
-      "source": "OFFICIAL",
-      "officialId": "pc_89f115b6083a4187afae9d7d9e95e8dc",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_f594af5d6ad14b6c9e1168c373f05543",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "三麗鷗 布丁狗抱無嘴貓",
-      "lat": 35.709684,
-      "lng": 139.773121,
-      "source": "OFFICIAL",
-      "officialId": "pc_f594af5d6ad14b6c9e1168c373f05543",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_8c29e83837ea468f8901bbd9eaec29f6",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "nyans（にゃんず）",
-      "lat": 35.458217,
-      "lng": 133.086279,
-      "source": "OFFICIAL",
-      "officialId": "pc_8c29e83837ea468f8901bbd9eaec29f6",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_67df569932be46839c13f9610a8f0299",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "NJS兔子",
-      "lat": 37.54425,
-      "lng": 127.05894,
-      "source": "OFFICIAL",
-      "officialId": "pc_67df569932be46839c13f9610a8f0299",
-      "updatedAt": 1786954551274
-    },
-    {
-      "id": "pc_d02413bed32148ffa2278f75010525a3",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "茉莉與貓貓",
-      "lat": 25.069929,
-      "lng": 121.365795,
-      "source": "OFFICIAL",
-      "officialId": "pc_d02413bed32148ffa2278f75010525a3",
-      "updatedAt": 1786954551274
     },
     {
       "id": "point_new_2",
@@ -1565,6 +1365,206 @@
       "source": "OFFICIAL",
       "officialId": "point_2026082118063720",
       "updatedAt": 1787306797456
+    },
+    {
+      "id": "pc_cba8d0c5806d47ddbe14f2e577b06f09",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "穆索聖尤菲米亞小教堂",
+      "lat": 46.118806,
+      "lng": 9.278723,
+      "source": "OFFICIAL",
+      "officialId": "pc_cba8d0c5806d47ddbe14f2e577b06f09",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_503505bf892a424fb1688af6ad9c6bfa",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "二見浦夫婦岩鳥居",
+      "lat": 33.639499,
+      "lng": 130.197043,
+      "source": "OFFICIAL",
+      "officialId": "pc_503505bf892a424fb1688af6ad9c6bfa",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_4e3b1243f9d845df9c714cb36e615819",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "神山一乘寺",
+      "lat": 34.524365,
+      "lng": 136.56697,
+      "source": "OFFICIAL",
+      "officialId": "pc_4e3b1243f9d845df9c714cb36e615819",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_29618b8822fa4139be144ab11098b538",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "清徳寺",
+      "lat": 35.338594,
+      "lng": 134.343048,
+      "source": "OFFICIAL",
+      "officialId": "pc_29618b8822fa4139be144ab11098b538",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_32f1d8dc5fb1442da25dd668d1699611",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "嚴島神社大鳥居",
+      "lat": 34.297269,
+      "lng": 132.31814,
+      "source": "OFFICIAL",
+      "officialId": "pc_32f1d8dc5fb1442da25dd668d1699611",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_5e5119db58334bdeaaa408f677c3987c",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "一先宮",
+      "lat": 32.943743,
+      "lng": 130.476016,
+      "source": "OFFICIAL",
+      "officialId": "pc_5e5119db58334bdeaaa408f677c3987c",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_c3a569e5a9674eb1888da73f01a128c7",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "法隆寺",
+      "lat": 42.354014,
+      "lng": 142.354183,
+      "source": "OFFICIAL",
+      "officialId": "pc_c3a569e5a9674eb1888da73f01a128c7",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "cmm3kibwu0002oo01urcnwsnv",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "秋田駒岳男岳山頂",
+      "lat": 39.757273,
+      "lng": 140.79465,
+      "source": "OFFICIAL",
+      "officialId": "cmm3kibwu0002oo01urcnwsnv",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_ff0fb97e1e1d4545984853cd73fe60c4",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "阿菲亞神廟（希臘）",
+      "lat": 37.754422,
+      "lng": 23.53334,
+      "source": "OFFICIAL",
+      "officialId": "pc_ff0fb97e1e1d4545984853cd73fe60c4",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_51b20e07333144e5a35259b9769b63f3",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "白石龍神社",
+      "lat": 33.906701,
+      "lng": 132.709548,
+      "source": "OFFICIAL",
+      "officialId": "pc_51b20e07333144e5a35259b9769b63f3",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_c20ae785ec8e4b1dbe5dfee99032b754",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "琉璃光院",
+      "lat": 35.063663,
+      "lng": 135.808479,
+      "source": "OFFICIAL",
+      "officialId": "pc_c20ae785ec8e4b1dbe5dfee99032b754",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_607306902b3e46969fcc320a787d9e68",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "泰國白廟（白龍寺）",
+      "lat": 19.824184,
+      "lng": 99.763842,
+      "source": "OFFICIAL",
+      "officialId": "pc_607306902b3e46969fcc320a787d9e68",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_19595716cef64a32b964c71f67e8f3db",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "紫陽花寺鐘撞堂",
+      "lat": 35.607864,
+      "lng": 139.577506,
+      "source": "OFFICIAL",
+      "officialId": "pc_19595716cef64a32b964c71f67e8f3db",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_898f89abaaa2499aa687345493cd5990",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "富士淺間神社鳥居",
+      "lat": 35.499407,
+      "lng": 138.800116,
+      "source": "OFFICIAL",
+      "officialId": "pc_898f89abaaa2499aa687345493cd5990",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_450934d99a1f470ea480fb6280fa12c7",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "稻荷神社 鳥居",
+      "lat": 33.563719,
+      "lng": 131.368601,
+      "source": "OFFICIAL",
+      "officialId": "pc_450934d99a1f470ea480fb6280fa12c7",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_9edd6f0cd29d4c3c81569e2b157e57a3",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "框架藝術裝置",
+      "lat": 24.437105,
+      "lng": 39.61611,
+      "source": "OFFICIAL",
+      "officialId": "pc_9edd6f0cd29d4c3c81569e2b157e57a3",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_2aad1eb687734a859ccc6a9d1773564d",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "日枝神社",
+      "lat": 35.101205,
+      "lng": 138.868857,
+      "source": "OFFICIAL",
+      "officialId": "pc_2aad1eb687734a859ccc6a9d1773564d",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_5a505acfd38f4cfc855c9b6748b6a3da",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "白鬚神社",
+      "lat": 35.72529058069567,
+      "lng": 139.8132824152708,
+      "source": "OFFICIAL",
+      "officialId": "pc_5a505acfd38f4cfc855c9b6748b6a3da",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_740fe94dee7b4e8883943afb806251f6",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "圓通寺",
+      "lat": 35.502876,
+      "lng": 138.767754,
+      "source": "OFFICIAL",
+      "officialId": "pc_740fe94dee7b4e8883943afb806251f6",
+      "updatedAt": 1787354933190
+    },
+    {
+      "id": "pc_d3f375ba251447baaa2d21f388313fb2",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "靈山寺",
+      "lat": 35.093867,
+      "lng": 138.870541,
+      "source": "OFFICIAL",
+      "officialId": "pc_d3f375ba251447baaa2d21f388313fb2",
+      "updatedAt": 1787354933190
     }
   ]
 }
