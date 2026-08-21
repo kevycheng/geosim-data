@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1787146403349,
+  "updatedAt": 1787305313843,
   "folders": [
     {
       "id": "folder_weekly_featured",
@@ -804,6 +804,56 @@
       "source": "OFFICIAL",
       "officialId": "point_20260805154302",
       "updatedAt": 1785930194000
+    },
+    {
+      "id": "point_2026082117415301",
+      "folderId": "folder_pure_forest",
+      "name": "森林_拉拉山遊客中心",
+      "lat": 24.680086,
+      "lng": 121.384509,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117415301",
+      "updatedAt": 1787305313843
+    },
+    {
+      "id": "point_2026082117415302",
+      "folderId": "folder_pure_forest",
+      "name": "森林_嘉義忠孝路",
+      "lat": 23.503635,
+      "lng": 120.448689,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117415302",
+      "updatedAt": 1787305313843
+    },
+    {
+      "id": "point_2026082117415303",
+      "folderId": "folder_pure_forest",
+      "name": "森林_東興",
+      "lat": 24.950242,
+      "lng": 121.228852,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117415303",
+      "updatedAt": 1787305313843
+    },
+    {
+      "id": "point_2026082117415304",
+      "folderId": "folder_pure_forest",
+      "name": "森林_台南東橋",
+      "lat": 23.02354,
+      "lng": 120.230521,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117415304",
+      "updatedAt": 1787305313843
+    },
+    {
+      "id": "point_2026082117415305",
+      "folderId": "folder_pure_forest",
+      "name": "森林_台中大雅",
+      "lat": 24.216783,
+      "lng": 120.614346,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117415305",
+      "updatedAt": 1787305313843
     }
   ]
 }
