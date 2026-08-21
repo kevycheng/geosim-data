@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1787305775622,
+  "updatedAt": 1787305911156,
   "folders": [
     {
       "id": "folder_weekly_featured",
@@ -994,6 +994,56 @@
       "source": "OFFICIAL",
       "officialId": "point_2026082117493505",
       "updatedAt": 1787305775622
+    },
+    {
+      "id": "point_2026082117515101",
+      "folderId": "folder_pure_airport",
+      "name": "飛機_桃園機場",
+      "lat": 25.085595,
+      "lng": 121.243784,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117515101",
+      "updatedAt": 1787305911156
+    },
+    {
+      "id": "point_2026082117515102",
+      "folderId": "folder_pure_airport",
+      "name": "飛機_新竹空軍基地",
+      "lat": 24.821391,
+      "lng": 120.952048,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117515102",
+      "updatedAt": 1787305911156
+    },
+    {
+      "id": "point_2026082117515103",
+      "folderId": "folder_pure_airport",
+      "name": "飛機_屏南機場",
+      "lat": 22.67826,
+      "lng": 120.46196,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117515103",
+      "updatedAt": 1787305911156
+    },
+    {
+      "id": "point_2026082117515104",
+      "folderId": "folder_pure_airport",
+      "name": "飛機_歸仁機場",
+      "lat": 22.981668,
+      "lng": 120.279843,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117515104",
+      "updatedAt": 1787305911156
+    },
+    {
+      "id": "point_2026082117515105",
+      "folderId": "folder_pure_airport",
+      "name": "飛機_小琉球舊跑道",
+      "lat": 22.34992,
+      "lng": 120.37591,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117515105",
+      "updatedAt": 1787305911156
     }
   ]
 }
