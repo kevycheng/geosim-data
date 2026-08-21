@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1787306170234,
+  "updatedAt": 1787306797506,
   "folders": [
     {
       "id": "folder_weekly_featured",
@@ -152,6 +152,27 @@
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1787146403349
+    },
+    {
+      "id": "folder_pure_dessert",
+      "name": "🍮 甜點",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787306797506
+    },
+    {
+      "id": "folder_pure_bakery",
+      "name": "🍞 麵包",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787306797506
+    },
+    {
+      "id": "folder_pure_library",
+      "name": "📚 圖書館",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1787306797506
     }
   ],
   "bookmarks": [
@@ -1344,6 +1365,206 @@
       "source": "OFFICIAL",
       "officialId": "point_2026082117561030",
       "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082118063701",
+      "folderId": "folder_pure_cafe",
+      "name": "咖啡杯_金門蜉蝣咖啡",
+      "lat": 24.438074,
+      "lng": 118.320828,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063701",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063702",
+      "folderId": "folder_pure_cafe",
+      "name": "咖啡杯_嘉義玉津咖啡",
+      "lat": 23.604215,
+      "lng": 120.401374,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063702",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063703",
+      "folderId": "folder_pure_cafe",
+      "name": "咖啡杯_新竹",
+      "lat": 24.801785,
+      "lng": 120.95768,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063703",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063704",
+      "folderId": "folder_pure_cafe",
+      "name": "咖啡杯_桃園SOSL",
+      "lat": 25.023536,
+      "lng": 121.292946,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063704",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063705",
+      "folderId": "folder_pure_cafe",
+      "name": "咖啡杯_台中IKEA",
+      "lat": 24.148705,
+      "lng": 120.642907,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063705",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063706",
+      "folderId": "folder_pure_dessert",
+      "name": "甜點_宜蘭義豐蔥油派",
+      "lat": 24.621857,
+      "lng": 121.815472,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063706",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063707",
+      "folderId": "folder_pure_dessert",
+      "name": "甜點_桃園詠宸銀絲卷",
+      "lat": 25.042588,
+      "lng": 121.243556,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063707",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063708",
+      "folderId": "folder_pure_dessert",
+      "name": "甜點_台南",
+      "lat": 22.979187,
+      "lng": 120.216265,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063708",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063709",
+      "folderId": "folder_pure_dessert",
+      "name": "甜點_台北詔安街",
+      "lat": 25.024928,
+      "lng": 121.514248,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063709",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063710",
+      "folderId": "folder_pure_dessert",
+      "name": "甜點_高雄鼎盛街",
+      "lat": 22.632233,
+      "lng": 120.289637,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063710",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063711",
+      "folderId": "folder_pure_bakery",
+      "name": "麵包_竹東麵包店",
+      "lat": 24.748315,
+      "lng": 121.07929,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063711",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063712",
+      "folderId": "folder_pure_bakery",
+      "name": "麵包_台中法國麵包",
+      "lat": 24.209364,
+      "lng": 120.616068,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063712",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063713",
+      "folderId": "folder_pure_bakery",
+      "name": "麵包_旺萊山民雄店",
+      "lat": 23.518609,
+      "lng": 120.452245,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063713",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063714",
+      "folderId": "folder_pure_bakery",
+      "name": "麵包_進興餅店",
+      "lat": 24.036218,
+      "lng": 120.505862,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063714",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063715",
+      "folderId": "folder_pure_bakery",
+      "name": "麵包_美濃滿金商行",
+      "lat": 22.89024,
+      "lng": 120.54185,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063715",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063716",
+      "folderId": "folder_pure_library",
+      "name": "圖書館_溪口國小",
+      "lat": 23.604122,
+      "lng": 120.394157,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063716",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063717",
+      "folderId": "folder_pure_library",
+      "name": "圖書館_東勢許良宇",
+      "lat": 24.249964,
+      "lng": 120.834869,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063717",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063718",
+      "folderId": "folder_pure_library",
+      "name": "圖書館_苗栗迷你書",
+      "lat": 24.685841,
+      "lng": 120.912631,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063718",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063719",
+      "folderId": "folder_pure_library",
+      "name": "圖書館_中石化大社廠",
+      "lat": 22.72528,
+      "lng": 120.340447,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063719",
+      "updatedAt": 1787306797456
+    },
+    {
+      "id": "point_2026082118063720",
+      "folderId": "folder_pure_library",
+      "name": "圖書館_南投",
+      "lat": 23.901951,
+      "lng": 120.691499,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082118063720",
+      "updatedAt": 1787306797456
     }
   ]
 }
