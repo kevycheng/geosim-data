@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1787305526003,
+  "updatedAt": 1787305678785,
   "folders": [
     {
       "id": "folder_weekly_featured",
@@ -894,6 +894,56 @@
       "source": "OFFICIAL",
       "officialId": "point_2026082117452604",
       "updatedAt": 1787305526003
+    },
+    {
+      "id": "point_2026082117475801",
+      "folderId": "folder_pure_stationery",
+      "name": "文具_民雄柑仔店",
+      "lat": 23.566848,
+      "lng": 120.437106,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117475801",
+      "updatedAt": 1787305678785
+    },
+    {
+      "id": "point_2026082117475802",
+      "folderId": "folder_pure_stationery",
+      "name": "文具_橋頭金玉堂",
+      "lat": 22.750612,
+      "lng": 120.309239,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117475802",
+      "updatedAt": 1787305678785
+    },
+    {
+      "id": "point_2026082117475803",
+      "folderId": "folder_pure_stationery",
+      "name": "文具_高雄三民",
+      "lat": 22.641291,
+      "lng": 120.320009,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117475803",
+      "updatedAt": 1787305678785
+    },
+    {
+      "id": "point_2026082117475804",
+      "folderId": "folder_pure_stationery",
+      "name": "文具_彰化愛菲爾",
+      "lat": 24.180462,
+      "lng": 120.493748,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117475804",
+      "updatedAt": 1787305678785
+    },
+    {
+      "id": "point_2026082117475805",
+      "folderId": "folder_pure_stationery",
+      "name": "文具_桃園潮州街",
+      "lat": 24.98809,
+      "lng": 121.299319,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117475805",
+      "updatedAt": 1787305678785
     }
   ]
 }
