@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1787305678785,
+  "updatedAt": 1787305775622,
   "folders": [
     {
       "id": "folder_weekly_featured",
@@ -944,6 +944,56 @@
       "source": "OFFICIAL",
       "officialId": "point_2026082117475805",
       "updatedAt": 1787305678785
+    },
+    {
+      "id": "point_2026082117493501",
+      "folderId": "folder_pure_shrine",
+      "name": "神社_帶廣神社",
+      "lat": 42.931823,
+      "lng": 143.209487,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117493501",
+      "updatedAt": 1787305775622
+    },
+    {
+      "id": "point_2026082117493502",
+      "folderId": "folder_pure_shrine",
+      "name": "神社_東京傳通院",
+      "lat": 35.712419,
+      "lng": 139.746871,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117493502",
+      "updatedAt": 1787305775622
+    },
+    {
+      "id": "point_2026082117493503",
+      "folderId": "folder_pure_shrine",
+      "name": "神社_京都大德寺",
+      "lat": 35.043885,
+      "lng": 135.746032,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117493503",
+      "updatedAt": 1787305775622
+    },
+    {
+      "id": "point_2026082117493504",
+      "folderId": "folder_pure_shrine",
+      "name": "神社_名古屋日泰寺",
+      "lat": 35.171164,
+      "lng": 136.955649,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117493504",
+      "updatedAt": 1787305775622
+    },
+    {
+      "id": "point_2026082117493505",
+      "folderId": "folder_pure_shrine",
+      "name": "神社_金武觀音寺",
+      "lat": 26.455021,
+      "lng": 127.921454,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117493505",
+      "updatedAt": 1787305775622
     }
   ]
 }
