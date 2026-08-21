@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1787305911156,
+  "updatedAt": 1787306170234,
   "folders": [
     {
       "id": "folder_weekly_featured",
@@ -1044,6 +1044,306 @@
       "source": "OFFICIAL",
       "officialId": "point_2026082117515105",
       "updatedAt": 1787305911156
+    },
+    {
+      "id": "point_2026082117561001",
+      "folderId": "folder_pure_bridge",
+      "name": "橋樑_三鶯二橋",
+      "lat": 24.954252,
+      "lng": 121.374216,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561001",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561002",
+      "folderId": "folder_pure_bridge",
+      "name": "橋樑_崁頂溪橋",
+      "lat": 23.026384,
+      "lng": 121.156899,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561002",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561003",
+      "folderId": "folder_pure_bridge",
+      "name": "橋樑_旗山地景橋",
+      "lat": 22.884015,
+      "lng": 120.486495,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561003",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561004",
+      "folderId": "folder_pure_bridge",
+      "name": "橋樑_雙園大橋",
+      "lat": 22.4978,
+      "lng": 120.41238,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561004",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561005",
+      "folderId": "folder_pure_bridge",
+      "name": "橋樑_援中港大橋",
+      "lat": 22.717393,
+      "lng": 120.278183,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561005",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561006",
+      "folderId": "folder_pure_burger",
+      "name": "漢堡_台南愛買",
+      "lat": 23.034972,
+      "lng": 120.228335,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561006",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561007",
+      "folderId": "folder_pure_burger",
+      "name": "漢堡_板橋忠孝路",
+      "lat": 25.000457,
+      "lng": 121.461926,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561007",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561008",
+      "folderId": "folder_pure_burger",
+      "name": "漢堡_士林中山北路",
+      "lat": 25.114574,
+      "lng": 121.528886,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561008",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561009",
+      "folderId": "folder_pure_burger",
+      "name": "漢堡_台中自立街",
+      "lat": 24.141022,
+      "lng": 120.669225,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561009",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561010",
+      "folderId": "folder_pure_burger",
+      "name": "漢堡_頭份縱貫公路",
+      "lat": 24.693353,
+      "lng": 120.915104,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561010",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561011",
+      "folderId": "folder_pure_ramen",
+      "name": "拉麵_西螺休息站",
+      "lat": 23.789012,
+      "lng": 120.479877,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561011",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561012",
+      "folderId": "folder_pure_ramen",
+      "name": "拉麵_花蓮花崗國中",
+      "lat": 23.97729,
+      "lng": 121.61251,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561012",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561013",
+      "folderId": "folder_pure_ramen",
+      "name": "拉麵_屏東四維國小",
+      "lat": 22.59507,
+      "lng": 120.488966,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561013",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561014",
+      "folderId": "folder_pure_ramen",
+      "name": "拉麵_台南安平超盛號",
+      "lat": 22.98739,
+      "lng": 120.18096,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561014",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561015",
+      "folderId": "folder_pure_ramen",
+      "name": "拉麵_湖口喜福萊",
+      "lat": 24.902319,
+      "lng": 121.032584,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561015",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561016",
+      "folderId": "folder_pure_university",
+      "name": "大學_中興大學",
+      "lat": 24.12099,
+      "lng": 120.676724,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561016",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561017",
+      "folderId": "folder_pure_university",
+      "name": "大學_台東大學",
+      "lat": 22.737445,
+      "lng": 121.069035,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561017",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561018",
+      "folderId": "folder_pure_university",
+      "name": "大學_嘉大民雄校區",
+      "lat": 23.541968,
+      "lng": 120.423609,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561018",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561019",
+      "folderId": "folder_pure_university",
+      "name": "大學_陽明交大台南校區",
+      "lat": 22.926431,
+      "lng": 120.299972,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561019",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561020",
+      "folderId": "folder_pure_university",
+      "name": "大學_長榮大學",
+      "lat": 22.900036,
+      "lng": 120.272494,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561020",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561021",
+      "folderId": "folder_pure_stadium",
+      "name": "體育館_桃園體育館",
+      "lat": 24.992927,
+      "lng": 121.323229,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561021",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561022",
+      "folderId": "folder_pure_stadium",
+      "name": "體育館_海軍大操場",
+      "lat": 22.69141,
+      "lng": 120.28766,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561022",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561023",
+      "folderId": "folder_pure_stadium",
+      "name": "體育館_嘉義健康生活館",
+      "lat": 23.448429,
+      "lng": 120.277784,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561023",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561024",
+      "folderId": "folder_pure_stadium",
+      "name": "體育館_中興游泳池",
+      "lat": 23.941666,
+      "lng": 120.699196,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561024",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561025",
+      "folderId": "folder_pure_stadium",
+      "name": "體育館_金門體育館",
+      "lat": 24.430208,
+      "lng": 118.242899,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561025",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561026",
+      "folderId": "folder_pure_korean",
+      "name": "泡菜_南港車站",
+      "lat": 25.053771,
+      "lng": 121.609742,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561026",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561027",
+      "folderId": "folder_pure_korean",
+      "name": "泡菜_三元花園韓式餐廳",
+      "lat": 24.183018,
+      "lng": 120.598504,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561027",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561028",
+      "folderId": "folder_pure_korean",
+      "name": "泡菜_新竹夯臭豆腐",
+      "lat": 24.809643,
+      "lng": 120.955038,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561028",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561029",
+      "folderId": "folder_pure_korean",
+      "name": "泡菜_安平韓國餐廳",
+      "lat": 22.991564,
+      "lng": 120.178461,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561029",
+      "updatedAt": 1787306170234
+    },
+    {
+      "id": "point_2026082117561030",
+      "folderId": "folder_pure_korean",
+      "name": "泡菜_高雄西部濱海公路",
+      "lat": 22.656265,
+      "lng": 120.29201,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117561030",
+      "updatedAt": 1787306170234
     }
   ]
 }
