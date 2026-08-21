@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1787305313843,
+  "updatedAt": 1787305526003,
   "folders": [
     {
       "id": "folder_weekly_featured",
@@ -854,6 +854,46 @@
       "source": "OFFICIAL",
       "officialId": "point_2026082117415305",
       "updatedAt": 1787305313843
+    },
+    {
+      "id": "point_2026082117452601",
+      "folderId": "folder_pure_mexican",
+      "name": "塔可餅_基隆tasi tacos",
+      "lat": 25.115596,
+      "lng": 121.75579,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117452601",
+      "updatedAt": 1787305526003
+    },
+    {
+      "id": "point_2026082117452602",
+      "folderId": "folder_pure_mexican",
+      "name": "塔可餅_中和建八路",
+      "lat": 24.997451,
+      "lng": 121.489041,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117452602",
+      "updatedAt": 1787305526003
+    },
+    {
+      "id": "point_2026082117452603",
+      "folderId": "folder_pure_mexican",
+      "name": "塔可餅_汐止大同路",
+      "lat": 25.058754,
+      "lng": 121.636381,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117452603",
+      "updatedAt": 1787305526003
+    },
+    {
+      "id": "point_2026082117452604",
+      "folderId": "folder_pure_mexican",
+      "name": "塔可餅_三重三民街",
+      "lat": 25.068098,
+      "lng": 121.477812,
+      "source": "OFFICIAL",
+      "officialId": "point_2026082117452604",
+      "updatedAt": 1787305526003
     }
   ]
 }
