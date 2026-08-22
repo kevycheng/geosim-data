@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19",
-  "firmwareVersion": "fw-20260819-2",
+  "updatedAt": "2026-08-21",
+  "firmwareVersion": "fw-20260821-1",
   "bookmarksEnabled": true,
   "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.json",
   "routesEnabled": true,
@@ -14,8 +14,8 @@
   "proPurchaseEnabled": false,
   "donateEnabled": true,
   "minSupportedVersionCode": 20,
-  "messageTitle": "GeoSim 更新",
-  "message": "路線編輯更好用了：清單長按拖曳排序、地圖上直接拖移點位。感謝使用 GeoSim 🙏",
+  "messageTitle": "GeoSim ",
+  "message": "每周精選上線了 ! 請至商店更新，以完整支援多層書簽資料夾。感謝使用 GeoSim 🙏",
   "freeTier": {
     "enabled": true,
     "adRewardMinutes": 240,
