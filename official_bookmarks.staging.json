@@ -1397,16 +1397,6 @@
       "updatedAt": 1787354933190
     },
     {
-      "id": "pc_29618b8822fa4139be144ab11098b538",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "清徳寺",
-      "lat": 35.338594,
-      "lng": 134.343048,
-      "source": "OFFICIAL",
-      "officialId": "pc_29618b8822fa4139be144ab11098b538",
-      "updatedAt": 1787354933190
-    },
-    {
       "id": "pc_32f1d8dc5fb1442da25dd668d1699611",
       "folderId": "folder_weekly_featured_mushroom",
       "name": "嚴島神社大鳥居",
@@ -1565,6 +1555,16 @@
       "source": "OFFICIAL",
       "officialId": "pc_d3f375ba251447baaa2d21f388313fb2",
       "updatedAt": 1787354933190
+    },
+    {
+      "id": "point_20260825094808",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "稻荷神社",
+      "lat": 33.563621,
+      "lng": 131.368677,
+      "source": "OFFICIAL",
+      "officialId": "point_20260825094808",
+      "updatedAt": 1787622488433
     }
   ]
 }
