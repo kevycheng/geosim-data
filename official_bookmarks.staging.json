@@ -1507,16 +1507,6 @@
       "updatedAt": 1787354933190
     },
     {
-      "id": "pc_9edd6f0cd29d4c3c81569e2b157e57a3",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "框架藝術裝置",
-      "lat": 24.437105,
-      "lng": 39.61611,
-      "source": "OFFICIAL",
-      "officialId": "pc_9edd6f0cd29d4c3c81569e2b157e57a3",
-      "updatedAt": 1787354933190
-    },
-    {
       "id": "pc_2aad1eb687734a859ccc6a9d1773564d",
       "folderId": "folder_weekly_featured_flower",
       "name": "日枝神社",
@@ -1565,6 +1555,16 @@
       "source": "OFFICIAL",
       "officialId": "point_20260825094808",
       "updatedAt": 1787622488433
+    },
+    {
+      "id": "point_20260825140803",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "下山合目鳥居",
+      "lat": 35.368621,
+      "lng": 138.739016,
+      "source": "OFFICIAL",
+      "officialId": "point_20260825140803",
+      "updatedAt": 1787638083721
     }
   ]
 }
