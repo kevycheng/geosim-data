@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1787940088982,
+  "updatedAt": 1788237199929,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -156,23 +156,23 @@
     },
     {
       "id": "folder_weekly_featured",
-      "name": "0.[每周精選] 主題:壁畫",
+      "name": "0.[每周精選] 主題:城堡",
       "source": "OFFICIAL",
-      "updatedAt": 1787940088982
+      "updatedAt": 1788237199929
     },
     {
       "id": "folder_weekly_featured_mushroom",
-      "name": "[菇] 主題: 壁畫",
+      "name": "[菇] 主題: 城堡",
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
-      "updatedAt": 1787940088982
+      "updatedAt": 1788237199929
     },
     {
       "id": "folder_weekly_featured_flower",
-      "name": "[花] 主題: 壁畫",
+      "name": "[花] 主題: 城堡",
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
-      "updatedAt": 1787940088982
+      "updatedAt": 1788237199929
     }
   ],
   "bookmarks": [
@@ -1367,204 +1367,204 @@
       "updatedAt": 1787306797456
     },
     {
-      "id": "pc_1c4122c1b2d046f4a038a7472f3956da",
+      "id": "pc_68c4e04c59c74f1aa3bea60c7af79574",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "戶外山道龍貓巴士",
-      "lat": 43.691553,
-      "lng": 142.097576,
+      "name": "甲斐上野城",
+      "lat": 35.567442,
+      "lng": 138.521023,
       "source": "OFFICIAL",
-      "officialId": "pc_1c4122c1b2d046f4a038a7472f3956da",
-      "updatedAt": 1787940088982
+      "officialId": "pc_68c4e04c59c74f1aa3bea60c7af79574",
+      "updatedAt": 1788237199929
     },
     {
-      "id": "pc_2a31e317afa14a95893576444a9903ab",
+      "id": "pc_be72310dd28644b591405bb34ad313a9",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "海洋壁畫",
-      "lat": -19.27341,
-      "lng": 146.760382,
+      "name": "新天鵝堡（04）",
+      "lat": 47.56224,
+      "lng": 10.74215,
       "source": "OFFICIAL",
-      "officialId": "pc_2a31e317afa14a95893576444a9903ab",
-      "updatedAt": 1787940088982
+      "officialId": "pc_be72310dd28644b591405bb34ad313a9",
+      "updatedAt": 1788237199929
     },
     {
-      "id": "pc_5739daaacd9d47d1999d175c4d02d5d6",
+      "id": "pc_6c92132b7dc5443da543c42baac4be70",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "小王子壁畫",
-      "lat": 27.48629,
-      "lng": -109.941348,
+      "name": "竜宮城（日和山海岸）",
+      "lat": 35.659406,
+      "lng": 134.831044,
       "source": "OFFICIAL",
-      "officialId": "pc_5739daaacd9d47d1999d175c4d02d5d6",
-      "updatedAt": 1787940088982
+      "officialId": "pc_6c92132b7dc5443da543c42baac4be70",
+      "updatedAt": 1788237199929
     },
     {
-      "id": "pc_fc9836842ea7481ba6515668e2457112",
+      "id": "pc_73fb4868a09e4566b6a3c429e9910edb",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "美少女戰士塗鴉",
-      "lat": 41.312695,
-      "lng": 1.994382,
+      "name": "新天鵝堡全景",
+      "lat": 47.559384,
+      "lng": 10.739565,
       "source": "OFFICIAL",
-      "officialId": "pc_fc9836842ea7481ba6515668e2457112",
-      "updatedAt": 1787940088982
+      "officialId": "pc_73fb4868a09e4566b6a3c429e9910edb",
+      "updatedAt": 1788237199929
     },
     {
-      "id": "pc_049a61a438564092930bddd9442342ac",
+      "id": "pc_6693c07739c64e98ba23f4e595af7134",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "魔法據點碉堡",
-      "lat": -33.959181,
-      "lng": 151.265726,
+      "name": "羅歇波爾泰城堡",
+      "lat": 48.434332,
+      "lng": -1.357689,
       "source": "OFFICIAL",
-      "officialId": "pc_049a61a438564092930bddd9442342ac",
-      "updatedAt": 1787940088982
+      "officialId": "pc_6693c07739c64e98ba23f4e595af7134",
+      "updatedAt": 1788237199929
     },
     {
-      "id": "pc_412ced20a5e7400aa6dd211a62993bd3",
+      "id": "pc_02b2ba6102cf4105974b953ed5f63521",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "巨人圓球（卡雷）",
-      "lat": 52.418324,
-      "lng": 4.620756,
+      "name": "莫斯卡納山",
+      "lat": 42.814138,
+      "lng": 11.152101,
       "source": "OFFICIAL",
-      "officialId": "pc_412ced20a5e7400aa6dd211a62993bd3",
-      "updatedAt": 1787940088982
+      "officialId": "pc_02b2ba6102cf4105974b953ed5f63521",
+      "updatedAt": 1788237199929
     },
     {
-      "id": "cmm7z3wn600lrok01pxob3g4o",
+      "id": "pc_ae94039fa29b49b8a615faa5d65caa7a",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "珍妮壁畫",
-      "lat": 37.50765,
-      "lng": 127.032599,
+      "name": "賈斯旺薩達陵墓",
+      "lat": 26.304399,
+      "lng": 73.025259,
       "source": "OFFICIAL",
-      "officialId": "cmm7z3wn600lrok01pxob3g4o",
-      "updatedAt": 1787940088982
+      "officialId": "pc_ae94039fa29b49b8a615faa5d65caa7a",
+      "updatedAt": 1788237199929
     },
     {
-      "id": "pc_bcf9d2b6a5de4049bb24be320841fd4c",
+      "id": "pc_4c21a6648fea467d8fe0cae73374b2db",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "貓壁畫",
-      "lat": 25.665866,
-      "lng": -100.412802,
+      "name": "新工程宮",
+      "lat": 39.035763,
+      "lng": -8.872782,
       "source": "OFFICIAL",
-      "officialId": "pc_bcf9d2b6a5de4049bb24be320841fd4c",
-      "updatedAt": 1787940088982
+      "officialId": "pc_4c21a6648fea467d8fe0cae73374b2db",
+      "updatedAt": 1788237199929
     },
     {
-      "id": "pc_ac796f7c49804c38a2635ffafc9f7ba7",
+      "id": "pc_3f67d1321a0e4502a10bb6d076710658",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "伊布進化",
-      "lat": 18.947402,
-      "lng": -103.90361,
+      "name": "艾倫戴爾城堡",
+      "lat": 22.312564,
+      "lng": 114.038748,
       "source": "OFFICIAL",
-      "officialId": "pc_ac796f7c49804c38a2635ffafc9f7ba7",
-      "updatedAt": 1787940088982
+      "officialId": "pc_3f67d1321a0e4502a10bb6d076710658",
+      "updatedAt": 1788237199929
     },
     {
-      "id": "pc_5f7338115c114ac6acc1dd318db10b28",
+      "id": "pc_aaa6c9f077524901b93cb5b5fd7ae909",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "新天鵝堡（10）",
+      "lat": 47.56064,
+      "lng": 10.738789,
+      "source": "OFFICIAL",
+      "officialId": "pc_aaa6c9f077524901b93cb5b5fd7ae909",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_923993ff1c5e4943aeba73beb19fb881",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "霍格華茲城堡",
+      "lat": 28.472262,
+      "lng": -81.473574,
+      "source": "OFFICIAL",
+      "officialId": "pc_923993ff1c5e4943aeba73beb19fb881",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_73b0f575b6fe447ea5f7e07032babf1e",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "洲本城跡",
+      "lat": 34.337551,
+      "lng": 134.902946,
+      "source": "OFFICIAL",
+      "officialId": "pc_73b0f575b6fe447ea5f7e07032babf1e",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_22c83850b57e444c96248583f3105ea3",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "熊本城 天守閣",
+      "lat": 32.806215,
+      "lng": 130.705864,
+      "source": "OFFICIAL",
+      "officialId": "pc_22c83850b57e444c96248583f3105ea3",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_c237715049794cdeb47a026004ebf8c6",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "大阪城",
+      "lat": 34.687377,
+      "lng": 135.525828,
+      "source": "OFFICIAL",
+      "officialId": "pc_c237715049794cdeb47a026004ebf8c6",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_49b71c291d5e4aec9580c85217eea311",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "金沢城公園 菱櫓",
+      "lat": 36.566089,
+      "lng": 136.659626,
+      "source": "OFFICIAL",
+      "officialId": "pc_49b71c291d5e4aec9580c85217eea311",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_d5bb1bfd2fda48cfa8ba0873963879df",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "櫻花日本城",
+      "lat": 21.030315,
+      "lng": 105.892395,
+      "source": "OFFICIAL",
+      "officialId": "pc_d5bb1bfd2fda48cfa8ba0873963879df",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_cf7569ec632c45268095ef78e39bd5ae",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "琥珀堡觀景台",
+      "lat": 26.983297,
+      "lng": 75.856175,
+      "source": "OFFICIAL",
+      "officialId": "pc_cf7569ec632c45268095ef78e39bd5ae",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "Schlossturm_rep",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "完美喵壁畫",
-      "lat": 33.606386,
-      "lng": -112.063591,
+      "name": "法蘭克福城堡塔",
+      "lat": 50.067103,
+      "lng": 8.241252,
       "source": "OFFICIAL",
-      "officialId": "pc_5f7338115c114ac6acc1dd318db10b28",
-      "updatedAt": 1787940088982
+      "officialId": "Schlossturm",
+      "updatedAt": 1788237199929
     },
     {
-      "id": "pc_2c8f142a5db642df94b7f2365cdf21bc",
+      "id": "Bojnice_Castle_rep",
       "folderId": "folder_weekly_featured_flower",
-      "name": "大波斯菊",
-      "lat": -34.524113,
-      "lng": -58.747654,
+      "name": "波耶尼切城堡",
+      "lat": 48.780011,
+      "lng": 18.577104,
       "source": "OFFICIAL",
-      "officialId": "pc_2c8f142a5db642df94b7f2365cdf21bc",
-      "updatedAt": 1787940088982
+      "officialId": "Bojnice Castle",
+      "updatedAt": 1788237199929
     },
     {
-      "id": "pc_b90e674af57a43d186ef9dc4249f317a",
+      "id": "tien-e-castle",
       "folderId": "folder_weekly_featured_flower",
-      "name": "史努比小鎮的史努比雕像",
-      "lat": 35.172502,
-      "lng": 136.883522,
+      "name": "天鵝堡",
+      "lat": 47.562449,
+      "lng": 10.7384,
       "source": "OFFICIAL",
-      "officialId": "pc_b90e674af57a43d186ef9dc4249f317a",
-      "updatedAt": 1787940088982
-    },
-    {
-      "id": "pc_624dd0b81093405588b70bcd28f9e3fa",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "櫻花",
-      "lat": 22.504624,
-      "lng": -98.057484,
-      "source": "OFFICIAL",
-      "officialId": "pc_624dd0b81093405588b70bcd28f9e3fa",
-      "updatedAt": 1787940088982
-    },
-    {
-      "id": "pc_3f4e5cc636c941609eed338c7d41e90e",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "兔兔與紅蘿蔔",
-      "lat": 22.715002,
-      "lng": 120.347116,
-      "source": "OFFICIAL",
-      "officialId": "pc_3f4e5cc636c941609eed338c7d41e90e",
-      "updatedAt": 1787940088982
-    },
-    {
-      "id": "pc_4ccf360820a843719664fb891bceb64e",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "小櫻與可洛",
-      "lat": -37.309724,
-      "lng": -59.137451,
-      "source": "OFFICIAL",
-      "officialId": "pc_4ccf360820a843719664fb891bceb64e",
-      "updatedAt": 1787940088982
-    },
-    {
-      "id": "pc_fbbbf8dff838467eaffd45c5ea3b46dd",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "櫻花映照的河川",
-      "lat": 33.591817,
-      "lng": 130.494968,
-      "source": "OFFICIAL",
-      "officialId": "pc_fbbbf8dff838467eaffd45c5ea3b46dd",
-      "updatedAt": 1787940088982
-    },
-    {
-      "id": "pc_d8460c0df2494e73b45e7ef662e4b233",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "米迦勒之翼（運河步道秋景）",
-      "lat": 37.400765,
-      "lng": 126.638283,
-      "source": "OFFICIAL",
-      "officialId": "pc_d8460c0df2494e73b45e7ef662e4b233",
-      "updatedAt": 1787940088982
-    },
-    {
-      "id": "pc_9ca71da495a245148b386af69efa30ab",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "橡膠鴨人孔蓋",
-      "lat": 34.624706,
-      "lng": 135.474684,
-      "source": "OFFICIAL",
-      "officialId": "pc_9ca71da495a245148b386af69efa30ab",
-      "updatedAt": 1787940088982
-    },
-    {
-      "id": "pc_6c4da4e73f8d4ed69aca2edf10135b25",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "永遠向上看的壁畫",
-      "lat": 37.677984,
-      "lng": -113.062385,
-      "source": "OFFICIAL",
-      "officialId": "pc_6c4da4e73f8d4ed69aca2edf10135b25",
-      "updatedAt": 1787940088982
-    },
-    {
-      "id": "pc_fe7df29a65bb4da49395931c9fc3d0cc",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "史努比",
-      "lat": 51.529942,
-      "lng": 6.786354,
-      "source": "OFFICIAL",
-      "officialId": "pc_fe7df29a65bb4da49395931c9fc3d0cc",
-      "updatedAt": 1787940088982
+      "officialId": "tien-e-castle",
+      "updatedAt": 1788237199929
     }
   ]
 }
