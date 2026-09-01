@@ -9,7 +9,7 @@
   "routesUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_routes.json",
   "nominatimEnabled": true,
   "joystickEnabled": true,
-  "healthConnectEnabled": false,
+  "healthConnectEnabled": true,
   "advancedFeaturesEnabled": true,
   "proPromote": true,
   "proPurchaseEnabled": true, 
