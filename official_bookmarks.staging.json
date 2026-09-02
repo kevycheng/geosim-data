@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1788316531781,
+  "updatedAt": 1788319376881,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -194,6 +194,13 @@
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1788316531781
+    },
+    {
+      "id": "folder_seattle_mini_walk",
+      "name": "西雅圖 MINI WALK",
+      "parentId": "folder_gold_pots",
+      "source": "OFFICIAL",
+      "updatedAt": 1788319376881
     }
   ],
   "bookmarks": [
@@ -1676,6 +1683,94 @@
       "source": "OFFICIAL",
       "officialId": "pc_e8265bd977034462a6121b50365a4916",
       "updatedAt": 1781149938368
+    },
+    {
+      "id": "point_2026090211225601",
+      "folderId": "folder_seattle_mini_walk",
+      "name": "Freya Bakery & Cafe / Hagen Coffee Roasters Pike Place",
+      "location": "1426 Western Ave",
+      "lat": 47.608167,
+      "lng": -122.340639,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211225601",
+      "updatedAt": 1788319376881
+    },
+    {
+      "id": "point_2026090211225602",
+      "folderId": "folder_seattle_mini_walk",
+      "name": "Pike Place Fish Market",
+      "location": "86 Pike St",
+      "lat": 47.608641,
+      "lng": -122.340684,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211225602",
+      "updatedAt": 1788319376881
+    },
+    {
+      "id": "point_2026090211225603",
+      "folderId": "folder_seattle_mini_walk",
+      "name": "Jin Jin Matcha",
+      "location": "1325 4th Ave",
+      "lat": 47.608841,
+      "lng": -122.335744,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211225603",
+      "updatedAt": 1788319376881
+    },
+    {
+      "id": "point_2026090211225604",
+      "folderId": "folder_seattle_mini_walk",
+      "name": "Fonté Coffee - 1st Avenue",
+      "location": "1321 1st Ave",
+      "lat": 47.607276,
+      "lng": -122.338929,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211225604",
+      "updatedAt": 1788319376881
+    },
+    {
+      "id": "point_2026090211225605",
+      "folderId": "folder_seattle_mini_walk",
+      "name": "Freya Bakery & Cafe / Hagen Coffee Roasters Downtown",
+      "location": "1400 5th Ave 附近",
+      "lat": 47.609932,
+      "lng": -122.334658,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211225605",
+      "updatedAt": 1788319376881
+    },
+    {
+      "id": "point_2026090211225606",
+      "folderId": "folder_seattle_mini_walk",
+      "name": "Taz Matcha",
+      "location": "410 Stewart St",
+      "lat": 47.610827,
+      "lng": -122.336711,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211225606",
+      "updatedAt": 1788319376881
+    },
+    {
+      "id": "point_2026090211225607",
+      "folderId": "folder_seattle_mini_walk",
+      "name": "Barnes & Noble Pike Street",
+      "location": "520 Pike St",
+      "lat": 47.61125,
+      "lng": -122.33494,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211225607",
+      "updatedAt": 1788319376881
+    },
+    {
+      "id": "point_2026090211225608",
+      "folderId": "folder_seattle_mini_walk",
+      "name": "Seattle Convention Center / PAX West",
+      "location": "705 Pike St",
+      "lat": 47.6119,
+      "lng": -122.3328,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211225608",
+      "updatedAt": 1788319376881
     }
   ]
 }
