@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1788237199929,
+  "updatedAt": 1788316531781,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -173,6 +173,27 @@
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
       "updatedAt": 1788237199929
+    },
+    {
+      "id": "folder_pure_curry",
+      "name": "🍛 咖哩",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1788316531781
+    },
+    {
+      "id": "folder_pure_zoo",
+      "name": "🦁 動物園",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1788316531781
+    },
+    {
+      "id": "folder_pure_supermarket",
+      "name": "🛒 超市",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1788316531781
     }
   ],
   "bookmarks": [
@@ -485,6 +506,206 @@
       "source": "OFFICIAL",
       "officialId": "point_20260701010811",
       "updatedAt": 1785576368000
+    },
+    {
+      "id": "pc_68c4e04c59c74f1aa3bea60c7af79574",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "甲斐上野城",
+      "lat": 35.567442,
+      "lng": 138.521023,
+      "source": "OFFICIAL",
+      "officialId": "pc_68c4e04c59c74f1aa3bea60c7af79574",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_be72310dd28644b591405bb34ad313a9",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "新天鵝堡（04）",
+      "lat": 47.56224,
+      "lng": 10.74215,
+      "source": "OFFICIAL",
+      "officialId": "pc_be72310dd28644b591405bb34ad313a9",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_6c92132b7dc5443da543c42baac4be70",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "竜宮城（日和山海岸）",
+      "lat": 35.659406,
+      "lng": 134.831044,
+      "source": "OFFICIAL",
+      "officialId": "pc_6c92132b7dc5443da543c42baac4be70",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_73fb4868a09e4566b6a3c429e9910edb",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "新天鵝堡全景",
+      "lat": 47.559384,
+      "lng": 10.739565,
+      "source": "OFFICIAL",
+      "officialId": "pc_73fb4868a09e4566b6a3c429e9910edb",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_6693c07739c64e98ba23f4e595af7134",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "羅歇波爾泰城堡",
+      "lat": 48.434332,
+      "lng": -1.357689,
+      "source": "OFFICIAL",
+      "officialId": "pc_6693c07739c64e98ba23f4e595af7134",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_02b2ba6102cf4105974b953ed5f63521",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "莫斯卡納山",
+      "lat": 42.814138,
+      "lng": 11.152101,
+      "source": "OFFICIAL",
+      "officialId": "pc_02b2ba6102cf4105974b953ed5f63521",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_ae94039fa29b49b8a615faa5d65caa7a",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "賈斯旺薩達陵墓",
+      "lat": 26.304399,
+      "lng": 73.025259,
+      "source": "OFFICIAL",
+      "officialId": "pc_ae94039fa29b49b8a615faa5d65caa7a",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_4c21a6648fea467d8fe0cae73374b2db",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "新工程宮",
+      "lat": 39.035763,
+      "lng": -8.872782,
+      "source": "OFFICIAL",
+      "officialId": "pc_4c21a6648fea467d8fe0cae73374b2db",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_3f67d1321a0e4502a10bb6d076710658",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "艾倫戴爾城堡",
+      "lat": 22.312564,
+      "lng": 114.038748,
+      "source": "OFFICIAL",
+      "officialId": "pc_3f67d1321a0e4502a10bb6d076710658",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_aaa6c9f077524901b93cb5b5fd7ae909",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "新天鵝堡（10）",
+      "lat": 47.56064,
+      "lng": 10.738789,
+      "source": "OFFICIAL",
+      "officialId": "pc_aaa6c9f077524901b93cb5b5fd7ae909",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_923993ff1c5e4943aeba73beb19fb881",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "霍格華茲城堡",
+      "lat": 28.472262,
+      "lng": -81.473574,
+      "source": "OFFICIAL",
+      "officialId": "pc_923993ff1c5e4943aeba73beb19fb881",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_73b0f575b6fe447ea5f7e07032babf1e",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "洲本城跡",
+      "lat": 34.337551,
+      "lng": 134.902946,
+      "source": "OFFICIAL",
+      "officialId": "pc_73b0f575b6fe447ea5f7e07032babf1e",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_22c83850b57e444c96248583f3105ea3",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "熊本城 天守閣",
+      "lat": 32.806215,
+      "lng": 130.705864,
+      "source": "OFFICIAL",
+      "officialId": "pc_22c83850b57e444c96248583f3105ea3",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_c237715049794cdeb47a026004ebf8c6",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "大阪城",
+      "lat": 34.687377,
+      "lng": 135.525828,
+      "source": "OFFICIAL",
+      "officialId": "pc_c237715049794cdeb47a026004ebf8c6",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_49b71c291d5e4aec9580c85217eea311",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "金沢城公園 菱櫓",
+      "lat": 36.566089,
+      "lng": 136.659626,
+      "source": "OFFICIAL",
+      "officialId": "pc_49b71c291d5e4aec9580c85217eea311",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_d5bb1bfd2fda48cfa8ba0873963879df",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "櫻花日本城",
+      "lat": 21.030315,
+      "lng": 105.892395,
+      "source": "OFFICIAL",
+      "officialId": "pc_d5bb1bfd2fda48cfa8ba0873963879df",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_cf7569ec632c45268095ef78e39bd5ae",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "琥珀堡觀景台",
+      "lat": 26.983297,
+      "lng": 75.856175,
+      "source": "OFFICIAL",
+      "officialId": "pc_cf7569ec632c45268095ef78e39bd5ae",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "Schlossturm_rep",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "法蘭克福城堡塔",
+      "lat": 50.067103,
+      "lng": 8.241252,
+      "source": "OFFICIAL",
+      "officialId": "Schlossturm",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "Bojnice_Castle_rep",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "波耶尼切城堡",
+      "lat": 48.780011,
+      "lng": 18.577104,
+      "source": "OFFICIAL",
+      "officialId": "Bojnice Castle",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "tien-e-castle",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "天鵝堡",
+      "lat": 47.562449,
+      "lng": 10.7384,
+      "source": "OFFICIAL",
+      "officialId": "tien-e-castle",
+      "updatedAt": 1788237199929
     },
     {
       "id": "point_new_2",
@@ -1367,204 +1588,154 @@
       "updatedAt": 1787306797456
     },
     {
-      "id": "pc_68c4e04c59c74f1aa3bea60c7af79574",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "甲斐上野城",
-      "lat": 35.567442,
-      "lng": 138.521023,
+      "id": "point_2026090210353101",
+      "folderId": "folder_pure_curry",
+      "name": "咖哩_國華國中",
+      "lat": 24.678009,
+      "lng": 121.761125,
       "source": "OFFICIAL",
-      "officialId": "pc_68c4e04c59c74f1aa3bea60c7af79574",
-      "updatedAt": 1788237199929
+      "officialId": "point_2026090210353101",
+      "updatedAt": 1788316531717
     },
     {
-      "id": "pc_be72310dd28644b591405bb34ad313a9",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "新天鵝堡（04）",
-      "lat": 47.56224,
-      "lng": 10.74215,
+      "id": "point_2026090210353102",
+      "folderId": "folder_pure_curry",
+      "name": "咖哩_前金國小",
+      "lat": 22.626544,
+      "lng": 120.293828,
       "source": "OFFICIAL",
-      "officialId": "pc_be72310dd28644b591405bb34ad313a9",
-      "updatedAt": 1788237199929
+      "officialId": "point_2026090210353102",
+      "updatedAt": 1788316531717
     },
     {
-      "id": "pc_6c92132b7dc5443da543c42baac4be70",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "竜宮城（日和山海岸）",
-      "lat": 35.659406,
-      "lng": 134.831044,
+      "id": "point_2026090210353103",
+      "folderId": "folder_pure_curry",
+      "name": "咖哩_蝦皮店到店",
+      "lat": 25.084404,
+      "lng": 121.379448,
       "source": "OFFICIAL",
-      "officialId": "pc_6c92132b7dc5443da543c42baac4be70",
-      "updatedAt": 1788237199929
+      "officialId": "point_2026090210353103",
+      "updatedAt": 1788316531717
     },
     {
-      "id": "pc_73fb4868a09e4566b6a3c429e9910edb",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "新天鵝堡全景",
-      "lat": 47.559384,
-      "lng": 10.739565,
+      "id": "point_2026090210353104",
+      "folderId": "folder_pure_curry",
+      "name": "咖哩_工學五街117巷",
+      "lat": 24.117472,
+      "lng": 120.6625,
       "source": "OFFICIAL",
-      "officialId": "pc_73fb4868a09e4566b6a3c429e9910edb",
-      "updatedAt": 1788237199929
+      "officialId": "point_2026090210353104",
+      "updatedAt": 1788316531717
     },
     {
-      "id": "pc_6693c07739c64e98ba23f4e595af7134",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "羅歇波爾泰城堡",
-      "lat": 48.434332,
-      "lng": -1.357689,
+      "id": "point_2026090210353105",
+      "folderId": "folder_pure_curry",
+      "name": "咖哩_光明街",
+      "lat": 23.074794,
+      "lng": 120.288682,
       "source": "OFFICIAL",
-      "officialId": "pc_6693c07739c64e98ba23f4e595af7134",
-      "updatedAt": 1788237199929
+      "officialId": "point_2026090210353105",
+      "updatedAt": 1788316531717
     },
     {
-      "id": "pc_02b2ba6102cf4105974b953ed5f63521",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "莫斯卡納山",
-      "lat": 42.814138,
-      "lng": 11.152101,
+      "id": "point_2026090210353106",
+      "folderId": "folder_pure_zoo",
+      "name": "動物園_九九峰動物樂園",
+      "lat": 23.961265,
+      "lng": 120.706507,
       "source": "OFFICIAL",
-      "officialId": "pc_02b2ba6102cf4105974b953ed5f63521",
-      "updatedAt": 1788237199929
+      "officialId": "point_2026090210353106",
+      "updatedAt": 1788316531717
     },
     {
-      "id": "pc_ae94039fa29b49b8a615faa5d65caa7a",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "賈斯旺薩達陵墓",
-      "lat": 26.304399,
-      "lng": 73.025259,
+      "id": "point_2026090210353107",
+      "folderId": "folder_pure_zoo",
+      "name": "動物園_木柵動物園區",
+      "lat": 23.11202,
+      "lng": 121.19462,
       "source": "OFFICIAL",
-      "officialId": "pc_ae94039fa29b49b8a615faa5d65caa7a",
-      "updatedAt": 1788237199929
+      "officialId": "point_2026090210353107",
+      "updatedAt": 1788316531717
     },
     {
-      "id": "pc_4c21a6648fea467d8fe0cae73374b2db",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "新工程宮",
-      "lat": 39.035763,
-      "lng": -8.872782,
+      "id": "point_2026090210353108",
+      "folderId": "folder_pure_zoo",
+      "name": "動物園_潭子區農會",
+      "lat": 24.216093,
+      "lng": 120.687393,
       "source": "OFFICIAL",
-      "officialId": "pc_4c21a6648fea467d8fe0cae73374b2db",
-      "updatedAt": 1788237199929
+      "officialId": "point_2026090210353108",
+      "updatedAt": 1788316531717
     },
     {
-      "id": "pc_3f67d1321a0e4502a10bb6d076710658",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "艾倫戴爾城堡",
-      "lat": 22.312564,
-      "lng": 114.038748,
+      "id": "point_2026090210353109",
+      "folderId": "folder_pure_zoo",
+      "name": "動物園_竹北外勞管理中心",
+      "lat": 24.852471,
+      "lng": 120.982858,
       "source": "OFFICIAL",
-      "officialId": "pc_3f67d1321a0e4502a10bb6d076710658",
-      "updatedAt": 1788237199929
+      "officialId": "point_2026090210353109",
+      "updatedAt": 1788316531717
     },
     {
-      "id": "pc_aaa6c9f077524901b93cb5b5fd7ae909",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "新天鵝堡（10）",
-      "lat": 47.56064,
-      "lng": 10.738789,
+      "id": "point_2026090210353110",
+      "folderId": "folder_pure_zoo",
+      "name": "動物園_恆公路",
+      "lat": 22.012225,
+      "lng": 120.741216,
       "source": "OFFICIAL",
-      "officialId": "pc_aaa6c9f077524901b93cb5b5fd7ae909",
-      "updatedAt": 1788237199929
+      "officialId": "point_2026090210353110",
+      "updatedAt": 1788316531717
     },
     {
-      "id": "pc_923993ff1c5e4943aeba73beb19fb881",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "霍格華茲城堡",
-      "lat": 28.472262,
-      "lng": -81.473574,
+      "id": "point_2026090210353111",
+      "folderId": "folder_pure_supermarket",
+      "name": "超市_嘉市四維路全聯",
+      "lat": 23.487512,
+      "lng": 120.42774,
       "source": "OFFICIAL",
-      "officialId": "pc_923993ff1c5e4943aeba73beb19fb881",
-      "updatedAt": 1788237199929
+      "officialId": "point_2026090210353111",
+      "updatedAt": 1788316531717
     },
     {
-      "id": "pc_73b0f575b6fe447ea5f7e07032babf1e",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "洲本城跡",
-      "lat": 34.337551,
-      "lng": 134.902946,
+      "id": "point_2026090210353112",
+      "folderId": "folder_pure_supermarket",
+      "name": "超市_全聯福利中心文化店",
+      "lat": 22.970663,
+      "lng": 120.285369,
       "source": "OFFICIAL",
-      "officialId": "pc_73b0f575b6fe447ea5f7e07032babf1e",
-      "updatedAt": 1788237199929
+      "officialId": "point_2026090210353112",
+      "updatedAt": 1788316531717
     },
     {
-      "id": "pc_22c83850b57e444c96248583f3105ea3",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "熊本城 天守閣",
-      "lat": 32.806215,
-      "lng": 130.705864,
+      "id": "point_2026090210353113",
+      "folderId": "folder_pure_supermarket",
+      "name": "超市_白河全聯",
+      "lat": 23.345109,
+      "lng": 120.41418,
       "source": "OFFICIAL",
-      "officialId": "pc_22c83850b57e444c96248583f3105ea3",
-      "updatedAt": 1788237199929
+      "officialId": "point_2026090210353113",
+      "updatedAt": 1788316531717
     },
     {
-      "id": "pc_c237715049794cdeb47a026004ebf8c6",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "大阪城",
-      "lat": 34.687377,
-      "lng": 135.525828,
+      "id": "point_2026090210353114",
+      "folderId": "folder_pure_supermarket",
+      "name": "超市_美廉社溪口店",
+      "lat": 23.602965,
+      "lng": 120.397235,
       "source": "OFFICIAL",
-      "officialId": "pc_c237715049794cdeb47a026004ebf8c6",
-      "updatedAt": 1788237199929
+      "officialId": "point_2026090210353114",
+      "updatedAt": 1788316531717
     },
     {
-      "id": "pc_49b71c291d5e4aec9580c85217eea311",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "金沢城公園 菱櫓",
-      "lat": 36.566089,
-      "lng": 136.659626,
+      "id": "point_2026090210353115",
+      "folderId": "folder_pure_supermarket",
+      "name": "超市_農聯社",
+      "lat": 24.933081,
+      "lng": 121.284717,
       "source": "OFFICIAL",
-      "officialId": "pc_49b71c291d5e4aec9580c85217eea311",
-      "updatedAt": 1788237199929
-    },
-    {
-      "id": "pc_d5bb1bfd2fda48cfa8ba0873963879df",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "櫻花日本城",
-      "lat": 21.030315,
-      "lng": 105.892395,
-      "source": "OFFICIAL",
-      "officialId": "pc_d5bb1bfd2fda48cfa8ba0873963879df",
-      "updatedAt": 1788237199929
-    },
-    {
-      "id": "pc_cf7569ec632c45268095ef78e39bd5ae",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "琥珀堡觀景台",
-      "lat": 26.983297,
-      "lng": 75.856175,
-      "source": "OFFICIAL",
-      "officialId": "pc_cf7569ec632c45268095ef78e39bd5ae",
-      "updatedAt": 1788237199929
-    },
-    {
-      "id": "Schlossturm_rep",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "法蘭克福城堡塔",
-      "lat": 50.067103,
-      "lng": 8.241252,
-      "source": "OFFICIAL",
-      "officialId": "Schlossturm",
-      "updatedAt": 1788237199929
-    },
-    {
-      "id": "Bojnice_Castle_rep",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "波耶尼切城堡",
-      "lat": 48.780011,
-      "lng": 18.577104,
-      "source": "OFFICIAL",
-      "officialId": "Bojnice Castle",
-      "updatedAt": 1788237199929
-    },
-    {
-      "id": "tien-e-castle",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "天鵝堡",
-      "lat": 47.562449,
-      "lng": 10.7384,
-      "source": "OFFICIAL",
-      "officialId": "tien-e-castle",
-      "updatedAt": 1788237199929
+      "officialId": "point_2026090210353115",
+      "updatedAt": 1788316531717
     }
   ]
 }
