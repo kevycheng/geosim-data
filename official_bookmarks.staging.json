@@ -578,16 +578,6 @@
       "updatedAt": 1788237199929
     },
     {
-      "id": "pc_4c21a6648fea467d8fe0cae73374b2db",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "新工程宮",
-      "lat": 39.035763,
-      "lng": -8.872782,
-      "source": "OFFICIAL",
-      "officialId": "pc_4c21a6648fea467d8fe0cae73374b2db",
-      "updatedAt": 1788237199929
-    },
-    {
       "id": "pc_3f67d1321a0e4502a10bb6d076710658",
       "folderId": "folder_weekly_featured_mushroom",
       "name": "艾倫戴爾城堡",
@@ -691,8 +681,8 @@
       "id": "Bojnice_Castle_rep",
       "folderId": "folder_weekly_featured_flower",
       "name": "波耶尼切城堡",
-      "lat": 48.780011,
-      "lng": 18.577104,
+      "lat": 48.780309,
+      "lng": 18.578314,
       "source": "OFFICIAL",
       "officialId": "Bojnice Castle",
       "updatedAt": 1788237199929
@@ -1736,6 +1726,46 @@
       "source": "OFFICIAL",
       "officialId": "point_2026090210353115",
       "updatedAt": 1788316531717
+    },
+    {
+      "id": "pc_c85827a6a2c1453daf337913b764fd9b",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "香港迪士尼夢幻城堡",
+      "lat": 22.312629,
+      "lng": 114.041188,
+      "source": "OFFICIAL",
+      "officialId": "pc_c85827a6a2c1453daf337913b764fd9b",
+      "updatedAt": 1781149938368
+    },
+    {
+      "id": "pc_9d27aa25de6045389958c6195ad410ed",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "波爾圖拉夫迪城堡",
+      "lat": 37.898241,
+      "lng": 24.027915,
+      "source": "OFFICIAL",
+      "officialId": "pc_9d27aa25de6045389958c6195ad410ed",
+      "updatedAt": 1781149938368
+    },
+    {
+      "id": "pc_87b3b7a1bd9943f0a12125c709a82614",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "新社古堡",
+      "lat": 24.1882,
+      "lng": 120.812284,
+      "source": "OFFICIAL",
+      "officialId": "pc_87b3b7a1bd9943f0a12125c709a82614",
+      "updatedAt": 1781149938368
+    },
+    {
+      "id": "pc_e8265bd977034462a6121b50365a4916",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "普雷迪亞馬城堡",
+      "lat": 45.815736,
+      "lng": 14.126961,
+      "source": "OFFICIAL",
+      "officialId": "pc_e8265bd977034462a6121b50365a4916",
+      "updatedAt": 1781149938368
     }
   ]
 }
