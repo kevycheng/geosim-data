@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1788319376881,
+  "updatedAt": 1788319979657,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -201,6 +201,13 @@
       "parentId": "folder_gold_pots",
       "source": "OFFICIAL",
       "updatedAt": 1788319376881
+    },
+    {
+      "id": "folder_walk_yokosuka",
+      "name": "漫步各地：橫須賀",
+      "parentId": "folder_gold_pots",
+      "source": "OFFICIAL",
+      "updatedAt": 1788319979657
     }
   ],
   "bookmarks": [
@@ -1771,6 +1778,126 @@
       "source": "OFFICIAL",
       "officialId": "point_2026090211225608",
       "updatedAt": 1788319376881
+    },
+    {
+      "id": "point_2026090211325901",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 01",
+      "lat": 35.284147,
+      "lng": 139.656089,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211325901",
+      "updatedAt": 1788319979657
+    },
+    {
+      "id": "point_2026090211325902",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 02",
+      "lat": 35.283141,
+      "lng": 139.659483,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211325902",
+      "updatedAt": 1788319979657
+    },
+    {
+      "id": "point_2026090211325903",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 03",
+      "lat": 35.282235,
+      "lng": 139.662289,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211325903",
+      "updatedAt": 1788319979657
+    },
+    {
+      "id": "point_2026090211325904",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 04",
+      "lat": 35.28178,
+      "lng": 139.663237,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211325904",
+      "updatedAt": 1788319979657
+    },
+    {
+      "id": "point_2026090211325905",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 05",
+      "lat": 35.282255,
+      "lng": 139.665886,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211325905",
+      "updatedAt": 1788319979657
+    },
+    {
+      "id": "point_2026090211325906",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 06",
+      "lat": 35.281345,
+      "lng": 139.668762,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211325906",
+      "updatedAt": 1788319979657
+    },
+    {
+      "id": "point_2026090211325907",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 07",
+      "lat": 35.282284,
+      "lng": 139.669265,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211325907",
+      "updatedAt": 1788319979657
+    },
+    {
+      "id": "point_2026090211325908",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 08",
+      "lat": 35.283526,
+      "lng": 139.67223,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211325908",
+      "updatedAt": 1788319979657
+    },
+    {
+      "id": "point_2026090211325909",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 09",
+      "lat": 35.284232,
+      "lng": 139.673235,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211325909",
+      "updatedAt": 1788319979657
+    },
+    {
+      "id": "point_2026090211325910",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 10",
+      "lat": 35.283103,
+      "lng": 139.675241,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211325910",
+      "updatedAt": 1788319979657
+    },
+    {
+      "id": "point_2026090211325911",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 11",
+      "lat": 35.278868,
+      "lng": 139.678122,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211325911",
+      "updatedAt": 1788319979657
+    },
+    {
+      "id": "point_2026090211325912",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 12",
+      "lat": 35.276759,
+      "lng": 139.682584,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211325912",
+      "updatedAt": 1788319979657
     }
   ]
 }
