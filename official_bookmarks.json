@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1787354933190,
+  "updatedAt": 1788319979657,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -37,7 +37,7 @@
     },
     {
       "id": "folder_202608_special",
-      "name": "[金盆] 8月特殊點位",
+      "name": "[金盆] 9月特殊點位",
       "source": "OFFICIAL",
       "updatedAt": 1787124546516,
       "parentId": "folder_gold_pots"
@@ -156,23 +156,58 @@
     },
     {
       "id": "folder_weekly_featured",
-      "name": "0.[每周精選] 主題:神社/寺廟",
+      "name": "0.[每周精選] 主題:城堡",
       "source": "OFFICIAL",
-      "updatedAt": 1787354933190
+      "updatedAt": 1788237199929
     },
     {
       "id": "folder_weekly_featured_mushroom",
-      "name": "[菇] 主題: 神社/寺廟",
+      "name": "[菇] 主題: 城堡",
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
-      "updatedAt": 1787354933190
+      "updatedAt": 1788237199929
     },
     {
       "id": "folder_weekly_featured_flower",
-      "name": "[花] 主題: 神社/寺廟",
+      "name": "[花] 主題: 城堡",
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
-      "updatedAt": 1787354933190
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "folder_pure_curry",
+      "name": "🍛 咖哩",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1788316531781
+    },
+    {
+      "id": "folder_pure_zoo",
+      "name": "🦁 動物園",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1788316531781
+    },
+    {
+      "id": "folder_pure_supermarket",
+      "name": "🛒 超市",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1788316531781
+    },
+    {
+      "id": "folder_seattle_mini_walk",
+      "name": "西雅圖 MINI WALK",
+      "parentId": "folder_gold_pots",
+      "source": "OFFICIAL",
+      "updatedAt": 1788319376881
+    },
+    {
+      "id": "folder_walk_yokosuka",
+      "name": "漫步各地：橫須賀",
+      "parentId": "folder_gold_pots",
+      "source": "OFFICIAL",
+      "updatedAt": 1788319979657
     }
   ],
   "bookmarks": [
@@ -397,86 +432,6 @@
       "updatedAt": 1785069237000
     },
     {
-      "id": "point_20260727150501",
-      "folderId": "folder_202608_special",
-      "name": "IKEA 新莊店",
-      "lat": 25.0414382,
-      "lng": 121.4652689,
-      "source": "OFFICIAL",
-      "officialId": "point_20260727150501",
-      "updatedAt": 1785588112000
-    },
-    {
-      "id": "point_20260727150502",
-      "folderId": "folder_202608_special",
-      "name": "IKEA 新店店",
-      "lat": 24.9721159,
-      "lng": 121.5307952,
-      "source": "OFFICIAL",
-      "officialId": "point_20260727150502",
-      "updatedAt": 1785588112000
-    },
-    {
-      "id": "point_20260727150503",
-      "folderId": "folder_202608_special",
-      "name": "IKEA 內湖店",
-      "lat": 25.0608403,
-      "lng": 121.5782445,
-      "source": "OFFICIAL",
-      "officialId": "point_20260727150503",
-      "updatedAt": 1785583724000
-    },
-    {
-      "id": "point_20260727150504",
-      "folderId": "folder_202608_special",
-      "name": "IKEA 台北城市店",
-      "lat": 25.0529122,
-      "lng": 121.5480881,
-      "source": "OFFICIAL",
-      "officialId": "point_20260727150504",
-      "updatedAt": 1785583724000
-    },
-    {
-      "id": "point_20260727150505",
-      "folderId": "folder_202608_special",
-      "name": "IKEA 桃園店",
-      "lat": 25.0131961,
-      "lng": 121.2174794,
-      "source": "OFFICIAL",
-      "officialId": "point_20260727150505",
-      "updatedAt": 1785588112000
-    },
-    {
-      "id": "point_20260727150506",
-      "folderId": "folder_202608_special",
-      "name": "IKEA 台中店",
-      "lat": 24.1474184,
-      "lng": 120.6431792,
-      "source": "OFFICIAL",
-      "officialId": "point_20260727150506",
-      "updatedAt": 1785583724000
-    },
-    {
-      "id": "point_20260727150507",
-      "folderId": "folder_202608_special",
-      "name": "IKEA 高雄店",
-      "lat": 22.605661,
-      "lng": 120.303915,
-      "source": "OFFICIAL",
-      "officialId": "point_20260727150507",
-      "updatedAt": 1785588112000
-    },
-    {
-      "id": "point_20260727150508",
-      "folderId": "folder_202608_special",
-      "name": "IKEA 嘉義城市店",
-      "lat": 23.4782175,
-      "lng": 120.4380616,
-      "source": "OFFICIAL",
-      "officialId": "point_20260727150508",
-      "updatedAt": 1785588112000
-    },
-    {
       "id": "point_20260701010811",
       "folderId": "folder_202608_special",
       "name": "Xpark 金盆",
@@ -485,6 +440,196 @@
       "source": "OFFICIAL",
       "officialId": "point_20260701010811",
       "updatedAt": 1785576368000
+    },
+    {
+      "id": "pc_68c4e04c59c74f1aa3bea60c7af79574",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "甲斐上野城",
+      "lat": 35.567442,
+      "lng": 138.521023,
+      "source": "OFFICIAL",
+      "officialId": "pc_68c4e04c59c74f1aa3bea60c7af79574",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_be72310dd28644b591405bb34ad313a9",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "新天鵝堡（04）",
+      "lat": 47.56224,
+      "lng": 10.74215,
+      "source": "OFFICIAL",
+      "officialId": "pc_be72310dd28644b591405bb34ad313a9",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_6c92132b7dc5443da543c42baac4be70",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "竜宮城（日和山海岸）",
+      "lat": 35.659406,
+      "lng": 134.831044,
+      "source": "OFFICIAL",
+      "officialId": "pc_6c92132b7dc5443da543c42baac4be70",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_73fb4868a09e4566b6a3c429e9910edb",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "新天鵝堡全景",
+      "lat": 47.559384,
+      "lng": 10.739565,
+      "source": "OFFICIAL",
+      "officialId": "pc_73fb4868a09e4566b6a3c429e9910edb",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_6693c07739c64e98ba23f4e595af7134",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "羅歇波爾泰城堡",
+      "lat": 48.434332,
+      "lng": -1.357689,
+      "source": "OFFICIAL",
+      "officialId": "pc_6693c07739c64e98ba23f4e595af7134",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_02b2ba6102cf4105974b953ed5f63521",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "莫斯卡納山",
+      "lat": 42.814138,
+      "lng": 11.152101,
+      "source": "OFFICIAL",
+      "officialId": "pc_02b2ba6102cf4105974b953ed5f63521",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_ae94039fa29b49b8a615faa5d65caa7a",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "賈斯旺薩達陵墓",
+      "lat": 26.304399,
+      "lng": 73.025259,
+      "source": "OFFICIAL",
+      "officialId": "pc_ae94039fa29b49b8a615faa5d65caa7a",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_3f67d1321a0e4502a10bb6d076710658",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "艾倫戴爾城堡",
+      "lat": 22.312564,
+      "lng": 114.038748,
+      "source": "OFFICIAL",
+      "officialId": "pc_3f67d1321a0e4502a10bb6d076710658",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_aaa6c9f077524901b93cb5b5fd7ae909",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "新天鵝堡（10）",
+      "lat": 47.56064,
+      "lng": 10.738789,
+      "source": "OFFICIAL",
+      "officialId": "pc_aaa6c9f077524901b93cb5b5fd7ae909",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_923993ff1c5e4943aeba73beb19fb881",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "霍格華茲城堡",
+      "lat": 28.472262,
+      "lng": -81.473574,
+      "source": "OFFICIAL",
+      "officialId": "pc_923993ff1c5e4943aeba73beb19fb881",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_73b0f575b6fe447ea5f7e07032babf1e",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "洲本城跡",
+      "lat": 34.337551,
+      "lng": 134.902946,
+      "source": "OFFICIAL",
+      "officialId": "pc_73b0f575b6fe447ea5f7e07032babf1e",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_22c83850b57e444c96248583f3105ea3",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "熊本城 天守閣",
+      "lat": 32.806215,
+      "lng": 130.705864,
+      "source": "OFFICIAL",
+      "officialId": "pc_22c83850b57e444c96248583f3105ea3",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_c237715049794cdeb47a026004ebf8c6",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "大阪城",
+      "lat": 34.687377,
+      "lng": 135.525828,
+      "source": "OFFICIAL",
+      "officialId": "pc_c237715049794cdeb47a026004ebf8c6",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_49b71c291d5e4aec9580c85217eea311",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "金沢城公園 菱櫓",
+      "lat": 36.566089,
+      "lng": 136.659626,
+      "source": "OFFICIAL",
+      "officialId": "pc_49b71c291d5e4aec9580c85217eea311",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_d5bb1bfd2fda48cfa8ba0873963879df",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "櫻花日本城",
+      "lat": 21.030315,
+      "lng": 105.892395,
+      "source": "OFFICIAL",
+      "officialId": "pc_d5bb1bfd2fda48cfa8ba0873963879df",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "pc_cf7569ec632c45268095ef78e39bd5ae",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "琥珀堡觀景台",
+      "lat": 26.983297,
+      "lng": 75.856175,
+      "source": "OFFICIAL",
+      "officialId": "pc_cf7569ec632c45268095ef78e39bd5ae",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "Schlossturm_rep",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "法蘭克福城堡塔",
+      "lat": 50.067103,
+      "lng": 8.241252,
+      "source": "OFFICIAL",
+      "officialId": "Schlossturm",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "Bojnice_Castle_rep",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "波耶尼切城堡",
+      "lat": 48.780309,
+      "lng": 18.578314,
+      "source": "OFFICIAL",
+      "officialId": "Bojnice Castle",
+      "updatedAt": 1788237199929
+    },
+    {
+      "id": "tien-e-castle",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "天鵝堡",
+      "lat": 47.562449,
+      "lng": 10.7384,
+      "source": "OFFICIAL",
+      "officialId": "tien-e-castle",
+      "updatedAt": 1788237199929
     },
     {
       "id": "point_new_2",
@@ -1207,16 +1352,6 @@
       "updatedAt": 1787306797456
     },
     {
-      "id": "point_2026082118063705",
-      "folderId": "folder_pure_cafe",
-      "name": "咖啡杯_台中IKEA",
-      "lat": 24.148705,
-      "lng": 120.642907,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082118063705",
-      "updatedAt": 1787306797456
-    },
-    {
       "id": "point_2026082118063706",
       "folderId": "folder_pure_dessert",
       "name": "甜點_宜蘭義豐蔥油派",
@@ -1367,204 +1502,402 @@
       "updatedAt": 1787306797456
     },
     {
-      "id": "pc_cba8d0c5806d47ddbe14f2e577b06f09",
+      "id": "point_2026090210353101",
+      "folderId": "folder_pure_curry",
+      "name": "咖哩_國華國中",
+      "lat": 24.678009,
+      "lng": 121.761125,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090210353101",
+      "updatedAt": 1788316531717
+    },
+    {
+      "id": "point_2026090210353102",
+      "folderId": "folder_pure_curry",
+      "name": "咖哩_前金國小",
+      "lat": 22.626544,
+      "lng": 120.293828,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090210353102",
+      "updatedAt": 1788316531717
+    },
+    {
+      "id": "point_2026090210353103",
+      "folderId": "folder_pure_curry",
+      "name": "咖哩_蝦皮店到店",
+      "lat": 25.084404,
+      "lng": 121.379448,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090210353103",
+      "updatedAt": 1788316531717
+    },
+    {
+      "id": "point_2026090210353104",
+      "folderId": "folder_pure_curry",
+      "name": "咖哩_工學五街117巷",
+      "lat": 24.117472,
+      "lng": 120.6625,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090210353104",
+      "updatedAt": 1788316531717
+    },
+    {
+      "id": "point_2026090210353105",
+      "folderId": "folder_pure_curry",
+      "name": "咖哩_光明街",
+      "lat": 23.074794,
+      "lng": 120.288682,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090210353105",
+      "updatedAt": 1788316531717
+    },
+    {
+      "id": "point_2026090210353106",
+      "folderId": "folder_pure_zoo",
+      "name": "動物園_九九峰動物樂園",
+      "lat": 23.961265,
+      "lng": 120.706507,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090210353106",
+      "updatedAt": 1788316531717
+    },
+    {
+      "id": "point_2026090210353107",
+      "folderId": "folder_pure_zoo",
+      "name": "動物園_木柵動物園區",
+      "lat": 23.11202,
+      "lng": 121.19462,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090210353107",
+      "updatedAt": 1788316531717
+    },
+    {
+      "id": "point_2026090210353108",
+      "folderId": "folder_pure_zoo",
+      "name": "動物園_潭子區農會",
+      "lat": 24.216093,
+      "lng": 120.687393,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090210353108",
+      "updatedAt": 1788316531717
+    },
+    {
+      "id": "point_2026090210353109",
+      "folderId": "folder_pure_zoo",
+      "name": "動物園_竹北外勞管理中心",
+      "lat": 24.852471,
+      "lng": 120.982858,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090210353109",
+      "updatedAt": 1788316531717
+    },
+    {
+      "id": "point_2026090210353110",
+      "folderId": "folder_pure_zoo",
+      "name": "動物園_恆公路",
+      "lat": 22.012225,
+      "lng": 120.741216,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090210353110",
+      "updatedAt": 1788316531717
+    },
+    {
+      "id": "point_2026090210353111",
+      "folderId": "folder_pure_supermarket",
+      "name": "超市_嘉市四維路全聯",
+      "lat": 23.487512,
+      "lng": 120.42774,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090210353111",
+      "updatedAt": 1788316531717
+    },
+    {
+      "id": "point_2026090210353112",
+      "folderId": "folder_pure_supermarket",
+      "name": "超市_全聯福利中心文化店",
+      "lat": 22.970663,
+      "lng": 120.285369,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090210353112",
+      "updatedAt": 1788316531717
+    },
+    {
+      "id": "point_2026090210353113",
+      "folderId": "folder_pure_supermarket",
+      "name": "超市_白河全聯",
+      "lat": 23.345109,
+      "lng": 120.41418,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090210353113",
+      "updatedAt": 1788316531717
+    },
+    {
+      "id": "point_2026090210353114",
+      "folderId": "folder_pure_supermarket",
+      "name": "超市_美廉社溪口店",
+      "lat": 23.602965,
+      "lng": 120.397235,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090210353114",
+      "updatedAt": 1788316531717
+    },
+    {
+      "id": "point_2026090210353115",
+      "folderId": "folder_pure_supermarket",
+      "name": "超市_農聯社",
+      "lat": 24.933081,
+      "lng": 121.284717,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090210353115",
+      "updatedAt": 1788316531717
+    },
+    {
+      "id": "pc_c85827a6a2c1453daf337913b764fd9b",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "穆索聖尤菲米亞小教堂",
-      "lat": 46.118806,
-      "lng": 9.278723,
+      "name": "香港迪士尼夢幻城堡",
+      "lat": 22.312629,
+      "lng": 114.041188,
       "source": "OFFICIAL",
-      "officialId": "pc_cba8d0c5806d47ddbe14f2e577b06f09",
-      "updatedAt": 1787354933190
+      "officialId": "pc_c85827a6a2c1453daf337913b764fd9b",
+      "updatedAt": 1781149938368
     },
     {
-      "id": "pc_503505bf892a424fb1688af6ad9c6bfa",
+      "id": "pc_9d27aa25de6045389958c6195ad410ed",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "二見浦夫婦岩鳥居",
-      "lat": 33.639499,
-      "lng": 130.197043,
+      "name": "波爾圖拉夫迪城堡",
+      "lat": 37.898241,
+      "lng": 24.027915,
       "source": "OFFICIAL",
-      "officialId": "pc_503505bf892a424fb1688af6ad9c6bfa",
-      "updatedAt": 1787354933190
+      "officialId": "pc_9d27aa25de6045389958c6195ad410ed",
+      "updatedAt": 1781149938368
     },
     {
-      "id": "pc_4e3b1243f9d845df9c714cb36e615819",
+      "id": "pc_87b3b7a1bd9943f0a12125c709a82614",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "神山一乘寺",
-      "lat": 34.524365,
-      "lng": 136.56697,
+      "name": "新社古堡",
+      "lat": 24.1882,
+      "lng": 120.812284,
       "source": "OFFICIAL",
-      "officialId": "pc_4e3b1243f9d845df9c714cb36e615819",
-      "updatedAt": 1787354933190
+      "officialId": "pc_87b3b7a1bd9943f0a12125c709a82614",
+      "updatedAt": 1781149938368
     },
     {
-      "id": "pc_32f1d8dc5fb1442da25dd668d1699611",
+      "id": "pc_e8265bd977034462a6121b50365a4916",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "嚴島神社大鳥居",
-      "lat": 34.297269,
-      "lng": 132.31814,
+      "name": "普雷迪亞馬城堡",
+      "lat": 45.815736,
+      "lng": 14.126961,
       "source": "OFFICIAL",
-      "officialId": "pc_32f1d8dc5fb1442da25dd668d1699611",
-      "updatedAt": 1787354933190
+      "officialId": "pc_e8265bd977034462a6121b50365a4916",
+      "updatedAt": 1781149938368
     },
     {
-      "id": "pc_5e5119db58334bdeaaa408f677c3987c",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "一先宮",
-      "lat": 32.943743,
-      "lng": 130.476016,
+      "id": "point_2026090211225601",
+      "folderId": "folder_seattle_mini_walk",
+      "name": "Freya Bakery & Cafe / Hagen Coffee Roasters Pike Place",
+      "location": "1426 Western Ave",
+      "lat": 47.608167,
+      "lng": -122.340639,
       "source": "OFFICIAL",
-      "officialId": "pc_5e5119db58334bdeaaa408f677c3987c",
-      "updatedAt": 1787354933190
+      "officialId": "point_2026090211225601",
+      "updatedAt": 1788319376881
     },
     {
-      "id": "pc_c3a569e5a9674eb1888da73f01a128c7",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "法隆寺",
-      "lat": 42.354014,
-      "lng": 142.354183,
+      "id": "point_2026090211225602",
+      "folderId": "folder_seattle_mini_walk",
+      "name": "Pike Place Fish Market",
+      "location": "86 Pike St",
+      "lat": 47.608641,
+      "lng": -122.340684,
       "source": "OFFICIAL",
-      "officialId": "pc_c3a569e5a9674eb1888da73f01a128c7",
-      "updatedAt": 1787354933190
+      "officialId": "point_2026090211225602",
+      "updatedAt": 1788319376881
     },
     {
-      "id": "cmm3kibwu0002oo01urcnwsnv",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "秋田駒岳男岳山頂",
-      "lat": 39.757273,
-      "lng": 140.79465,
+      "id": "point_2026090211225603",
+      "folderId": "folder_seattle_mini_walk",
+      "name": "Jin Jin Matcha",
+      "location": "1325 4th Ave",
+      "lat": 47.608841,
+      "lng": -122.335744,
       "source": "OFFICIAL",
-      "officialId": "cmm3kibwu0002oo01urcnwsnv",
-      "updatedAt": 1787354933190
+      "officialId": "point_2026090211225603",
+      "updatedAt": 1788319376881
     },
     {
-      "id": "pc_ff0fb97e1e1d4545984853cd73fe60c4",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "阿菲亞神廟（希臘）",
-      "lat": 37.754422,
-      "lng": 23.53334,
+      "id": "point_2026090211225604",
+      "folderId": "folder_seattle_mini_walk",
+      "name": "Fonté Coffee - 1st Avenue",
+      "location": "1321 1st Ave",
+      "lat": 47.607276,
+      "lng": -122.338929,
       "source": "OFFICIAL",
-      "officialId": "pc_ff0fb97e1e1d4545984853cd73fe60c4",
-      "updatedAt": 1787354933190
+      "officialId": "point_2026090211225604",
+      "updatedAt": 1788319376881
     },
     {
-      "id": "pc_51b20e07333144e5a35259b9769b63f3",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "白石龍神社",
-      "lat": 33.906701,
-      "lng": 132.709548,
+      "id": "point_2026090211225605",
+      "folderId": "folder_seattle_mini_walk",
+      "name": "Freya Bakery & Cafe / Hagen Coffee Roasters Downtown",
+      "location": "1400 5th Ave 附近",
+      "lat": 47.609932,
+      "lng": -122.334658,
       "source": "OFFICIAL",
-      "officialId": "pc_51b20e07333144e5a35259b9769b63f3",
-      "updatedAt": 1787354933190
+      "officialId": "point_2026090211225605",
+      "updatedAt": 1788319376881
     },
     {
-      "id": "pc_c20ae785ec8e4b1dbe5dfee99032b754",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "琉璃光院",
-      "lat": 35.063663,
-      "lng": 135.808479,
+      "id": "point_2026090211225606",
+      "folderId": "folder_seattle_mini_walk",
+      "name": "Taz Matcha",
+      "location": "410 Stewart St",
+      "lat": 47.610827,
+      "lng": -122.336711,
       "source": "OFFICIAL",
-      "officialId": "pc_c20ae785ec8e4b1dbe5dfee99032b754",
-      "updatedAt": 1787354933190
+      "officialId": "point_2026090211225606",
+      "updatedAt": 1788319376881
     },
     {
-      "id": "pc_607306902b3e46969fcc320a787d9e68",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "泰國白廟（白龍寺）",
-      "lat": 19.824184,
-      "lng": 99.763842,
+      "id": "point_2026090211225607",
+      "folderId": "folder_seattle_mini_walk",
+      "name": "Barnes & Noble Pike Street",
+      "location": "520 Pike St",
+      "lat": 47.61125,
+      "lng": -122.33494,
       "source": "OFFICIAL",
-      "officialId": "pc_607306902b3e46969fcc320a787d9e68",
-      "updatedAt": 1787354933190
+      "officialId": "point_2026090211225607",
+      "updatedAt": 1788319376881
     },
     {
-      "id": "pc_19595716cef64a32b964c71f67e8f3db",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "紫陽花寺鐘撞堂",
-      "lat": 35.607864,
-      "lng": 139.577506,
+      "id": "point_2026090211225608",
+      "folderId": "folder_seattle_mini_walk",
+      "name": "Seattle Convention Center / PAX West",
+      "location": "705 Pike St",
+      "lat": 47.6119,
+      "lng": -122.3328,
       "source": "OFFICIAL",
-      "officialId": "pc_19595716cef64a32b964c71f67e8f3db",
-      "updatedAt": 1787354933190
+      "officialId": "point_2026090211225608",
+      "updatedAt": 1788319376881
     },
     {
-      "id": "pc_898f89abaaa2499aa687345493cd5990",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "富士淺間神社鳥居",
-      "lat": 35.499407,
-      "lng": 138.800116,
+      "id": "point_2026090211325901",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 01",
+      "lat": 35.284147,
+      "lng": 139.656089,
       "source": "OFFICIAL",
-      "officialId": "pc_898f89abaaa2499aa687345493cd5990",
-      "updatedAt": 1787354933190
+      "officialId": "point_2026090211325901",
+      "updatedAt": 1788319979657
     },
     {
-      "id": "pc_450934d99a1f470ea480fb6280fa12c7",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "稻荷神社 鳥居",
-      "lat": 33.563719,
-      "lng": 131.368601,
+      "id": "point_2026090211325902",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 02",
+      "lat": 35.283141,
+      "lng": 139.659483,
       "source": "OFFICIAL",
-      "officialId": "pc_450934d99a1f470ea480fb6280fa12c7",
-      "updatedAt": 1787354933190
+      "officialId": "point_2026090211325902",
+      "updatedAt": 1788319979657
     },
     {
-      "id": "pc_2aad1eb687734a859ccc6a9d1773564d",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "日枝神社",
-      "lat": 35.101205,
-      "lng": 138.868857,
+      "id": "point_2026090211325903",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 03",
+      "lat": 35.282235,
+      "lng": 139.662289,
       "source": "OFFICIAL",
-      "officialId": "pc_2aad1eb687734a859ccc6a9d1773564d",
-      "updatedAt": 1787354933190
+      "officialId": "point_2026090211325903",
+      "updatedAt": 1788319979657
     },
     {
-      "id": "pc_5a505acfd38f4cfc855c9b6748b6a3da",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "白鬚神社",
-      "lat": 35.72529058069567,
-      "lng": 139.8132824152708,
+      "id": "point_2026090211325904",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 04",
+      "lat": 35.28178,
+      "lng": 139.663237,
       "source": "OFFICIAL",
-      "officialId": "pc_5a505acfd38f4cfc855c9b6748b6a3da",
-      "updatedAt": 1787354933190
+      "officialId": "point_2026090211325904",
+      "updatedAt": 1788319979657
     },
     {
-      "id": "pc_740fe94dee7b4e8883943afb806251f6",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "圓通寺",
-      "lat": 35.502876,
-      "lng": 138.767754,
+      "id": "point_2026090211325905",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 05",
+      "lat": 35.282255,
+      "lng": 139.665886,
       "source": "OFFICIAL",
-      "officialId": "pc_740fe94dee7b4e8883943afb806251f6",
-      "updatedAt": 1787354933190
+      "officialId": "point_2026090211325905",
+      "updatedAt": 1788319979657
     },
     {
-      "id": "pc_d3f375ba251447baaa2d21f388313fb2",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "靈山寺",
-      "lat": 35.093867,
-      "lng": 138.870541,
+      "id": "point_2026090211325906",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 06",
+      "lat": 35.281345,
+      "lng": 139.668762,
       "source": "OFFICIAL",
-      "officialId": "pc_d3f375ba251447baaa2d21f388313fb2",
-      "updatedAt": 1787354933190
+      "officialId": "point_2026090211325906",
+      "updatedAt": 1788319979657
     },
     {
-      "id": "point_20260825094808",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "稻荷神社",
-      "lat": 33.563621,
-      "lng": 131.368677,
+      "id": "point_2026090211325907",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 07",
+      "lat": 35.282284,
+      "lng": 139.669265,
       "source": "OFFICIAL",
-      "officialId": "point_20260825094808",
-      "updatedAt": 1787622488433
+      "officialId": "point_2026090211325907",
+      "updatedAt": 1788319979657
     },
     {
-      "id": "point_20260825140803",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "下山合目鳥居",
-      "lat": 35.368621,
-      "lng": 138.739016,
+      "id": "point_2026090211325908",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 08",
+      "lat": 35.283526,
+      "lng": 139.67223,
       "source": "OFFICIAL",
-      "officialId": "point_20260825140803",
-      "updatedAt": 1787638083721
+      "officialId": "point_2026090211325908",
+      "updatedAt": 1788319979657
+    },
+    {
+      "id": "point_2026090211325909",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 09",
+      "lat": 35.284232,
+      "lng": 139.673235,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211325909",
+      "updatedAt": 1788319979657
+    },
+    {
+      "id": "point_2026090211325910",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 10",
+      "lat": 35.283103,
+      "lng": 139.675241,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211325910",
+      "updatedAt": 1788319979657
+    },
+    {
+      "id": "point_2026090211325911",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 11",
+      "lat": 35.278868,
+      "lng": 139.678122,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211325911",
+      "updatedAt": 1788319979657
+    },
+    {
+      "id": "point_2026090211325912",
+      "folderId": "folder_walk_yokosuka",
+      "name": "橫須賀 12",
+      "lat": 35.276759,
+      "lng": 139.682584,
+      "source": "OFFICIAL",
+      "officialId": "point_2026090211325912",
+      "updatedAt": 1788319979657
     }
   ]
 }
