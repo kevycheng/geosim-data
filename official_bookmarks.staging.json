@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1788544908058,
+  "updatedAt": 1788747361949,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -191,23 +191,23 @@
     },
     {
       "id": "folder_weekly_featured",
-      "name": "0.[每周精選] 主題:城堡",
+      "name": "0.[每周精選] 主題:海灘/海洋",
       "source": "OFFICIAL",
-      "updatedAt": 1788544908058
+      "updatedAt": 1788747361949
     },
     {
       "id": "folder_weekly_featured_mushroom",
-      "name": "[菇] 主題: 城堡",
+      "name": "[菇] 主題: 海灘/海洋",
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
-      "updatedAt": 1788544908058
+      "updatedAt": 1788747361949
     },
     {
       "id": "folder_weekly_featured_flower",
-      "name": "[花] 主題: 城堡",
+      "name": "[花] 主題: 海灘/海洋",
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
-      "updatedAt": 1788544908058
+      "updatedAt": 1788747361949
     }
   ],
   "bookmarks": [
@@ -1670,24 +1670,64 @@
       "updatedAt": 1788319979657
     },
     {
-      "id": "pc_68c4e04c59c74f1aa3bea60c7af79574",
+      "id": "pc_503505bf892a424fb1688af6ad9c6bfa",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "甲斐上野城",
-      "lat": 35.567442,
-      "lng": 138.521023,
+      "name": "二見浦夫婦岩鳥居",
+      "lat": 33.639499,
+      "lng": 130.197043,
       "source": "OFFICIAL",
-      "officialId": "pc_68c4e04c59c74f1aa3bea60c7af79574",
-      "updatedAt": 1788544908058
+      "officialId": "pc_503505bf892a424fb1688af6ad9c6bfa",
+      "updatedAt": 1788747361949
     },
     {
-      "id": "pc_be72310dd28644b591405bb34ad313a9",
+      "id": "pc_a773d28f95b945569c444c714c810d3f",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "新天鵝堡 04 - 城堡",
-      "lat": 47.56224,
-      "lng": 10.74215,
+      "name": "遠古洞穴",
+      "lat": 11.352339,
+      "lng": 162.343078,
       "source": "OFFICIAL",
-      "officialId": "pc_be72310dd28644b591405bb34ad313a9",
-      "updatedAt": 1788544908058
+      "officialId": "pc_a773d28f95b945569c444c714c810d3f",
+      "updatedAt": 1788747361949
+    },
+    {
+      "id": "pc_d70b46bd289e4824b0c1975a65f97f5a",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "海洋展望所",
+      "lat": 31.582123,
+      "lng": 130.56455,
+      "source": "OFFICIAL",
+      "officialId": "pc_d70b46bd289e4824b0c1975a65f97f5a",
+      "updatedAt": 1788747361949
+    },
+    {
+      "id": "pc_32f1d8dc5fb1442da25dd668d1699611",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "嚴島神社大鳥居",
+      "lat": 34.297269,
+      "lng": 132.31814,
+      "source": "OFFICIAL",
+      "officialId": "pc_32f1d8dc5fb1442da25dd668d1699611",
+      "updatedAt": 1788747361949
+    },
+    {
+      "id": "cmm7yuhif00kfok01bfsifkez",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "蘇甘達灣漁屋",
+      "lat": 66.12395,
+      "lng": -23.567529,
+      "source": "OFFICIAL",
+      "officialId": "cmm7yuhif00kfok01bfsifkez",
+      "updatedAt": 1788747361949
+    },
+    {
+      "id": "pc_45e9533f7f6a4cd6839fd377211811b8",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "竹島東御神燈(蒲郡市竹島町)",
+      "lat": 34.811263,
+      "lng": 137.232361,
+      "source": "OFFICIAL",
+      "officialId": "pc_45e9533f7f6a4cd6839fd377211811b8",
+      "updatedAt": 1788747361949
     },
     {
       "id": "pc_6c92132b7dc5443da543c42baac4be70",
@@ -1697,177 +1737,137 @@
       "lng": 134.831044,
       "source": "OFFICIAL",
       "officialId": "pc_6c92132b7dc5443da543c42baac4be70",
-      "updatedAt": 1788544908058
+      "updatedAt": 1788747361949
     },
     {
-      "id": "pc_73fb4868a09e4566b6a3c429e9910edb",
+      "id": "pc_51b20e07333144e5a35259b9769b63f3",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "新天鵝堡 - 全景",
-      "lat": 47.559384,
-      "lng": 10.739565,
+      "name": "白石龍神社",
+      "lat": 33.906701,
+      "lng": 132.709548,
       "source": "OFFICIAL",
-      "officialId": "pc_73fb4868a09e4566b6a3c429e9910edb",
-      "updatedAt": 1788544908058
+      "officialId": "pc_51b20e07333144e5a35259b9769b63f3",
+      "updatedAt": 1788747361949
     },
     {
-      "id": "pc_6693c07739c64e98ba23f4e595af7134",
+      "id": "pc_9b110edbe2f14d339921c6b60981a7e1",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "羅謝爾波爾泰城堡",
-      "lat": 48.434332,
-      "lng": -1.357689,
+      "name": "卡洛福特燈塔",
+      "lat": 39.147453,
+      "lng": 8.22363,
       "source": "OFFICIAL",
-      "officialId": "pc_6693c07739c64e98ba23f4e595af7134",
-      "updatedAt": 1788544908058
+      "officialId": "pc_9b110edbe2f14d339921c6b60981a7e1",
+      "updatedAt": 1788747361949
     },
     {
-      "id": "pc_02b2ba6102cf4105974b953ed5f63521",
+      "id": "pc_e99f70cdc9174b66a9cfdf83cac88c7a",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "莫斯科納蒂諾",
-      "lat": 42.814138,
-      "lng": 11.152101,
+      "name": "弁天島 赤鳥居",
+      "lat": 34.686744,
+      "lng": 137.600978,
       "source": "OFFICIAL",
-      "officialId": "pc_02b2ba6102cf4105974b953ed5f63521",
-      "updatedAt": 1788544908058
+      "officialId": "pc_e99f70cdc9174b66a9cfdf83cac88c7a",
+      "updatedAt": 1788747361949
     },
     {
-      "id": "pc_ae94039fa29b49b8a615faa5d65caa7a",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "賈斯旺薩達陵墓",
-      "lat": 26.304399,
-      "lng": 73.025259,
-      "source": "OFFICIAL",
-      "officialId": "pc_ae94039fa29b49b8a615faa5d65caa7a",
-      "updatedAt": 1788544908058
-    },
-    {
-      "id": "pc_af9e464935b74a05a880ec094126f583",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "萊茵橋",
-      "lat": 47.676637,
-      "lng": 8.617979,
-      "source": "OFFICIAL",
-      "officialId": "pc_af9e464935b74a05a880ec094126f583",
-      "updatedAt": 1788544908058
-    },
-    {
-      "id": "pc_4c21a6648fea467d8fe0cae73374b2db",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "新工程宮殿",
-      "lat": 39.035763,
-      "lng": -8.872782,
-      "source": "OFFICIAL",
-      "officialId": "pc_4c21a6648fea467d8fe0cae73374b2db",
-      "updatedAt": 1788544908058
-    },
-    {
-      "id": "pc_3f67d1321a0e4502a10bb6d076710658",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "艾倫戴爾城堡",
-      "lat": 22.312564,
-      "lng": 114.038748,
-      "source": "OFFICIAL",
-      "officialId": "pc_3f67d1321a0e4502a10bb6d076710658",
-      "updatedAt": 1788544908058
-    },
-    {
-      "id": "pc_aaa6c9f077524901b93cb5b5fd7ae909",
+      "id": "pc_744bcd2ce69f4ad4b6c6f9a9f2e9e3b8",
       "folderId": "folder_weekly_featured_flower",
-      "name": "新天鵝堡 10 - 城堡",
-      "lat": 47.56064,
-      "lng": 10.738789,
+      "name": "隆科教堂",
+      "lat": 45.826738,
+      "lng": 8.381558,
       "source": "OFFICIAL",
-      "officialId": "pc_aaa6c9f077524901b93cb5b5fd7ae909",
-      "updatedAt": 1788544908058
+      "officialId": "pc_744bcd2ce69f4ad4b6c6f9a9f2e9e3b8",
+      "updatedAt": 1788747361949
     },
     {
-      "id": "pc_923993ff1c5e4943aeba73beb19fb881",
+      "id": "pc_aa2ff220a8b643c090b9066d0cec949a",
       "folderId": "folder_weekly_featured_flower",
-      "name": "霍格華茲城堡",
-      "lat": 28.472262,
-      "lng": -81.473574,
+      "name": "長部田海床路",
+      "lat": 32.704029,
+      "lng": 130.581201,
       "source": "OFFICIAL",
-      "officialId": "pc_923993ff1c5e4943aeba73beb19fb881",
-      "updatedAt": 1788544908058
+      "officialId": "pc_aa2ff220a8b643c090b9066d0cec949a",
+      "updatedAt": 1788747361949
     },
     {
-      "id": "pc_73b0f575b6fe447ea5f7e07032babf1e",
+      "id": "pc_a3441e288f754845aa19526315f541a3",
       "folderId": "folder_weekly_featured_flower",
-      "name": "洲本城跡",
-      "lat": 34.337551,
-      "lng": 134.902946,
+      "name": "卡里霍倫海灘觀景台",
+      "lat": 60.393523,
+      "lng": 5.280129,
       "source": "OFFICIAL",
-      "officialId": "pc_73b0f575b6fe447ea5f7e07032babf1e",
-      "updatedAt": 1788544908058
+      "officialId": "pc_a3441e288f754845aa19526315f541a3",
+      "updatedAt": 1788747361949
     },
     {
-      "id": "pc_22c83850b57e444c96248583f3105ea3",
+      "id": "pc_30a800c4b0294758bf7e1343f64ce1f0",
       "folderId": "folder_weekly_featured_flower",
-      "name": "熊本城 天守閣",
-      "lat": 32.806215,
-      "lng": 130.705864,
+      "name": "月神公園摩天輪",
+      "lat": -33.848585,
+      "lng": 151.210205,
       "source": "OFFICIAL",
-      "officialId": "pc_22c83850b57e444c96248583f3105ea3",
-      "updatedAt": 1788544908058
+      "officialId": "pc_30a800c4b0294758bf7e1343f64ce1f0",
+      "updatedAt": 1788747361949
     },
     {
-      "id": "pc_c237715049794cdeb47a026004ebf8c6",
+      "id": "pc_d42e02dede1b40a8afafd5d6718131dd",
       "folderId": "folder_weekly_featured_flower",
-      "name": "大阪城",
-      "lat": 34.687377,
-      "lng": 135.525828,
+      "name": "幸福之鐘",
+      "lat": 34.512774,
+      "lng": 134.869284,
       "source": "OFFICIAL",
-      "officialId": "pc_c237715049794cdeb47a026004ebf8c6",
-      "updatedAt": 1788544908058
+      "officialId": "pc_d42e02dede1b40a8afafd5d6718131dd",
+      "updatedAt": 1788747361949
     },
     {
-      "id": "pc_49b71c291d5e4aec9580c85217eea311",
+      "id": "pc_d5719635b3c543679b5612f2da1ba01f",
       "folderId": "folder_weekly_featured_flower",
-      "name": "金沢城公園 菱櫓",
-      "lat": 36.566089,
-      "lng": 136.659626,
+      "name": "角島大橋展望台",
+      "lat": 34.347631,
+      "lng": 130.894788,
       "source": "OFFICIAL",
-      "officialId": "pc_49b71c291d5e4aec9580c85217eea311",
-      "updatedAt": 1788544908058
+      "officialId": "pc_d5719635b3c543679b5612f2da1ba01f",
+      "updatedAt": 1788747361949
     },
     {
-      "id": "pc_d5bb1bfd2fda48cfa8ba0873963879df",
+      "id": "pc_39f69b897791417eb2fa36eed5bb92b6",
       "folderId": "folder_weekly_featured_flower",
-      "name": "櫻花日本城堡",
-      "lat": 21.030315,
-      "lng": 105.892395,
+      "name": "皇家餐廳",
+      "lat": 4.095251,
+      "lng": 73.401327,
       "source": "OFFICIAL",
-      "officialId": "pc_d5bb1bfd2fda48cfa8ba0873963879df",
-      "updatedAt": 1788544908058
+      "officialId": "pc_39f69b897791417eb2fa36eed5bb92b6",
+      "updatedAt": 1788747361949
     },
     {
-      "id": "pc_cf7569ec632c45268095ef78e39bd5ae",
+      "id": "pc_eb674f1da7534665aa60a79e96dc7f97",
       "folderId": "folder_weekly_featured_flower",
-      "name": "琥珀堡觀景點",
-      "lat": 26.983297,
-      "lng": 75.856175,
+      "name": "棕櫚樹大道",
+      "lat": 26.1528,
+      "lng": 127.65082,
       "source": "OFFICIAL",
-      "officialId": "pc_cf7569ec632c45268095ef78e39bd5ae",
-      "updatedAt": 1788544908058
+      "officialId": "pc_eb674f1da7534665aa60a79e96dc7f97",
+      "updatedAt": 1788747361949
     },
     {
-      "id": "pc_d8460c0df2494e73b45e7ef662e4b233",
+      "id": "pc_bbc7157ed58447d29daca2d9297048c3",
       "folderId": "folder_weekly_featured_flower",
-      "name": "米卡米爾的翅膀 @運河步道 秋季",
-      "lat": 37.400765,
-      "lng": 126.638283,
+      "name": "利烏特沙灘排球",
+      "lat": 61.47302,
+      "lng": 23.935022,
       "source": "OFFICIAL",
-      "officialId": "pc_d8460c0df2494e73b45e7ef662e4b233",
-      "updatedAt": 1788544908058
+      "officialId": "pc_bbc7157ed58447d29daca2d9297048c3",
+      "updatedAt": 1788747361949
     },
     {
-      "id": "pc_e4ccd6cd81a249679ded1d26598f09bb",
+      "id": "pc_06b29cbe0dd64f67904374e2657059ba",
       "folderId": "folder_weekly_featured_flower",
-      "name": "美女與野獸雕像",
-      "lat": 35.630551,
-      "lng": 139.877739,
+      "name": "埃拉奧伊海灘涼亭",
+      "lat": 7.437304,
+      "lng": 151.874739,
       "source": "OFFICIAL",
-      "officialId": "pc_e4ccd6cd81a249679ded1d26598f09bb",
-      "updatedAt": 1788544908058
+      "officialId": "pc_06b29cbe0dd64f67904374e2657059ba",
+      "updatedAt": 1788747361949
     }
   ]
 }
