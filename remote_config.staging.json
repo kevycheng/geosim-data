@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-09",
-  "firmwareVersion": "fw-20260809-1",
+  "updatedAt": "2026-09-09",
+  "firmwareVersion": "fw-20260909-1",
   "bookmarksEnabled": true,
   "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.staging.json",
   "vipUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/vip.json",
@@ -16,7 +16,7 @@
   "donateEnabled": true,
   "minSupportedVersionCode": 14,
   "messageTitle": "GeoSim 更新訊息",
-  "message": "v1.0.0(21)：準正式版。實作Billing項目 , 請到 Play 商店更新到最新版;已更新的感謝支持!",
+  "message": "v1.0.0(21)：testing in app update!",
   "freeTier": {
     "enabled": true,
     "adRewardMinutes": 240,
@@ -33,5 +33,7 @@
     "codeHash": "2d1f4ce9fad8d1e60a6ab7466fa6ea31462ac8a037b706ece0e0b89ca108b777",
     "redeemable": true,
     "adsDisabled": true
-  }
+  },
+  "inAppUpdateEnabled": true,
+  "inAppUpdateStalenessDays": 0
 }
