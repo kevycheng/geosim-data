@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1788747361949,
+  "updatedAt": 1788935823391,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -24,13 +24,6 @@
     {
       "id": "folder_nintendo_tw",
       "name": "[金盆] 任天堂官方店",
-      "source": "OFFICIAL",
-      "updatedAt": 1787124546516,
-      "parentId": "folder_gold_pots"
-    },
-    {
-      "id": "folder_seattle_gold",
-      "name": "[金盆] 西雅圖",
       "source": "OFFICIAL",
       "updatedAt": 1787124546516,
       "parentId": "folder_gold_pots"
@@ -290,96 +283,6 @@
       "source": "OFFICIAL",
       "officialId": "nintendo_tw_08",
       "updatedAt": 1781149938368
-    },
-    {
-      "id": "seattle_gold_01",
-      "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_01",
-      "lat": 47.60815,
-      "lng": -122.34286,
-      "source": "OFFICIAL",
-      "officialId": "seattle_gold_01",
-      "updatedAt": 1780975030801
-    },
-    {
-      "id": "seattle_gold_02",
-      "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_02",
-      "lat": 47.607412,
-      "lng": -122.342139,
-      "source": "OFFICIAL",
-      "officialId": "seattle_gold_02",
-      "updatedAt": 1780975030802
-    },
-    {
-      "id": "seattle_gold_03",
-      "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_03",
-      "lat": 47.606547,
-      "lng": -122.340875,
-      "source": "OFFICIAL",
-      "officialId": "seattle_gold_03",
-      "updatedAt": 1780975030803
-    },
-    {
-      "id": "seattle_gold_04",
-      "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_04",
-      "lat": 47.60624,
-      "lng": -122.34233,
-      "source": "OFFICIAL",
-      "officialId": "seattle_gold_04",
-      "updatedAt": 1780975030804
-    },
-    {
-      "id": "seattle_gold_05",
-      "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_05",
-      "lat": 47.60615,
-      "lng": -122.3409,
-      "source": "OFFICIAL",
-      "officialId": "seattle_gold_05",
-      "updatedAt": 1780975030805
-    },
-    {
-      "id": "seattle_gold_06",
-      "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_06",
-      "lat": 47.60395,
-      "lng": -122.33764,
-      "source": "OFFICIAL",
-      "officialId": "seattle_gold_06",
-      "updatedAt": 1780975030806
-    },
-    {
-      "id": "seattle_gold_07",
-      "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_07",
-      "lat": 47.60395,
-      "lng": -122.33888,
-      "source": "OFFICIAL",
-      "officialId": "seattle_gold_07",
-      "updatedAt": 1780975030807
-    },
-    {
-      "id": "seattle_gold_08",
-      "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_08",
-      "lat": 47.60347,
-      "lng": -122.33618,
-      "source": "OFFICIAL",
-      "officialId": "seattle_gold_08",
-      "updatedAt": 1780975030808
-    },
-    {
-      "id": "seattle_gold_09",
-      "folderId": "folder_seattle_gold",
-      "name": "西雅圖金盆_09",
-      "lat": 47.60091,
-      "lng": -122.33619,
-      "source": "OFFICIAL",
-      "officialId": "seattle_gold_09",
-      "updatedAt": 1780975030809
     },
     {
       "id": "point_20260726203301",
@@ -1543,8 +1446,8 @@
       "folderId": "folder_seattle_mini_walk",
       "name": "Seattle Convention Center / PAX West",
       "location": "705 Pike St",
-      "lat": 47.61171612,
-      "lng": -122.3316535,
+      "lat": 47.6119,
+      "lng": -122.3328,
       "source": "OFFICIAL",
       "officialId": "point_2026090211225608",
       "updatedAt": 1788319376881
