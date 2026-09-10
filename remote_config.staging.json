@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09",
-  "firmwareVersion": "fw-20260909-1",
+  "updatedAt": "2026-09-10",
+  "firmwareVersion": "fw-20260910-1",
   "bookmarksEnabled": true,
   "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.staging.json",
   "vipUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/vip.json",
@@ -17,7 +17,7 @@
   "proAdUnlockEnabled": true,
   "minSupportedVersionCode": 14,
   "messageTitle": "GeoSim 更新訊息",
-  "message": "v1.0.0(21)：testing in app update!",
+  "message": "v1.0.0(21)：線上設定 遠端設定已更新",
   "freeTier": {
     "enabled": true,
     "adRewardMinutes": 240,
