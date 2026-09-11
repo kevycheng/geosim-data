@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1788936347780,
+  "updatedAt": 1789149647765,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -184,23 +184,23 @@
     },
     {
       "id": "folder_weekly_featured",
-      "name": "0.[每周精選] 主題:海灘/海洋",
+      "name": "0.[每周精選] 主題:教堂",
       "source": "OFFICIAL",
-      "updatedAt": 1788747361949
+      "updatedAt": 1789149647765
     },
     {
       "id": "folder_weekly_featured_mushroom",
-      "name": "[菇] 主題: 海灘/海洋",
+      "name": "[菇] 主題: 教堂",
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
-      "updatedAt": 1788747361949
+      "updatedAt": 1789149647765
     },
     {
       "id": "folder_weekly_featured_flower",
-      "name": "[花] 主題: 海灘/海洋",
+      "name": "[花] 主題: 教堂",
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
-      "updatedAt": 1788747361949
+      "updatedAt": 1789149647765
     }
   ],
   "bookmarks": [
@@ -1523,206 +1523,6 @@
       "updatedAt": 1788319979657
     },
     {
-      "id": "pc_503505bf892a424fb1688af6ad9c6bfa",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "二見浦夫婦岩鳥居",
-      "lat": 33.639499,
-      "lng": 130.197043,
-      "source": "OFFICIAL",
-      "officialId": "pc_503505bf892a424fb1688af6ad9c6bfa",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_a773d28f95b945569c444c714c810d3f",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "遠古洞穴",
-      "lat": 11.352339,
-      "lng": 162.343078,
-      "source": "OFFICIAL",
-      "officialId": "pc_a773d28f95b945569c444c714c810d3f",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_d70b46bd289e4824b0c1975a65f97f5a",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "海洋展望所",
-      "lat": 31.582123,
-      "lng": 130.56455,
-      "source": "OFFICIAL",
-      "officialId": "pc_d70b46bd289e4824b0c1975a65f97f5a",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_32f1d8dc5fb1442da25dd668d1699611",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "嚴島神社大鳥居",
-      "lat": 34.297269,
-      "lng": 132.31814,
-      "source": "OFFICIAL",
-      "officialId": "pc_32f1d8dc5fb1442da25dd668d1699611",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "cmm7yuhif00kfok01bfsifkez",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "蘇甘達灣漁屋",
-      "lat": 66.12395,
-      "lng": -23.567529,
-      "source": "OFFICIAL",
-      "officialId": "cmm7yuhif00kfok01bfsifkez",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_45e9533f7f6a4cd6839fd377211811b8",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "竹島東御神燈(蒲郡市竹島町)",
-      "lat": 34.811263,
-      "lng": 137.232361,
-      "source": "OFFICIAL",
-      "officialId": "pc_45e9533f7f6a4cd6839fd377211811b8",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_6c92132b7dc5443da543c42baac4be70",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "竜宮城（日和山海岸）",
-      "lat": 35.659406,
-      "lng": 134.831044,
-      "source": "OFFICIAL",
-      "officialId": "pc_6c92132b7dc5443da543c42baac4be70",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_51b20e07333144e5a35259b9769b63f3",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "白石龍神社",
-      "lat": 33.906701,
-      "lng": 132.709548,
-      "source": "OFFICIAL",
-      "officialId": "pc_51b20e07333144e5a35259b9769b63f3",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_9b110edbe2f14d339921c6b60981a7e1",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "卡洛福特燈塔",
-      "lat": 39.147453,
-      "lng": 8.22363,
-      "source": "OFFICIAL",
-      "officialId": "pc_9b110edbe2f14d339921c6b60981a7e1",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_e99f70cdc9174b66a9cfdf83cac88c7a",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "弁天島 赤鳥居",
-      "lat": 34.686744,
-      "lng": 137.600978,
-      "source": "OFFICIAL",
-      "officialId": "pc_e99f70cdc9174b66a9cfdf83cac88c7a",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_744bcd2ce69f4ad4b6c6f9a9f2e9e3b8",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "隆科教堂",
-      "lat": 45.826738,
-      "lng": 8.381558,
-      "source": "OFFICIAL",
-      "officialId": "pc_744bcd2ce69f4ad4b6c6f9a9f2e9e3b8",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_aa2ff220a8b643c090b9066d0cec949a",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "長部田海床路",
-      "lat": 32.704029,
-      "lng": 130.581201,
-      "source": "OFFICIAL",
-      "officialId": "pc_aa2ff220a8b643c090b9066d0cec949a",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_a3441e288f754845aa19526315f541a3",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "卡里霍倫海灘觀景台",
-      "lat": 60.393523,
-      "lng": 5.280129,
-      "source": "OFFICIAL",
-      "officialId": "pc_a3441e288f754845aa19526315f541a3",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_30a800c4b0294758bf7e1343f64ce1f0",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "月神公園摩天輪",
-      "lat": -33.848585,
-      "lng": 151.210205,
-      "source": "OFFICIAL",
-      "officialId": "pc_30a800c4b0294758bf7e1343f64ce1f0",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_d42e02dede1b40a8afafd5d6718131dd",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "幸福之鐘",
-      "lat": 34.512774,
-      "lng": 134.869284,
-      "source": "OFFICIAL",
-      "officialId": "pc_d42e02dede1b40a8afafd5d6718131dd",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_d5719635b3c543679b5612f2da1ba01f",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "角島大橋展望台",
-      "lat": 34.347631,
-      "lng": 130.894788,
-      "source": "OFFICIAL",
-      "officialId": "pc_d5719635b3c543679b5612f2da1ba01f",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_39f69b897791417eb2fa36eed5bb92b6",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "皇家餐廳",
-      "lat": 4.095251,
-      "lng": 73.401327,
-      "source": "OFFICIAL",
-      "officialId": "pc_39f69b897791417eb2fa36eed5bb92b6",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_eb674f1da7534665aa60a79e96dc7f97",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "棕櫚樹大道",
-      "lat": 26.1528,
-      "lng": 127.65082,
-      "source": "OFFICIAL",
-      "officialId": "pc_eb674f1da7534665aa60a79e96dc7f97",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_bbc7157ed58447d29daca2d9297048c3",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "利烏特沙灘排球",
-      "lat": 61.47302,
-      "lng": 23.935022,
-      "source": "OFFICIAL",
-      "officialId": "pc_bbc7157ed58447d29daca2d9297048c3",
-      "updatedAt": 1788747361949
-    },
-    {
-      "id": "pc_06b29cbe0dd64f67904374e2657059ba",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "埃拉奧伊海灘涼亭",
-      "lat": 7.437304,
-      "lng": 151.874739,
-      "source": "OFFICIAL",
-      "officialId": "pc_06b29cbe0dd64f67904374e2657059ba",
-      "updatedAt": 1788747361949
-    },
-    {
       "id": "point_2026090914454701",
       "folderId": "folder_pure_library",
       "name": "圖書館_麻園圖書館",
@@ -1761,6 +1561,206 @@
       "source": "OFFICIAL",
       "officialId": "point_2026090914454704",
       "updatedAt": 1788936347780
+    },
+    {
+      "id": "pc_63172e67e8634a8ca1177d02abf72fb4",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "穆索聖歐菲米亞小教堂",
+      "lat": 46.118806,
+      "lng": 9.278723,
+      "source": "OFFICIAL",
+      "officialId": "pc_63172e67e8634a8ca1177d02abf72fb4",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_ef79dc6d548e4087b7e26bc2358400a1",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "佩爾泰利教堂",
+      "lat": 60.446965,
+      "lng": 23.250156,
+      "source": "OFFICIAL",
+      "officialId": "pc_ef79dc6d548e4087b7e26bc2358400a1",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_6e4d0cf10e044816a8dd6b3d17367760",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "珊瑚教會",
+      "lat": 26.687977,
+      "lng": 128.003153,
+      "source": "OFFICIAL",
+      "officialId": "pc_6e4d0cf10e044816a8dd6b3d17367760",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_2296e522382b4bcdadeff48957a42325",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "孔斯莫小教堂",
+      "lat": 64.8848,
+      "lng": 12.437688,
+      "source": "OFFICIAL",
+      "officialId": "pc_2296e522382b4bcdadeff48957a42325",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_404d6f40e5fd4913a9a3519ad7580519",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "布里奇沃特遺產教堂",
+      "lat": -42.737073,
+      "lng": 147.227838,
+      "source": "OFFICIAL",
+      "officialId": "pc_404d6f40e5fd4913a9a3519ad7580519",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_bbe9a5179eb04ed295ebfe94046f9fc6",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "環形教堂",
+      "lat": 50.07738,
+      "lng": 8.229207,
+      "source": "OFFICIAL",
+      "officialId": "pc_bbe9a5179eb04ed295ebfe94046f9fc6",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_bb99e0760af8471ca4149caec29cb6ae",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "聖露西亞教堂",
+      "lat": 50.112556,
+      "lng": 6.20101,
+      "source": "OFFICIAL",
+      "officialId": "pc_bb99e0760af8471ca4149caec29cb6ae",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_4318f4d687aa4ade9fabc2937c0e5d16",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "維庫爾教堂",
+      "lat": 63.420602,
+      "lng": -19.003228,
+      "source": "OFFICIAL",
+      "officialId": "pc_4318f4d687aa4ade9fabc2937c0e5d16",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_feec49216c564ed2a79018d019813d2d",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "被遺忘的小教堂",
+      "lat": 49.978179,
+      "lng": 17.389871,
+      "source": "OFFICIAL",
+      "officialId": "pc_feec49216c564ed2a79018d019813d2d",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_6829de5583374bd19ef58157db82301d",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "聖托馬斯教堂",
+      "lat": 50.967589,
+      "lng": 11.027465,
+      "source": "OFFICIAL",
+      "officialId": "pc_6829de5583374bd19ef58157db82301d",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_052e56d1d93c4a709ea658e48607e36a",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "聖科洛曼教堂",
+      "lat": 47.57872,
+      "lng": 10.74939,
+      "source": "OFFICIAL",
+      "officialId": "pc_052e56d1d93c4a709ea658e48607e36a",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_744bcd2ce69f4ad4b6c6f9a9f2e9e3b8",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "龍科教堂",
+      "lat": 45.826738,
+      "lng": 8.381558,
+      "source": "OFFICIAL",
+      "officialId": "pc_744bcd2ce69f4ad4b6c6f9a9f2e9e3b8",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_463b9cc0de53408898dfad3f840d5e68",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "ART GRACE婚禮廣場大聖堂",
+      "lat": 35.164057,
+      "lng": 136.884232,
+      "source": "OFFICIAL",
+      "officialId": "pc_463b9cc0de53408898dfad3f840d5e68",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_3a16cc07ebb646c0b8c199da1a21fa16",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "好牧羊人教堂",
+      "lat": -44.003393,
+      "lng": 170.482453,
+      "source": "OFFICIAL",
+      "officialId": "pc_3a16cc07ebb646c0b8c199da1a21fa16",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_9b25370cdb2c4d73b30ed7c74beb5612",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "羅馬天主教堂",
+      "lat": 45.118242,
+      "lng": 21.301372,
+      "source": "OFFICIAL",
+      "officialId": "pc_9b25370cdb2c4d73b30ed7c74beb5612",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_5173827236bf4a4fae202ebb060767ce",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "粉紅教堂",
+      "lat": 37.75022,
+      "lng": 23.530174,
+      "source": "OFFICIAL",
+      "officialId": "pc_5173827236bf4a4fae202ebb060767ce",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_5cd000440b6a4512afa646168f916fae",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "錫斯托橋",
+      "lat": 41.892284,
+      "lng": 12.470704,
+      "source": "OFFICIAL",
+      "officialId": "pc_5cd000440b6a4512afa646168f916fae",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_60bae809af3240e88f31519ff6979a03",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "橫手天主教會",
+      "lat": 39.3118266,
+      "lng": 140.5640924,
+      "source": "OFFICIAL",
+      "officialId": "pc_60bae809af3240e88f31519ff6979a03",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_105743d5b1d24195a79e024435b1e322",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "噴泉階梯池",
+      "lat": -37.80988,
+      "lng": 144.977421,
+      "source": "OFFICIAL",
+      "officialId": "pc_105743d5b1d24195a79e024435b1e322",
+      "updatedAt": 1789149647765
+    },
+    {
+      "id": "pc_8505fcfa48854637bcc6a853113020ab",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "努克拱門",
+      "lat": 64.170499,
+      "lng": -51.742177,
+      "source": "OFFICIAL",
+      "officialId": "pc_8505fcfa48854637bcc6a853113020ab",
+      "updatedAt": 1789149647765
     }
   ]
 }
