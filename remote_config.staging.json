@@ -32,7 +32,7 @@
   },
   "promo": {
     "codeHash": "2d1f4ce9fad8d1e60a6ab7466fa6ea31462ac8a037b706ece0e0b89ca108b777",
-    "redeemable": true,
+    "redeemable": false,
     "adsDisabled": true
   },
   "inAppUpdateEnabled": true,
