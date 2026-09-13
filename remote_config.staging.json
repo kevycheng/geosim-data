@@ -10,6 +10,7 @@
   "nominatimEnabled": true,
   "joystickEnabled": true,
   "healthConnectEnabled": true,
+  "healthStepAdvancedEnabled": true,
   "advancedFeaturesEnabled": true,
   "proPromote": false,
   "proPurchaseEnabled": true, 
