@@ -14,6 +14,8 @@
   "proPromote": true,
   "proPurchaseEnabled": false,
   "donateEnabled": true,
+  "inAppUpdateEnabled": true,
+  "inAppUpdateStalenessDays": 1,
   "minSupportedVersionCode": 20,
   "messageTitle": "GeoSim ",
   "message": "每周精選上線了 ! 請至商店更新，以完整支援多層書簽資料夾。感謝使用 GeoSim 🙏",
