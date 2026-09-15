@@ -11,7 +11,7 @@
   "joystickEnabled": true,
   "healthConnectEnabled": true,
   "healthStepAdvancedEnabled": true,
-  "healthStepMaxPerMinute": 180,
+  "healthStepMaxPerMinute": 120,
   "healthDailyStepCap": 48000,
   "advancedFeaturesEnabled": true,
   "proPromote": false,
