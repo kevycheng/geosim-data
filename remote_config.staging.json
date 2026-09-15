@@ -15,7 +15,7 @@
   "healthDailyStepCap": 48000,
   "advancedFeaturesEnabled": true,
   "proPromote": true,
-  "promoNoticeVersion": "test-1",
+  "promoNoticeVersion": "test-2",
   "proPurchaseEnabled": true, 
   "donateEnabled": true,
   "proAdUnlockEnabled": true,
