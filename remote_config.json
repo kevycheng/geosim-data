@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21",
-  "firmwareVersion": "fw-20260821-1",
+  "updatedAt": "2026-09-20",
+  "firmwareVersion": "fw-20260920-1",
   "bookmarksEnabled": true,
   "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.json",
   "vipUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/vip.json",
@@ -13,14 +13,15 @@
   "healthStepMaxPerMinute": 120,
   "healthDailyStepCap": 25000,
   "advancedFeaturesEnabled": true,
-  "proPromote": true,
-  "proPurchaseEnabled": false,
+  "proPromote": false,
+  "proPurchaseEnabled": true,
+  "proAdUnlockEnabled": true,
   "donateEnabled": true,
   "inAppUpdateEnabled": true,
   "inAppUpdateStalenessDays": 1,
   "minSupportedVersionCode": 20,
-  "messageTitle": "GeoSim ",
-  "message": "每周精選上線了 ! 請至商店更新，以完整支援多層書簽資料夾。感謝使用 GeoSim 🙏",
+  "messageTitle": "進階功能調整",
+  "message": "免費開放期結束。最新版本新增：步數模擬。 與懸浮搖桿、花式停留與進階圖案同為 Pro 功能；可看廣告解鎖全部 Pro 功能 12 小時，或訂閱 Pro 免廣告、不限時間。歡迎大家前往更新，感謝這段期間的支持 🙏",
   "freeTier": {
     "enabled": true,
     "adRewardMinutes": 240,
@@ -34,8 +35,8 @@
     }
   },
   "promo": {
-    "codeHash": "befade5efff73cea49213557eb7b05beab29a2fd26c8a955fd259fb6a5bf136a",
+    "codeHash": "",
     "redeemable": false,
-    "adsDisabled": true
+    "adsDisabled": false
   }
 }
