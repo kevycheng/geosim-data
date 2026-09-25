@@ -22,7 +22,7 @@
   "adRewardedUnitId": "ca-app-pub-6208515360908866/4775253838",
   "adRewardedUnitIdHigh": "",
   "inAppUpdateEnabled": true,
-  "inAppUpdateStalenessDays": 1,
+  "inAppUpdateStalenessDays": 0,
   "minSupportedVersionCode": 20,
   "messageTitle": "進階功能調整",
   "message": "免費開放期結束。最新版本新增：步數模擬。 與懸浮搖桿、花式停留與進階圖案同為 Pro 功能；可看廣告解鎖全部 Pro 功能 12 小時，或訂閱 Pro 免廣告、不限時間。歡迎大家前往更新，感謝這段期間的支持 🙏",
