@@ -17,6 +17,8 @@
   "proPromote": false,
   "proPurchaseEnabled": true, 
   "donateEnabled": true,
+  "adPreloadEnabled": false,
+  "adHighTierEnabled": false,
   "proAdUnlockEnabled": true,
   "minSupportedVersionCode": 14,
   "messageTitle": "GeoSim 更新訊息",

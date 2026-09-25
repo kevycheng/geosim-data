@@ -18,6 +18,7 @@
   "proAdUnlockEnabled": true,
   "donateEnabled": true,
   "adPreloadEnabled": false,
+  "adHighTierEnabled": false,
   "inAppUpdateEnabled": true,
   "inAppUpdateStalenessDays": 1,
   "minSupportedVersionCode": 20,
