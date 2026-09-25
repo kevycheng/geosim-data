@@ -19,6 +19,8 @@
   "donateEnabled": true,
   "adPreloadEnabled": false,
   "adHighTierEnabled": false,
+  "adRewardedUnitId": "ca-app-pub-6208515360908866/4775253838",
+  "adRewardedUnitIdHigh": "",
   "inAppUpdateEnabled": true,
   "inAppUpdateStalenessDays": 1,
   "minSupportedVersionCode": 20,

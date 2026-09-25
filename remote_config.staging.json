@@ -19,6 +19,8 @@
   "donateEnabled": true,
   "adPreloadEnabled": false,
   "adHighTierEnabled": false,
+  "adRewardedUnitId": "",
+  "adRewardedUnitIdHigh": "",
   "proAdUnlockEnabled": true,
   "minSupportedVersionCode": 14,
   "messageTitle": "GeoSim 更新訊息",
