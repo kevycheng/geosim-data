@@ -7,7 +7,7 @@
   "vipUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/vip.json",
   "routesEnabled": true,
   "routesUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_routes.json",
-  "weeklyFeaturedEnabled": false,
+  "weeklyFeaturedEnabled": true,
   "weeklyFeaturedUrl": "https://kairosvector.pages.dev/geosim/weekly-featured/latest?embed=true",
   "weeklyFeaturedBackupUrl": "https://kairosvector.github.io/geosim/weekly-featured/latest?embed=true",
   "weeklyFeaturedMetaUrl": "https://kairosvector.pages.dev/geosim/weekly-featured/meta.json",
