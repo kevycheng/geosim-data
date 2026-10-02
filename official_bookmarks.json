@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1789754467498,
+  "updatedAt": 1790928396079,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -187,6 +187,13 @@
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
       "updatedAt": 1789754467498
+    },
+    {
+      "id": "folder_nashville_2026",
+      "name": "納許維爾2026",
+      "parentId": "folder_gold_pots",
+      "source": "OFFICIAL",
+      "updatedAt": 1790928396079
     }
   ],
   "bookmarks": [
@@ -1649,6 +1656,76 @@
       "source": "OFFICIAL",
       "officialId": "pc_b19eef79b8c94ed786ca94bd85f0117a",
       "updatedAt": 1789754467498
+    },
+    {
+      "id": "point_2026100216054301",
+      "folderId": "folder_nashville_2026",
+      "name": "地點1",
+      "lat": 36.159024,
+      "lng": -86.776504,
+      "source": "OFFICIAL",
+      "officialId": "point_2026100216054301",
+      "updatedAt": 1790928396079
+    },
+    {
+      "id": "point_2026100216054302",
+      "folderId": "folder_nashville_2026",
+      "name": "地點2",
+      "lat": 36.16013,
+      "lng": -86.775742,
+      "source": "OFFICIAL",
+      "officialId": "point_2026100216054302",
+      "updatedAt": 1790928396079
+    },
+    {
+      "id": "point_2026100216054303",
+      "folderId": "folder_nashville_2026",
+      "name": "地點3",
+      "lat": 36.160984,
+      "lng": -86.775365,
+      "source": "OFFICIAL",
+      "officialId": "point_2026100216054303",
+      "updatedAt": 1790928396079
+    },
+    {
+      "id": "point_2026100216054304",
+      "folderId": "folder_nashville_2026",
+      "name": "地點4",
+      "lat": 36.162446,
+      "lng": -86.774053,
+      "source": "OFFICIAL",
+      "officialId": "point_2026100216054304",
+      "updatedAt": 1790928396079
+    },
+    {
+      "id": "point_2026100216054305",
+      "folderId": "folder_nashville_2026",
+      "name": "地點5",
+      "lat": 36.162744,
+      "lng": -86.775954,
+      "source": "OFFICIAL",
+      "officialId": "point_2026100216054305",
+      "updatedAt": 1790928396079
+    },
+    {
+      "id": "point_2026100216054306",
+      "folderId": "folder_nashville_2026",
+      "name": "地點6",
+      "lat": 36.161585,
+      "lng": -86.777866,
+      "source": "OFFICIAL",
+      "officialId": "point_2026100216054306",
+      "updatedAt": 1790928396079
+    },
+    {
+      "id": "point_2026100216054307",
+      "folderId": "folder_nashville_2026",
+      "name": "地點7",
+      "lat": 36.160785,
+      "lng": -86.779836,
+      "source": "OFFICIAL",
+      "officialId": "point_2026100216054307",
+      "updatedAt": 1790928396079
     }
   ]
 }
