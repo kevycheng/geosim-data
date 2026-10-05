@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-05",
-  "firmwareVersion": "fw-20261005-1",
+  "firmwareVersion": "fw-20261005-2",
   "bookmarksEnabled": true,
   "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.staging.json",
   "vipUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/vip.json",
@@ -29,7 +29,7 @@
   "proAdUnlockEnabled": true,
   "minSupportedVersionCode": 14,
   "messageTitle": "全新功能上線 ✨",
-  "message": "首頁新增「每週精選專欄」！每週定期為你推薦精選探索地點與特色路線，一鍵即可快速套用或加入書籤，歡迎前往體驗探索！",
+  "message": "首頁新增「每週精選專欄」！每週定期為你推薦精選探索地點與特色路線，一鍵即可快速套用或加入書籤，請確認更新至最新版本並前往體驗探索！",
   "freeTier": {
     "enabled": true,
     "adRewardMinutes": 240,
