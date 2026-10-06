@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1790964085053,
+  "updatedAt": 1791295017702,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -194,6 +194,13 @@
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
       "updatedAt": 1790964085053
+    },
+    {
+      "id": "folder_oceanexpo_2026",
+      "name": "海洋博公園活動2026",
+      "parentId": "folder_gold_pots",
+      "source": "OFFICIAL",
+      "updatedAt": 1791295006610
     }
   ],
   "bookmarks": [
@@ -1726,6 +1733,76 @@
       "source": "OFFICIAL",
       "officialId": "pc_110b9ca5ca68416091219d30e6eb821b",
       "updatedAt": 1790964085053
+    },
+    {
+      "id": "point_2026100621564601",
+      "folderId": "folder_oceanexpo_2026",
+      "name": "沖繩美麗海水族館（明信片）",
+      "lat": 26.693512,
+      "lng": 127.87785,
+      "source": "OFFICIAL",
+      "officialId": "point_2026100621564601",
+      "updatedAt": 1791295006610
+    },
+    {
+      "id": "point_2026100621564602",
+      "folderId": "folder_oceanexpo_2026",
+      "name": "Okichan 劇場（明信片）",
+      "lat": 26.692926,
+      "lng": 127.875831,
+      "source": "OFFICIAL",
+      "officialId": "point_2026100621564602",
+      "updatedAt": 1791295006610
+    },
+    {
+      "id": "point_2026100621564603",
+      "folderId": "folder_oceanexpo_2026",
+      "name": "沖繩鄉土村（夏季貼紙）",
+      "lat": 26.690939,
+      "lng": 127.877518,
+      "source": "OFFICIAL",
+      "officialId": "point_2026100621564603",
+      "updatedAt": 1791295006610
+    },
+    {
+      "id": "point_2026100621564604",
+      "folderId": "folder_oceanexpo_2026",
+      "name": "熱帶夢幻中心（紅色照片鈕扣）",
+      "lat": 26.687729,
+      "lng": 127.876157,
+      "source": "OFFICIAL",
+      "officialId": "point_2026100621564604",
+      "updatedAt": 1791295006610
+    },
+    {
+      "id": "point_2026100621564606",
+      "folderId": "folder_oceanexpo_2026",
+      "name": "翡翠海灘（衝浪板鑰匙圈）",
+      "lat": 26.689471,
+      "lng": 127.87859,
+      "source": "OFFICIAL",
+      "officialId": "point_2026100621564606",
+      "updatedAt": 1791295006610
+    },
+    {
+      "id": "point_2026100621564607",
+      "folderId": "folder_oceanexpo_2026",
+      "name": "夕陽廣場（明信片）",
+      "lat": 26.684883,
+      "lng": 127.875184,
+      "source": "OFFICIAL",
+      "officialId": "point_2026100621564607",
+      "updatedAt": 1791295006610
+    },
+    {
+      "id": "point_2026100621565708",
+      "folderId": "folder_oceanexpo_2026",
+      "name": "海洋文化館（珊瑚）",
+      "lat": 26.690656,
+      "lng": 127.877971,
+      "source": "OFFICIAL",
+      "officialId": "point_2026100621565708",
+      "updatedAt": 1791295017702
     }
   ]
 }
