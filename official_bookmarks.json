@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1791295024660,
+  "updatedAt": 1791502588421,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -201,6 +201,13 @@
       "parentId": "folder_gold_pots",
       "source": "OFFICIAL",
       "updatedAt": 1791295024660
+    },
+    {
+      "id": "folder_pax_aus_2026",
+      "name": "PAX Aus 2026",
+      "parentId": "folder_gold_pots",
+      "source": "OFFICIAL",
+      "updatedAt": 1791502588421
     }
   ],
   "bookmarks": [
@@ -1768,11 +1775,51 @@
       "id": "point_2026100621565708",
       "folderId": "folder_oceanexpo_2026",
       "name": "海洋文化館（珊瑚）",
-      "lat": 26.6906540,
+      "lat": 26.690654,
       "lng": 127.8779716,
       "source": "OFFICIAL",
       "officialId": "point_2026100621565708",
       "updatedAt": 1791295017702
+    },
+    {
+      "id": "point_pax_aus_2026_01",
+      "folderId": "folder_pax_aus_2026",
+      "name": "棋子",
+      "lat": -37.826408,
+      "lng": 144.952772,
+      "source": "OFFICIAL",
+      "officialId": "point_pax_aus_2026_01",
+      "updatedAt": 1791502588421
+    },
+    {
+      "id": "point_pax_aus_2026_02",
+      "folderId": "folder_pax_aus_2026",
+      "name": "爆米花",
+      "lat": -37.82472,
+      "lng": 144.95225,
+      "source": "OFFICIAL",
+      "officialId": "point_pax_aus_2026_02",
+      "updatedAt": 1791502588421
+    },
+    {
+      "id": "point_pax_aus_2026_03",
+      "folderId": "folder_pax_aus_2026",
+      "name": "超級瑪麗歐藍皮",
+      "lat": -37.825547,
+      "lng": 144.953019,
+      "source": "OFFICIAL",
+      "officialId": "point_pax_aus_2026_03",
+      "updatedAt": 1791502588421
+    },
+    {
+      "id": "point_pax_aus_2026_04",
+      "folderId": "folder_pax_aus_2026",
+      "name": "遊戲卡匣岩皮",
+      "lat": -37.825357,
+      "lng": 144.954512,
+      "source": "OFFICIAL",
+      "officialId": "point_pax_aus_2026_04",
+      "updatedAt": 1791502588421
     }
   ]
 }
