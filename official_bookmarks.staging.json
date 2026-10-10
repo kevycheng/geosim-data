@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1791502588421,
+  "updatedAt": 1791590546040,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -176,26 +176,6 @@
       "updatedAt": 1790928343279
     },
     {
-      "id": "folder_weekly_featured",
-      "name": "0.[每周精選] 主題:雕像/雕塑",
-      "source": "OFFICIAL",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "folder_weekly_featured_mushroom",
-      "name": "[菇] 主題: 雕像/雕塑",
-      "parentId": "folder_weekly_featured",
-      "source": "OFFICIAL",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "folder_weekly_featured_flower",
-      "name": "[花] 主題: 雕像/雕塑",
-      "parentId": "folder_weekly_featured",
-      "source": "OFFICIAL",
-      "updatedAt": 1790964085053
-    },
-    {
       "id": "folder_oceanexpo_2026",
       "name": "海洋博公園活動2026",
       "parentId": "folder_gold_pots",
@@ -208,6 +188,26 @@
       "parentId": "folder_gold_pots",
       "source": "OFFICIAL",
       "updatedAt": 1791502588421
+    },
+    {
+      "id": "folder_weekly_featured",
+      "name": "0.[每周精選] 主題:富士山",
+      "source": "OFFICIAL",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "folder_weekly_featured_mushroom",
+      "name": "[菇] 主題: 富士山",
+      "parentId": "folder_weekly_featured",
+      "source": "OFFICIAL",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "folder_weekly_featured_flower",
+      "name": "[花] 主題: 富士山",
+      "parentId": "folder_weekly_featured",
+      "source": "OFFICIAL",
+      "updatedAt": 1791590546040
     }
   ],
   "bookmarks": [
@@ -1542,206 +1542,6 @@
       "updatedAt": 1790928343279
     },
     {
-      "id": "pc_dd7bf815c4a64f5087a6e3959104a65e",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "牡鹿白鹿",
-      "lat": 38.375273,
-      "lng": 141.439801,
-      "source": "OFFICIAL",
-      "officialId": "pc_dd7bf815c4a64f5087a6e3959104a65e",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "pc_82691285f7ca4e6982d65011be0e368d",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "雄壯美洲麋鹿雕像",
-      "lat": 41.278302,
-      "lng": -111.823068,
-      "source": "OFFICIAL",
-      "officialId": "pc_82691285f7ca4e6982d65011be0e368d",
-      "updatedAt": 1791335434141
-    },
-    {
-      "id": "pc_3d9e2ce34414450b9c63de71dec55753",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "不二家佩可醬與波可醬",
-      "lat": 35.389263,
-      "lng": 139.204879,
-      "source": "OFFICIAL",
-      "officialId": "pc_3d9e2ce34414450b9c63de71dec55753",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "pc_2b81d673a5234c2fab311db3aca3dc3b",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "摩艾石像",
-      "lat": 31.662362,
-      "lng": 131.461425,
-      "source": "OFFICIAL",
-      "officialId": "pc_2b81d673a5234c2fab311db3aca3dc3b",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "pc_bb99e0760af8471ca4149caec29cb6ae",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "聖露西亞",
-      "lat": 50.112556,
-      "lng": 6.20101,
-      "source": "OFFICIAL",
-      "officialId": "pc_bb99e0760af8471ca4149caec29cb6ae",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "pc_985cc9e8aa954e8ba33a99c7de541394",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "田貫湖狸貓澎太",
-      "lat": 35.34527,
-      "lng": 138.557279,
-      "source": "OFFICIAL",
-      "officialId": "pc_985cc9e8aa954e8ba33a99c7de541394",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "pc_865359996a8340749ebdadf66d39aa1b",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "蠟筆小新與小葵兄妹雕像",
-      "lat": 35.974678,
-      "lng": 139.754842,
-      "source": "OFFICIAL",
-      "officialId": "pc_865359996a8340749ebdadf66d39aa1b",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "pc_01a934bf271e499dbc86ccd01b054aa0",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "巨大熊本熊",
-      "lat": 32.528345,
-      "lng": 130.538779,
-      "source": "OFFICIAL",
-      "officialId": "pc_01a934bf271e499dbc86ccd01b054aa0",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "pc_376b9e7fb2e247a08e14e0ca3790ca51",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "雙貓藝術雕塑",
-      "lat": 11.945642,
-      "lng": 108.407969,
-      "source": "OFFICIAL",
-      "officialId": "pc_376b9e7fb2e247a08e14e0ca3790ca51",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "pc_4f32592a6cc24e8fae30c03f1f6f9238",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "名偵探柯南青銅雕像",
-      "lat": 35.49283,
-      "lng": 133.75908,
-      "source": "OFFICIAL",
-      "officialId": "pc_4f32592a6cc24e8fae30c03f1f6f9238",
-      "updatedAt": 1791335434141
-    },
-    {
-      "id": "pc_740fe94dee7b4e8883943afb806251f6",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "東京迪士尼 美女與野獸立體雕像",
-      "lat": 35.630551,
-      "lng": 139.877739,
-      "source": "OFFICIAL",
-      "officialId": "pc_740fe94dee7b4e8883943afb806251f6",
-      "updatedAt": 1791335434141
-    },
-    {
-      "id": "pc_b90e674af57a43d186ef9dc4249f317a",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "史努比城史努比雕塑",
-      "lat": 35.172502,
-      "lng": 136.883522,
-      "source": "OFFICIAL",
-      "officialId": "pc_b90e674af57a43d186ef9dc4249f317a",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "pc_4019fc59f3b8406bbcc3594eb720b37d",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "進擊的巨人艾連・米卡莎・阿爾敏雕像",
-      "lat": 33.243485,
-      "lng": 130.957482,
-      "source": "OFFICIAL",
-      "officialId": "pc_4019fc59f3b8406bbcc3594eb720b37d",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "pc_1743fff83d984c65aae2eb73ac4fb111",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "怪盗と名探偵",
-      "lat": 35.498056,
-      "lng": 133.762188,
-      "source": "OFFICIAL",
-      "officialId": "pc_1743fff83d984c65aae2eb73ac4fb111",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "pc_fa750f8c49c84b8ab6b8d4e8d796fe7e",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "咖波狗狗等烏龜公車",
-      "lat": 24.147636,
-      "lng": 120.667549,
-      "source": "OFFICIAL",
-      "officialId": "pc_fa750f8c49c84b8ab6b8d4e8d796fe7e",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "pc_cdbf248505604601bf552a1870be65ad",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "阿羅拉六尾雕塑",
-      "lat": 43.067565,
-      "lng": 141.349271,
-      "source": "OFFICIAL",
-      "officialId": "pc_cdbf248505604601bf552a1870be65ad",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "pc_6928785547d34a10a6355a1bc3362ada",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "星之卡比",
-      "lat": 33.590103,
-      "lng": 130.410532,
-      "source": "OFFICIAL",
-      "officialId": "pc_6928785547d34a10a6355a1bc3362ada",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "pc_08ca4d4d131c468aa9d47d40ed2f32f3",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "萬代角色大道",
-      "lat": 35.707489,
-      "lng": 139.794529,
-      "source": "OFFICIAL",
-      "officialId": "pc_08ca4d4d131c468aa9d47d40ed2f32f3",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "pc_5baafc19da844c64940cfd1e6bb339a2",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "小美人魚雕像",
-      "lat": 28.353832,
-      "lng": -81.546206,
-      "source": "OFFICIAL",
-      "officialId": "pc_5baafc19da844c64940cfd1e6bb339a2",
-      "updatedAt": 1790964085053
-    },
-    {
-      "id": "pc_110b9ca5ca68416091219d30e6eb821b",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "日本環球影城 經典旋轉地球儀",
-      "lat": 34.667975,
-      "lng": 135.435341,
-      "source": "OFFICIAL",
-      "officialId": "pc_110b9ca5ca68416091219d30e6eb821b",
-      "updatedAt": 1791335434141
-    },
-    {
       "id": "point_2026100621564601",
       "folderId": "folder_oceanexpo_2026",
       "name": "沖繩美麗海水族館（明信片）",
@@ -1850,6 +1650,186 @@
       "source": "OFFICIAL",
       "officialId": "point_pax_aus_2026_04",
       "updatedAt": 1791502588421
+    },
+    {
+      "id": "pc_0e62a9a4a7324c1c8371145590b2e036",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "朝霧高原富士山展望台",
+      "lat": 35.414202,
+      "lng": 138.620962,
+      "source": "OFFICIAL",
+      "officialId": "pc_0e62a9a4a7324c1c8371145590b2e036",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_44cf414ae39041f888f0c46ee52ba4d0",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "毛無山山頂",
+      "lat": 35.415717,
+      "lng": 138.543503,
+      "source": "OFFICIAL",
+      "officialId": "pc_44cf414ae39041f888f0c46ee52ba4d0",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_2c9f0cc22e634052aa42f02ddc3de1eb",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "椅子の学び舎",
+      "lat": 35.527758,
+      "lng": 138.73145,
+      "source": "OFFICIAL",
+      "officialId": "pc_2c9f0cc22e634052aa42f02ddc3de1eb",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_3338cff6d1a04f03a8831bc7f12c7252",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "太成殿本宮 鳥居",
+      "lat": 35.526991,
+      "lng": 138.73473,
+      "source": "OFFICIAL",
+      "officialId": "pc_3338cff6d1a04f03a8831bc7f12c7252",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_cbf6c074cda44d4c9507f7b5c7b0e2c0",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "御殿場市富士見十二景 長尾峠",
+      "lat": 35.256676,
+      "lng": 138.972328,
+      "source": "OFFICIAL",
+      "officialId": "pc_cbf6c074cda44d4c9507f7b5c7b0e2c0",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_c1b49bed1ceb407887439a3e267a1651",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "周辺案内卓",
+      "lat": 35.33847,
+      "lng": 138.622056,
+      "source": "OFFICIAL",
+      "officialId": "pc_c1b49bed1ceb407887439a3e267a1651",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_b38fa793dbcb40b098a1548d96fee173",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "富士山🗻",
+      "lat": 35.687279,
+      "lng": 138.877533,
+      "source": "OFFICIAL",
+      "officialId": "pc_b38fa793dbcb40b098a1548d96fee173",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_2d63c9717ef24ff4b2b83c0e0069ec33",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "富士山景網球場",
+      "lat": 35.476865,
+      "lng": 138.687363,
+      "source": "OFFICIAL",
+      "officialId": "pc_2d63c9717ef24ff4b2b83c0e0069ec33",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_7e15d92f86974ed1b90993e30beff360",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "関東の富士見百景 富士山の見えるまちづくり",
+      "lat": 35.500646,
+      "lng": 138.557179,
+      "source": "OFFICIAL",
+      "officialId": "pc_7e15d92f86974ed1b90993e30beff360",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_bcea8925a67e4ae18a39476038d0cf50",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "富士見ヶ丘公園",
+      "lat": 35.243851,
+      "lng": 138.976298,
+      "source": "OFFICIAL",
+      "officialId": "pc_bcea8925a67e4ae18a39476038d0cf50",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_5b47bf1e17ad4704b9336deb4a1de747",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "富士芝桜",
+      "lat": 35.44244,
+      "lng": 138.602958,
+      "source": "OFFICIAL",
+      "officialId": "pc_5b47bf1e17ad4704b9336deb4a1de747",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_898f89abaaa2499aa687345493cd5990",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "富士浅間神社鳥居",
+      "lat": 35.499407,
+      "lng": 138.800116,
+      "source": "OFFICIAL",
+      "officialId": "pc_898f89abaaa2499aa687345493cd5990",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_2cd4fe4733c948ad81c36528fa2cca14",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "日本-富士山",
+      "lat": 35.220333,
+      "lng": 138.698028,
+      "source": "OFFICIAL",
+      "officialId": "pc_2cd4fe4733c948ad81c36528fa2cca14",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_87b0bd590e8f43368324c9749674da31",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "富士山夜景",
+      "lat": 35.021968,
+      "lng": 138.478161,
+      "source": "OFFICIAL",
+      "officialId": "pc_87b0bd590e8f43368324c9749674da31",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_546b4a89490c4c4e933f910bed1696a5",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "富士山本宮浅間大社奥宮",
+      "lat": 35.359756,
+      "lng": 138.731398,
+      "source": "OFFICIAL",
+      "officialId": "pc_546b4a89490c4c4e933f910bed1696a5",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_cb52fe3b4d034045924c6eab65acb316",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "東名富士川SA（上 ）富士山展望台",
+      "lat": 35.162262,
+      "lng": 138.617937,
+      "source": "OFFICIAL",
+      "officialId": "pc_cb52fe3b4d034045924c6eab65acb316",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_731350b8ae7146f5b6a1d3657afa2631",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "東屋(富士山)",
+      "lat": 35.50219768151991,
+      "lng": 138.80187805742025,
+      "source": "OFFICIAL",
+      "officialId": "pc_731350b8ae7146f5b6a1d3657afa2631",
+      "updatedAt": 1791590546040
+    },
+    {
+      "id": "pc_b0c8d304b5c84f699ca7407e2a137c68",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "船津財 区設置40周年記念事業の看板",
+      "lat": 35.450801,
+      "lng": 138.751398,
+      "source": "OFFICIAL",
+      "officialId": "pc_b0c8d304b5c84f699ca7407e2a137c68",
+      "updatedAt": 1791590546040
     }
   ]
 }

@@ -169,26 +169,6 @@
       "updatedAt": 1788319979657
     },
     {
-      "id": "folder_weekly_featured",
-      "name": "0.[每周精選] 主題:燈塔",
-      "source": "OFFICIAL",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "folder_weekly_featured_mushroom",
-      "name": "[菇] 主題: 燈塔",
-      "parentId": "folder_weekly_featured",
-      "source": "OFFICIAL",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "folder_weekly_featured_flower",
-      "name": "[花] 主題: 燈塔",
-      "parentId": "folder_weekly_featured",
-      "source": "OFFICIAL",
-      "updatedAt": 1790380437835
-    },
-    {
       "id": "folder_nashville_2026",
       "name": "納許維爾2026",
       "parentId": "folder_gold_pots",
@@ -196,11 +176,31 @@
       "updatedAt": 1790928343279
     },
     {
+      "id": "folder_weekly_featured",
+      "name": "0.[每周精選] 主題:雕像/雕塑",
+      "source": "OFFICIAL",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "folder_weekly_featured_mushroom",
+      "name": "[菇] 主題: 雕像/雕塑",
+      "parentId": "folder_weekly_featured",
+      "source": "OFFICIAL",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "folder_weekly_featured_flower",
+      "name": "[花] 主題: 雕像/雕塑",
+      "parentId": "folder_weekly_featured",
+      "source": "OFFICIAL",
+      "updatedAt": 1790964085053
+    },
+    {
       "id": "folder_oceanexpo_2026",
       "name": "海洋博公園活動2026",
       "parentId": "folder_gold_pots",
       "source": "OFFICIAL",
-      "updatedAt": 1791295024660
+      "updatedAt": 1791295006610
     },
     {
       "id": "folder_pax_aus_2026",
@@ -1472,176 +1472,6 @@
       "updatedAt": 1788936347780
     },
     {
-      "id": "pc_655d071b3f0c4b138ab2af99dad69fb6",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "海港燈塔",
-      "lat": 46.546526,
-      "lng": -87.376418,
-      "source": "OFFICIAL",
-      "officialId": "pc_655d071b3f0c4b138ab2af99dad69fb6",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "pc_581e49893d0d4d3084f05bae2afe1b9c",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "羅弗敦群島紅燈塔",
-      "lat": 68.593673,
-      "lng": 14.30817,
-      "source": "OFFICIAL",
-      "officialId": "pc_581e49893d0d4d3084f05bae2afe1b9c",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "pc_3088224f324c4f38b0e0913d2ed0adf4",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "綠島燈塔",
-      "lat": 22.676657,
-      "lng": 121.466198,
-      "source": "OFFICIAL",
-      "officialId": "pc_3088224f324c4f38b0e0913d2ed0adf4",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "pc_2ac596b2cbfa4fbaba82a4255604ed5b",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "燈塔",
-      "lat": 64.687881,
-      "lng": -14.228413,
-      "source": "OFFICIAL",
-      "officialId": "pc_2ac596b2cbfa4fbaba82a4255604ed5b",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "pc_a9aa470cd2034e43bd00de66fcfaa740",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "埃爾德雷岩燈塔",
-      "lat": 58.970903,
-      "lng": -135.220635,
-      "source": "OFFICIAL",
-      "officialId": "pc_a9aa470cd2034e43bd00de66fcfaa740",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "pc_797d4a9fda004c04ae89fb51f7f19cb9",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "哈爾馬亞燈塔",
-      "lat": 60.104994,
-      "lng": 24.975552,
-      "source": "OFFICIAL",
-      "officialId": "pc_797d4a9fda004c04ae89fb51f7f19cb9",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "pc_76f1cfa4a1384e87ad94bdf35dd3464e",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "雷西姆農燈塔",
-      "lat": 35.370349,
-      "lng": 24.477652,
-      "source": "OFFICIAL",
-      "officialId": "pc_76f1cfa4a1384e87ad94bdf35dd3464e",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "pc_73320d6006664ae092f21c066faee2de",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "垂釣俱樂部燈塔",
-      "lat": 25.310622,
-      "lng": -80.299071,
-      "source": "OFFICIAL",
-      "officialId": "pc_73320d6006664ae092f21c066faee2de",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "pc_10568114e841475c9936c8439d39b0fb",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "拿騷燈塔",
-      "lat": 25.086885,
-      "lng": -77.351458,
-      "source": "OFFICIAL",
-      "officialId": "pc_10568114e841475c9936c8439d39b0fb",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "pc_04e2767e29db47e685f8be9e61fc077a",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "貝勒河燈塔",
-      "lat": 42.3025,
-      "lng": -82.7092,
-      "source": "OFFICIAL",
-      "officialId": "pc_04e2767e29db47e685f8be9e61fc077a",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "pc_5e95f968e2614a3ab32bf409fd9121aa",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "彌陀南寮漁港紅燈塔",
-      "lat": 22.760788,
-      "lng": 120.229311,
-      "source": "OFFICIAL",
-      "officialId": "pc_5e95f968e2614a3ab32bf409fd9121aa",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "pc_0365c1d52d93453382848893f7c46c32",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "南角咀燈塔",
-      "lat": 22.15818249771155,
-      "lng": 114.25766767260085,
-      "source": "OFFICIAL",
-      "officialId": "pc_0365c1d52d93453382848893f7c46c32",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "pc_a9d34c8e26364dd785ed87e2681ffac5",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "鯉魚門燈塔",
-      "lat": 22.288049807267875,
-      "lng": 114.23655522874208,
-      "source": "OFFICIAL",
-      "officialId": "pc_a9d34c8e26364dd785ed87e2681ffac5",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "pc_0aac04458e6f4da6b0786ec920299284",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "萬里漁港紅色燈塔",
-      "lat": 25.181467,
-      "lng": 121.696202,
-      "source": "OFFICIAL",
-      "officialId": "pc_0aac04458e6f4da6b0786ec920299284",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "pc_7d788ad9f6fb498b9afc91e785b03038",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "德陽艦園區燈塔",
-      "lat": 22.989134,
-      "lng": 120.156031,
-      "source": "OFFICIAL",
-      "officialId": "pc_7d788ad9f6fb498b9afc91e785b03038",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "pc_3015d26fa8c840bdb0d3cfabc41f95f7",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "燈塔#185",
-      "lat": 22.374068,
-      "lng": 113.977404,
-      "source": "OFFICIAL",
-      "officialId": "pc_3015d26fa8c840bdb0d3cfabc41f95f7",
-      "updatedAt": 1790380437835
-    },
-    {
-      "id": "pc_fd7a160d4cd44eda82b4af0fdf487181",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "港口燈塔",
-      "lat": 46.450939,
-      "lng": 6.855125,
-      "source": "OFFICIAL",
-      "officialId": "pc_fd7a160d4cd44eda82b4af0fdf487181",
-      "updatedAt": 1790380437835
-    },
-    {
       "id": "point_2026100216054301",
       "folderId": "folder_nashville_2026",
       "name": "地點1",
@@ -1710,6 +1540,206 @@
       "source": "OFFICIAL",
       "officialId": "point_2026100216054307",
       "updatedAt": 1790928343279
+    },
+    {
+      "id": "pc_dd7bf815c4a64f5087a6e3959104a65e",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "牡鹿白鹿",
+      "lat": 38.375273,
+      "lng": 141.439801,
+      "source": "OFFICIAL",
+      "officialId": "pc_dd7bf815c4a64f5087a6e3959104a65e",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "pc_82691285f7ca4e6982d65011be0e368d",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "雄壯美洲麋鹿雕像",
+      "lat": 41.278302,
+      "lng": -111.823068,
+      "source": "OFFICIAL",
+      "officialId": "pc_82691285f7ca4e6982d65011be0e368d",
+      "updatedAt": 1791335434141
+    },
+    {
+      "id": "pc_3d9e2ce34414450b9c63de71dec55753",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "不二家佩可醬與波可醬",
+      "lat": 35.389263,
+      "lng": 139.204879,
+      "source": "OFFICIAL",
+      "officialId": "pc_3d9e2ce34414450b9c63de71dec55753",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "pc_2b81d673a5234c2fab311db3aca3dc3b",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "摩艾石像",
+      "lat": 31.662362,
+      "lng": 131.461425,
+      "source": "OFFICIAL",
+      "officialId": "pc_2b81d673a5234c2fab311db3aca3dc3b",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "pc_bb99e0760af8471ca4149caec29cb6ae",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "聖露西亞",
+      "lat": 50.112556,
+      "lng": 6.20101,
+      "source": "OFFICIAL",
+      "officialId": "pc_bb99e0760af8471ca4149caec29cb6ae",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "pc_985cc9e8aa954e8ba33a99c7de541394",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "田貫湖狸貓澎太",
+      "lat": 35.34527,
+      "lng": 138.557279,
+      "source": "OFFICIAL",
+      "officialId": "pc_985cc9e8aa954e8ba33a99c7de541394",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "pc_865359996a8340749ebdadf66d39aa1b",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "蠟筆小新與小葵兄妹雕像",
+      "lat": 35.974678,
+      "lng": 139.754842,
+      "source": "OFFICIAL",
+      "officialId": "pc_865359996a8340749ebdadf66d39aa1b",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "pc_01a934bf271e499dbc86ccd01b054aa0",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "巨大熊本熊",
+      "lat": 32.528345,
+      "lng": 130.538779,
+      "source": "OFFICIAL",
+      "officialId": "pc_01a934bf271e499dbc86ccd01b054aa0",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "pc_376b9e7fb2e247a08e14e0ca3790ca51",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "雙貓藝術雕塑",
+      "lat": 11.945642,
+      "lng": 108.407969,
+      "source": "OFFICIAL",
+      "officialId": "pc_376b9e7fb2e247a08e14e0ca3790ca51",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "pc_4f32592a6cc24e8fae30c03f1f6f9238",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "名偵探柯南青銅雕像",
+      "lat": 35.49283,
+      "lng": 133.75908,
+      "source": "OFFICIAL",
+      "officialId": "pc_4f32592a6cc24e8fae30c03f1f6f9238",
+      "updatedAt": 1791335434141
+    },
+    {
+      "id": "pc_740fe94dee7b4e8883943afb806251f6",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "東京迪士尼 美女與野獸立體雕像",
+      "lat": 35.630551,
+      "lng": 139.877739,
+      "source": "OFFICIAL",
+      "officialId": "pc_740fe94dee7b4e8883943afb806251f6",
+      "updatedAt": 1791335434141
+    },
+    {
+      "id": "pc_b90e674af57a43d186ef9dc4249f317a",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "史努比城史努比雕塑",
+      "lat": 35.172502,
+      "lng": 136.883522,
+      "source": "OFFICIAL",
+      "officialId": "pc_b90e674af57a43d186ef9dc4249f317a",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "pc_4019fc59f3b8406bbcc3594eb720b37d",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "進擊的巨人艾連・米卡莎・阿爾敏雕像",
+      "lat": 33.243485,
+      "lng": 130.957482,
+      "source": "OFFICIAL",
+      "officialId": "pc_4019fc59f3b8406bbcc3594eb720b37d",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "pc_1743fff83d984c65aae2eb73ac4fb111",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "怪盗と名探偵",
+      "lat": 35.498056,
+      "lng": 133.762188,
+      "source": "OFFICIAL",
+      "officialId": "pc_1743fff83d984c65aae2eb73ac4fb111",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "pc_fa750f8c49c84b8ab6b8d4e8d796fe7e",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "咖波狗狗等烏龜公車",
+      "lat": 24.147636,
+      "lng": 120.667549,
+      "source": "OFFICIAL",
+      "officialId": "pc_fa750f8c49c84b8ab6b8d4e8d796fe7e",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "pc_cdbf248505604601bf552a1870be65ad",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "阿羅拉六尾雕塑",
+      "lat": 43.067565,
+      "lng": 141.349271,
+      "source": "OFFICIAL",
+      "officialId": "pc_cdbf248505604601bf552a1870be65ad",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "pc_6928785547d34a10a6355a1bc3362ada",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "星之卡比",
+      "lat": 33.590103,
+      "lng": 130.410532,
+      "source": "OFFICIAL",
+      "officialId": "pc_6928785547d34a10a6355a1bc3362ada",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "pc_08ca4d4d131c468aa9d47d40ed2f32f3",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "萬代角色大道",
+      "lat": 35.707489,
+      "lng": 139.794529,
+      "source": "OFFICIAL",
+      "officialId": "pc_08ca4d4d131c468aa9d47d40ed2f32f3",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "pc_5baafc19da844c64940cfd1e6bb339a2",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "小美人魚雕像",
+      "lat": 28.353832,
+      "lng": -81.546206,
+      "source": "OFFICIAL",
+      "officialId": "pc_5baafc19da844c64940cfd1e6bb339a2",
+      "updatedAt": 1790964085053
+    },
+    {
+      "id": "pc_110b9ca5ca68416091219d30e6eb821b",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "日本環球影城 經典旋轉地球儀",
+      "lat": 34.667975,
+      "lng": 135.435341,
+      "source": "OFFICIAL",
+      "officialId": "pc_110b9ca5ca68416091219d30e6eb821b",
+      "updatedAt": 1791335434141
     },
     {
       "id": "point_2026100621564601",
