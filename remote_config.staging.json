@@ -1,7 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11",
-  "firmwareVersion": "fw-20261011-4",
+  "updatedAt": "2026-10-13",
+  "firmwareVersion": "fw-20261013-1",
+  "mapSdk": "MapLibre",
   "bookmarksEnabled": true,
   "bookmarksUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/official_bookmarks.staging.json",
   "vipUrl": "https://raw.githubusercontent.com/kevycheng/geosim-data/main/vip.json",
