@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1791590546040,
+  "updatedAt": 1791987272954,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -160,6 +160,13 @@
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1788316531781
+    },
+    {
+      "id": "folder_pure_park",
+      "name": "🌳 公園",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1791987272954
     },
     {
       "id": "folder_walk_yokosuka",
@@ -1310,6 +1317,56 @@
       "source": "OFFICIAL",
       "officialId": "point_2026090210353115",
       "updatedAt": 1788316531717
+    },
+    {
+      "id": "pure_park_01",
+      "folderId": "folder_pure_park",
+      "name": "榮星花園",
+      "lat": 25.06349,
+      "lng": 121.53958,
+      "source": "OFFICIAL",
+      "officialId": "pure_park_01",
+      "updatedAt": 1791987272954
+    },
+    {
+      "id": "pure_park_02",
+      "folderId": "folder_pure_park",
+      "name": "新生公園",
+      "lat": 25.06995,
+      "lng": 121.5308,
+      "source": "OFFICIAL",
+      "officialId": "pure_park_02",
+      "updatedAt": 1791987272954
+    },
+    {
+      "id": "pure_park_03",
+      "folderId": "folder_pure_park",
+      "name": "羅馬公園",
+      "lat": 43.86783,
+      "lng": 11.08326,
+      "source": "OFFICIAL",
+      "officialId": "pure_park_03",
+      "updatedAt": 1791987272954
+    },
+    {
+      "id": "pure_park_04",
+      "folderId": "folder_pure_park",
+      "name": "舊金山公園",
+      "lat": 37.75962,
+      "lng": -122.42712,
+      "source": "OFFICIAL",
+      "officialId": "pure_park_04",
+      "updatedAt": 1791987272954
+    },
+    {
+      "id": "pure_park_05",
+      "folderId": "folder_pure_park",
+      "name": "奇美博物館",
+      "lat": 22.934555,
+      "lng": 120.227949,
+      "source": "OFFICIAL",
+      "officialId": "pure_park_05",
+      "updatedAt": 1791987272954
     },
     {
       "id": "point_2026090211325901",
