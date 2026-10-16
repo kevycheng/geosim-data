@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1791987272954,
+  "updatedAt": 1792173689800,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -198,23 +198,23 @@
     },
     {
       "id": "folder_weekly_featured",
-      "name": "0.[每周精選] 主題:富士山",
+      "name": "0.[每周精選] 主題:瀑布",
       "source": "OFFICIAL",
-      "updatedAt": 1791590546040
+      "updatedAt": 1792173689800
     },
     {
       "id": "folder_weekly_featured_mushroom",
-      "name": "[菇] 主題: 富士山",
+      "name": "[菇] 主題: 瀑布",
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
-      "updatedAt": 1791590546040
+      "updatedAt": 1792173689800
     },
     {
       "id": "folder_weekly_featured_flower",
-      "name": "[花] 主題: 富士山",
+      "name": "[花] 主題: 瀑布",
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
-      "updatedAt": 1791590546040
+      "updatedAt": 1792173689800
     }
   ],
   "bookmarks": [
@@ -1709,184 +1709,204 @@
       "updatedAt": 1791502588421
     },
     {
-      "id": "pc_0e62a9a4a7324c1c8371145590b2e036",
+      "id": "pc_b7a795c82c9f4ce4b59a5ef01981b39d",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "朝霧高原富士山展望台",
-      "lat": 35.414202,
-      "lng": 138.620962,
+      "name": "萊希瀑布",
+      "lat": 47.562052,
+      "lng": 10.694721,
       "source": "OFFICIAL",
-      "officialId": "pc_0e62a9a4a7324c1c8371145590b2e036",
-      "updatedAt": 1791590546040
+      "officialId": "pc_b7a795c82c9f4ce4b59a5ef01981b39d",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_44cf414ae39041f888f0c46ee52ba4d0",
+      "id": "pc_743906acfbd343edb1b9c7a2824797b0",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "毛無山山頂",
-      "lat": 35.415717,
-      "lng": 138.543503,
+      "name": "五丈の滝",
+      "lat": 40.173725,
+      "lng": 141.83699,
       "source": "OFFICIAL",
-      "officialId": "pc_44cf414ae39041f888f0c46ee52ba4d0",
-      "updatedAt": 1791590546040
+      "officialId": "pc_743906acfbd343edb1b9c7a2824797b0",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_2c9f0cc22e634052aa42f02ddc3de1eb",
+      "id": "pc_3a4cd45372dc4db7adf7a9477d2701a1",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "椅子の学び舎",
-      "lat": 35.527758,
-      "lng": 138.73145,
+      "name": "姥湯温泉",
+      "lat": 37.760101,
+      "lng": 140.222087,
       "source": "OFFICIAL",
-      "officialId": "pc_2c9f0cc22e634052aa42f02ddc3de1eb",
-      "updatedAt": 1791590546040
+      "officialId": "pc_3a4cd45372dc4db7adf7a9477d2701a1",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_3338cff6d1a04f03a8831bc7f12c7252",
+      "id": "pc_56c4676df6cf4ff7be6de0e4d6548cc5",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "太成殿本宮 鳥居",
-      "lat": 35.526991,
-      "lng": 138.73473,
+      "name": "斯科加瀑布解說牌",
+      "lat": 63.531846,
+      "lng": -19.510203,
       "source": "OFFICIAL",
-      "officialId": "pc_3338cff6d1a04f03a8831bc7f12c7252",
-      "updatedAt": 1791590546040
+      "officialId": "pc_56c4676df6cf4ff7be6de0e4d6548cc5",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_cbf6c074cda44d4c9507f7b5c7b0e2c0",
+      "id": "pc_5b173fb0ee5d458ea4c3a4c19526b613",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "御殿場市富士見十二景 長尾峠",
-      "lat": 35.256676,
-      "lng": 138.972328,
+      "name": "瀑畔涼亭",
+      "lat": 51.121759,
+      "lng": -114.145647,
       "source": "OFFICIAL",
-      "officialId": "pc_cbf6c074cda44d4c9507f7b5c7b0e2c0",
-      "updatedAt": 1791590546040
+      "officialId": "pc_5b173fb0ee5d458ea4c3a4c19526b613",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_c1b49bed1ceb407887439a3e267a1651",
+      "id": "pc_be75d43125484ab99cb8e1748e186fbb",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "周辺案内卓",
-      "lat": 35.33847,
-      "lng": 138.622056,
+      "name": "黃金瀑布",
+      "lat": 64.325232,
+      "lng": -20.124934,
       "source": "OFFICIAL",
-      "officialId": "pc_c1b49bed1ceb407887439a3e267a1651",
-      "updatedAt": 1791590546040
+      "officialId": "pc_be75d43125484ab99cb8e1748e186fbb",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_b38fa793dbcb40b098a1548d96fee173",
+      "id": "pc_7761cec834b4485387dee75d7746152a",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "富士山🗻",
-      "lat": 35.687279,
-      "lng": 138.877533,
+      "name": "流光造景",
+      "lat": 25.059309,
+      "lng": 121.615732,
       "source": "OFFICIAL",
-      "officialId": "pc_b38fa793dbcb40b098a1548d96fee173",
-      "updatedAt": 1791590546040
+      "officialId": "pc_7761cec834b4485387dee75d7746152a",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_2d63c9717ef24ff4b2b83c0e0069ec33",
+      "id": "pc_380c5d1f25a4464d9f91d6d7a80ce99d",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "富士山景網球場",
-      "lat": 35.476865,
-      "lng": 138.687363,
+      "name": "潮汐漫步噴泉",
+      "lat": 34.089474,
+      "lng": -77.895163,
       "source": "OFFICIAL",
-      "officialId": "pc_2d63c9717ef24ff4b2b83c0e0069ec33",
-      "updatedAt": 1791590546040
+      "officialId": "pc_380c5d1f25a4464d9f91d6d7a80ce99d",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_7e15d92f86974ed1b90993e30beff360",
+      "id": "pc_b6eb70a4090349078e4a2a4b8b501e2c",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "関東の富士見百景 富士山の見えるまちづくり",
-      "lat": 35.500646,
-      "lng": 138.557179,
+      "name": "寶可夢嬉遊壁畫",
+      "lat": 44.081981,
+      "lng": -121.30362,
       "source": "OFFICIAL",
-      "officialId": "pc_7e15d92f86974ed1b90993e30beff360",
-      "updatedAt": 1791590546040
+      "officialId": "pc_b6eb70a4090349078e4a2a4b8b501e2c",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_bcea8925a67e4ae18a39476038d0cf50",
+      "id": "pc_34d9f753ec6f41b28dfeefbdeb964417",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "富士見ヶ丘公園",
-      "lat": 35.243851,
-      "lng": 138.976298,
+      "name": "牛伏川 式階段工",
+      "lat": 36.161755,
+      "lng": 138.021435,
       "source": "OFFICIAL",
-      "officialId": "pc_bcea8925a67e4ae18a39476038d0cf50",
-      "updatedAt": 1791590546040
+      "officialId": "pc_34d9f753ec6f41b28dfeefbdeb964417",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_5b47bf1e17ad4704b9336deb4a1de747",
+      "id": "pc_af7ee60eb8c84bdaacfecb243d2b4e29",
       "folderId": "folder_weekly_featured_flower",
-      "name": "富士芝桜",
-      "lat": 35.44244,
-      "lng": 138.602958,
+      "name": "竜頭丿滝",
+      "lat": 36.758375,
+      "lng": 139.451542,
       "source": "OFFICIAL",
-      "officialId": "pc_5b47bf1e17ad4704b9336deb4a1de747",
-      "updatedAt": 1791590546040
+      "officialId": "pc_af7ee60eb8c84bdaacfecb243d2b4e29",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_898f89abaaa2499aa687345493cd5990",
+      "id": "pc_51044792365f4089bdff3472bec9b14b",
       "folderId": "folder_weekly_featured_flower",
-      "name": "富士浅間神社鳥居",
-      "lat": 35.499407,
-      "lng": 138.800116,
+      "name": "翠滝の東屋",
+      "lat": 37.291855,
+      "lng": 140.381271,
       "source": "OFFICIAL",
-      "officialId": "pc_898f89abaaa2499aa687345493cd5990",
-      "updatedAt": 1791590546040
+      "officialId": "pc_51044792365f4089bdff3472bec9b14b",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_2cd4fe4733c948ad81c36528fa2cca14",
+      "id": "pc_d8460c0df2494e73b45e7ef662e4b233",
       "folderId": "folder_weekly_featured_flower",
-      "name": "日本-富士山",
-      "lat": 35.220333,
-      "lng": 138.698028,
+      "name": "米迦勒之翼・運河漫步之秋",
+      "lat": 37.400765,
+      "lng": 126.638283,
       "source": "OFFICIAL",
-      "officialId": "pc_2cd4fe4733c948ad81c36528fa2cca14",
-      "updatedAt": 1791590546040
+      "officialId": "pc_d8460c0df2494e73b45e7ef662e4b233",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_87b0bd590e8f43368324c9749674da31",
+      "id": "pc_105743d5b1d24195a79e024435b1e322",
       "folderId": "folder_weekly_featured_flower",
-      "name": "富士山夜景",
-      "lat": 35.021968,
-      "lng": 138.478161,
+      "name": "層疊噴泉池",
+      "lat": -37.80988,
+      "lng": 144.977421,
       "source": "OFFICIAL",
-      "officialId": "pc_87b0bd590e8f43368324c9749674da31",
-      "updatedAt": 1791590546040
+      "officialId": "pc_105743d5b1d24195a79e024435b1e322",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_546b4a89490c4c4e933f910bed1696a5",
+      "id": "pc_f873acbed9274a979999b4a88ff22b5d",
       "folderId": "folder_weekly_featured_flower",
-      "name": "富士山本宮浅間大社奥宮",
-      "lat": 35.359756,
-      "lng": 138.731398,
+      "name": "費爾菲爾德酒店泳池",
+      "lat": 38.605383,
+      "lng": -109.582001,
       "source": "OFFICIAL",
-      "officialId": "pc_546b4a89490c4c4e933f910bed1696a5",
-      "updatedAt": 1791590546040
+      "officialId": "pc_f873acbed9274a979999b4a88ff22b5d",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_cb52fe3b4d034045924c6eab65acb316",
+      "id": "pc_48bc8e5cb08942f3ad64b67c14e189b8",
       "folderId": "folder_weekly_featured_flower",
-      "name": "東名富士川SA（上 ）富士山展望台",
-      "lat": 35.162262,
-      "lng": 138.617937,
+      "name": "鼓刁滝",
+      "lat": 34.789277,
+      "lng": 135.245852,
       "source": "OFFICIAL",
-      "officialId": "pc_cb52fe3b4d034045924c6eab65acb316",
-      "updatedAt": 1791590546040
+      "officialId": "pc_48bc8e5cb08942f3ad64b67c14e189b8",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_731350b8ae7146f5b6a1d3657afa2631",
+      "id": "pc_8f84fcc7b623432a9db05979a3d16a0b",
       "folderId": "folder_weekly_featured_flower",
-      "name": "東屋(富士山)",
-      "lat": 35.50219768151991,
-      "lng": 138.80187805742025,
+      "name": "潟湖飛瀑",
+      "lat": 4.968889,
+      "lng": 114.852128,
       "source": "OFFICIAL",
-      "officialId": "pc_731350b8ae7146f5b6a1d3657afa2631",
-      "updatedAt": 1791590546040
+      "officialId": "pc_8f84fcc7b623432a9db05979a3d16a0b",
+      "updatedAt": 1792173689800
     },
     {
-      "id": "pc_b0c8d304b5c84f699ca7407e2a137c68",
+      "id": "pc_32bd1c6b54cf43c2874d21144f8c467a",
       "folderId": "folder_weekly_featured_flower",
-      "name": "船津財 区設置40周年記念事業の看板",
-      "lat": 35.450801,
-      "lng": 138.751398,
+      "name": "亭中閒",
+      "lat": 24.340926,
+      "lng": 120.781982,
       "source": "OFFICIAL",
-      "officialId": "pc_b0c8d304b5c84f699ca7407e2a137c68",
-      "updatedAt": 1791590546040
+      "officialId": "pc_32bd1c6b54cf43c2874d21144f8c467a",
+      "updatedAt": 1792173689800
+    },
+    {
+      "id": "pc_30c256e372d74fc3b0cc82c1282f4d24",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "萊茵瀑布觀景臺",
+      "lat": 47.680406,
+      "lng": 8.615141,
+      "source": "OFFICIAL",
+      "officialId": "pc_30c256e372d74fc3b0cc82c1282f4d24",
+      "updatedAt": 1792173689800
+    },
+    {
+      "id": "pc_db3fd14d79744eb49bf2825467310b2e",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "飛瀑流泉",
+      "lat": 17.484027,
+      "lng": 106.600904,
+      "source": "OFFICIAL",
+      "officialId": "pc_db3fd14d79744eb49bf2825467310b2e",
+      "updatedAt": 1792173689800
     }
   ]
 }
