@@ -28,6 +28,17 @@
   "adRewardedUnitId": "",
   "adRewardedUnitIdHigh": "",
   "proAdUnlockEnabled": true,
+  "whatsNewEnabled": true,
+  "whatsNewVersionCode": 53,
+  "whatsNewTitle": "2.3.1 更新",
+  "whatsNewItems": [
+    "面板加入玻璃質感，深色下層次更清楚",
+    "修正工具列在模擬中會被擋住，按不到收合與設定",
+    "修正懸浮球拖動時出現灰黑方塊",
+    "新增地點與新增路線改用同一張面板"
+  ],
+  "whatsNewCtaLabel": "去設定看看",
+  "whatsNewCtaTarget": "settings",
   "minSupportedVersionCode": 14,
   "messageTitle": "全新功能上線 ✨",
   "message": "首頁新增「每週精選專欄」！每週定期為你推薦精選探索地點與特色路線，一鍵即可快速套用或加入書籤，請確認更新至最新版本並前往體驗探索！",
