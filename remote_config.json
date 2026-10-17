@@ -32,8 +32,8 @@
   "darkModeEnabled": true,
   "mapUnavailableNoticeEnabled": true,
   "minSupportedVersionCode": 47,
-  "messageTitle": "深色模式上線 🌙",
-  "message": "夜貓族有福了，最新版本支援深色模式！到「設定 → 外觀」就能挑自己喜歡的配色。請到商店更新到最新版。",
+  "messageTitle": "",
+  "message": "",
   "freeTier": {
     "enabled": true,
     "adRewardMinutes": 240,
