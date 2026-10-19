@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1792382820559,
+  "updatedAt": 1792399910994,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -1733,14 +1733,14 @@
       "updatedAt": 1791590546040
     },
     {
-      "id": "pc_2cd4fe4733c948ad81c36528fa2cca14",
+      "id": "point_2026101916515001",
       "folderId": "folder_weekly_featured_flower",
-      "name": "日本-富士山",
-      "lat": 35.220333,
-      "lng": 138.698028,
+      "name": "大石公園 河口湖の像",
+      "lat": 35.523129,
+      "lng": 138.746044,
       "source": "OFFICIAL",
-      "officialId": "pc_2cd4fe4733c948ad81c36528fa2cca14",
-      "updatedAt": 1791590546040
+      "officialId": "point_2026101916515001",
+      "updatedAt": 1792399910994
     },
     {
       "id": "pc_87b0bd590e8f43368324c9749674da31",
