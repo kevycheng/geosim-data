@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1792381987279,
+  "updatedAt": 1792382459468,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -943,16 +943,6 @@
       "updatedAt": 1780973500002
     },
     {
-      "id": "point_new_9",
-      "folderId": "folder_pure_shrine",
-      "name": "神社_稻荷大明神(美菇)",
-      "lat": 34.362,
-      "lng": 133.585,
-      "source": "OFFICIAL",
-      "officialId": "point_new_9",
-      "updatedAt": 1780974852951
-    },
-    {
       "id": "point_new_11",
       "folderId": "folder_pure_ramen",
       "name": "拉麵_新北三重(純)",
@@ -971,16 +961,6 @@
       "source": "OFFICIAL",
       "officialId": "point_new_12",
       "updatedAt": 1780973500007
-    },
-    {
-      "id": "point_new_19",
-      "folderId": "folder_pure_bridge",
-      "name": "橋樑_中和",
-      "lat": 24.9930915,
-      "lng": 121.5077236,
-      "source": "OFFICIAL",
-      "officialId": "point_new_19",
-      "updatedAt": 1780973500014
     },
     {
       "id": "point_new_20",
@@ -1060,16 +1040,6 @@
       "lng": 121.384509,
       "source": "OFFICIAL",
       "officialId": "point_2026082117415301",
-      "updatedAt": 1787305313843
-    },
-    {
-      "id": "point_2026082117415302",
-      "folderId": "folder_pure_forest",
-      "name": "森林_嘉義忠孝路",
-      "lat": 23.503635,
-      "lng": 120.448689,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082117415302",
       "updatedAt": 1787305313843
     },
     {
@@ -1163,16 +1133,6 @@
       "updatedAt": 1787305678785
     },
     {
-      "id": "point_2026082117475803",
-      "folderId": "folder_pure_stationery",
-      "name": "文具_高雄三民",
-      "lat": 22.641291,
-      "lng": 120.320009,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082117475803",
-      "updatedAt": 1787305678785
-    },
-    {
       "id": "point_2026082117475804",
       "folderId": "folder_pure_stationery",
       "name": "文具_彰化愛菲爾",
@@ -1263,16 +1223,6 @@
       "updatedAt": 1787305911156
     },
     {
-      "id": "point_2026082117515103",
-      "folderId": "folder_pure_airport",
-      "name": "飛機_屏南機場",
-      "lat": 22.67826,
-      "lng": 120.46196,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082117515103",
-      "updatedAt": 1787305911156
-    },
-    {
       "id": "point_2026082117515104",
       "folderId": "folder_pure_airport",
       "name": "飛機_歸仁機場",
@@ -1300,16 +1250,6 @@
       "lng": 121.374216,
       "source": "OFFICIAL",
       "officialId": "point_2026082117561001",
-      "updatedAt": 1787306170234
-    },
-    {
-      "id": "point_2026082117561002",
-      "folderId": "folder_pure_bridge",
-      "name": "橋樑_崁頂溪橋",
-      "lat": 23.026384,
-      "lng": 121.156899,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082117561002",
       "updatedAt": 1787306170234
     },
     {
@@ -1383,16 +1323,6 @@
       "updatedAt": 1787306170234
     },
     {
-      "id": "point_2026082117561010",
-      "folderId": "folder_pure_burger",
-      "name": "漢堡_頭份縱貫公路",
-      "lat": 24.693353,
-      "lng": 120.915104,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082117561010",
-      "updatedAt": 1787306170234
-    },
-    {
       "id": "point_2026082117561011",
       "folderId": "folder_pure_ramen",
       "name": "拉麵_西螺休息站",
@@ -1430,16 +1360,6 @@
       "lng": 120.18096,
       "source": "OFFICIAL",
       "officialId": "point_2026082117561014",
-      "updatedAt": 1787306170234
-    },
-    {
-      "id": "point_2026082117561015",
-      "folderId": "folder_pure_ramen",
-      "name": "拉麵_湖口喜福萊",
-      "lat": 24.902319,
-      "lng": 121.032584,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082117561015",
       "updatedAt": 1787306170234
     },
     {
@@ -1483,16 +1403,6 @@
       "updatedAt": 1787306170234
     },
     {
-      "id": "point_2026082117561020",
-      "folderId": "folder_pure_university",
-      "name": "大學_長榮大學",
-      "lat": 22.900036,
-      "lng": 120.272494,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082117561020",
-      "updatedAt": 1787306170234
-    },
-    {
       "id": "point_2026082117561021",
       "folderId": "folder_pure_stadium",
       "name": "體育館_桃園體育館",
@@ -1520,16 +1430,6 @@
       "lng": 120.277784,
       "source": "OFFICIAL",
       "officialId": "point_2026082117561023",
-      "updatedAt": 1787306170234
-    },
-    {
-      "id": "point_2026082117561024",
-      "folderId": "folder_pure_stadium",
-      "name": "體育館_中興游泳池",
-      "lat": 23.941666,
-      "lng": 120.699196,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082117561024",
       "updatedAt": 1787306170234
     },
     {
@@ -1580,16 +1480,6 @@
       "lng": 120.178461,
       "source": "OFFICIAL",
       "officialId": "point_2026082117561029",
-      "updatedAt": 1787306170234
-    },
-    {
-      "id": "point_2026082117561030",
-      "folderId": "folder_pure_korean",
-      "name": "泡菜_高雄西部濱海公路",
-      "lat": 22.656265,
-      "lng": 120.29201,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082117561030",
       "updatedAt": 1787306170234
     },
     {
