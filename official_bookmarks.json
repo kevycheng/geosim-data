@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1792382734029,
+  "updatedAt": 1792382820559,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -215,6 +215,20 @@
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
       "updatedAt": 1791590546040
+    },
+    {
+      "id": "folder_pure_salon",
+      "name": "💇 美容院",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1792382820559
+    },
+    {
+      "id": "folder_pure_hotel",
+      "name": "🏨 飯店",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1792382820559
     }
   ],
   "bookmarks": [
@@ -1777,6 +1791,106 @@
       "source": "OFFICIAL",
       "officialId": "pc_b0c8d304b5c84f699ca7407e2a137c68",
       "updatedAt": 1791590546040
+    },
+    {
+      "id": "point_2026101911530601",
+      "folderId": "folder_pure_salon",
+      "name": "美容院_關山工商",
+      "lat": 23.047329,
+      "lng": 121.159046,
+      "source": "OFFICIAL",
+      "officialId": "point_2026101911530601",
+      "updatedAt": 1792382820559
+    },
+    {
+      "id": "point_2026101911530602",
+      "folderId": "folder_pure_salon",
+      "name": "美容院_新竹剪刀純點",
+      "lat": 24.824634,
+      "lng": 120.969925,
+      "source": "OFFICIAL",
+      "officialId": "point_2026101911530602",
+      "updatedAt": 1792382820559
+    },
+    {
+      "id": "point_2026101911530603",
+      "folderId": "folder_pure_salon",
+      "name": "美容院_高雄達樂獅",
+      "lat": 22.79314,
+      "lng": 120.28602,
+      "source": "OFFICIAL",
+      "officialId": "point_2026101911530603",
+      "updatedAt": 1792382820559
+    },
+    {
+      "id": "point_2026101911530604",
+      "folderId": "folder_pure_salon",
+      "name": "美容院_新北市長樂路",
+      "lat": 25.086681,
+      "lng": 121.463889,
+      "source": "OFFICIAL",
+      "officialId": "point_2026101911530604",
+      "updatedAt": 1792382820559
+    },
+    {
+      "id": "point_2026101911530605",
+      "folderId": "folder_pure_salon",
+      "name": "美容院_池上",
+      "lat": 23.120703,
+      "lng": 121.218344,
+      "source": "OFFICIAL",
+      "officialId": "point_2026101911530605",
+      "updatedAt": 1792382820559
+    },
+    {
+      "id": "point_2026101911530606",
+      "folderId": "folder_pure_hotel",
+      "name": "飯店_湯野精品旅館 中埔館",
+      "lat": 23.446954,
+      "lng": 120.458081,
+      "source": "OFFICIAL",
+      "officialId": "point_2026101911530606",
+      "updatedAt": 1792382820559
+    },
+    {
+      "id": "point_2026101911530607",
+      "folderId": "folder_pure_hotel",
+      "name": "飯店_承億文旅",
+      "lat": 23.493723,
+      "lng": 120.451951,
+      "source": "OFFICIAL",
+      "officialId": "point_2026101911530607",
+      "updatedAt": 1792382820559
+    },
+    {
+      "id": "point_2026101911530608",
+      "folderId": "folder_pure_hotel",
+      "name": "飯店_娜路彎銀河",
+      "lat": 22.775032,
+      "lng": 121.102577,
+      "source": "OFFICIAL",
+      "officialId": "point_2026101911530608",
+      "updatedAt": 1792382820559
+    },
+    {
+      "id": "point_2026101911530609",
+      "folderId": "folder_pure_hotel",
+      "name": "飯店_邦尼熊汽車旅館",
+      "lat": 23.582976,
+      "lng": 120.301398,
+      "source": "OFFICIAL",
+      "officialId": "point_2026101911530609",
+      "updatedAt": 1792382820559
+    },
+    {
+      "id": "point_2026101911530610",
+      "folderId": "folder_pure_hotel",
+      "name": "飯店_和陽行館",
+      "lat": 25.019753,
+      "lng": 121.223901,
+      "source": "OFFICIAL",
+      "officialId": "point_2026101911530610",
+      "updatedAt": 1792382820559
     }
   ]
 }
