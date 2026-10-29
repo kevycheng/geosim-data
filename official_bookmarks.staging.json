@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1792800448643,
+  "updatedAt": 1793237332965,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -195,6 +195,13 @@
       "parentId": "folder_gold_pots",
       "source": "OFFICIAL",
       "updatedAt": 1791502588421
+    },
+    {
+      "id": "folder_melbourne_mini_walk",
+      "name": "墨爾本迷你散步",
+      "parentId": "folder_gold_pots",
+      "source": "OFFICIAL",
+      "updatedAt": 1793237332965
     },
     {
       "id": "folder_pure_salon",
@@ -1911,6 +1918,66 @@
       "source": "OFFICIAL",
       "officialId": "pc_9b542a31eb7e43b68bbc84e145037096",
       "updatedAt": 1792800448643
+    },
+    {
+      "id": "point_melbourne_mini_walk_01",
+      "folderId": "folder_melbourne_mini_walk",
+      "name": "🍀 四葉草",
+      "lat": -37.806229,
+      "lng": 144.970303,
+      "source": "OFFICIAL",
+      "officialId": "point_melbourne_mini_walk_01",
+      "updatedAt": 1793237332965
+    },
+    {
+      "id": "point_melbourne_mini_walk_02",
+      "folderId": "folder_melbourne_mini_walk",
+      "name": "📖 迷你書",
+      "lat": -37.8100005,
+      "lng": 144.9644355,
+      "source": "OFFICIAL",
+      "officialId": "point_melbourne_mini_walk_02",
+      "updatedAt": 1793237332965
+    },
+    {
+      "id": "point_melbourne_mini_walk_03",
+      "folderId": "folder_melbourne_mini_walk",
+      "name": "🍫 巧克力",
+      "lat": -37.8106646,
+      "lng": 144.9630521,
+      "source": "OFFICIAL",
+      "officialId": "point_melbourne_mini_walk_03",
+      "updatedAt": 1793237332965
+    },
+    {
+      "id": "point_melbourne_mini_walk_04",
+      "folderId": "folder_melbourne_mini_walk",
+      "name": "🍰 糕點",
+      "lat": -37.810885,
+      "lng": 144.963936,
+      "source": "OFFICIAL",
+      "officialId": "point_melbourne_mini_walk_04",
+      "updatedAt": 1793237332965
+    },
+    {
+      "id": "point_melbourne_mini_walk_05",
+      "folderId": "folder_melbourne_mini_walk",
+      "name": "🛸 宇宙船",
+      "lat": -37.8101367,
+      "lng": 144.9631035,
+      "source": "OFFICIAL",
+      "officialId": "point_melbourne_mini_walk_05",
+      "updatedAt": 1793237332965
+    },
+    {
+      "id": "point_melbourne_mini_walk_06",
+      "folderId": "folder_melbourne_mini_walk",
+      "name": "☕️ 下午茶",
+      "lat": -37.811992,
+      "lng": 144.960461,
+      "source": "OFFICIAL",
+      "officialId": "point_melbourne_mini_walk_06",
+      "updatedAt": 1793237332965
     }
   ]
 }
