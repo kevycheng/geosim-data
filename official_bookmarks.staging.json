@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793253259243,
+  "updatedAt": 1793254088892,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -1180,16 +1180,6 @@
       "updatedAt": 1787306170234
     },
     {
-      "id": "point_2026082117561026",
-      "folderId": "folder_pure_korean",
-      "name": "泡菜_南港車站",
-      "lat": 25.053771,
-      "lng": 121.609742,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082117561026",
-      "updatedAt": 1787306170234
-    },
-    {
       "id": "point_2026082117561027",
       "folderId": "folder_pure_korean",
       "name": "泡菜_三元花園韓式餐廳",
@@ -1197,16 +1187,6 @@
       "lng": 120.598504,
       "source": "OFFICIAL",
       "officialId": "point_2026082117561027",
-      "updatedAt": 1787306170234
-    },
-    {
-      "id": "point_2026082117561028",
-      "folderId": "folder_pure_korean",
-      "name": "泡菜_新竹夯臭豆腐",
-      "lat": 24.809643,
-      "lng": 120.955038,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082117561028",
       "updatedAt": 1787306170234
     },
     {
