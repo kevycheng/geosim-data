@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793253192817,
+  "updatedAt": 1793253259243,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -1988,6 +1988,16 @@
       "source": "OFFICIAL",
       "officialId": "point_2026102913502702",
       "updatedAt": 1793253027457
+    },
+    {
+      "id": "point_2026102913541901",
+      "folderId": "folder_pure_bakery",
+      "name": "麵包_新莊麵包店",
+      "lat": 25.035783,
+      "lng": 121.451196,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102913541901",
+      "updatedAt": 1793253259243
     }
   ]
 }
