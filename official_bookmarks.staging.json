@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793246522397,
+  "updatedAt": 1793248432302,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -920,16 +920,6 @@
       "lng": 143.209487,
       "source": "OFFICIAL",
       "officialId": "point_2026082117493501",
-      "updatedAt": 1787305775622
-    },
-    {
-      "id": "point_2026082117493502",
-      "folderId": "folder_pure_shrine",
-      "name": "神社_東京傳通院",
-      "lat": 35.712419,
-      "lng": 139.746871,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082117493502",
       "updatedAt": 1787305775622
     },
     {
@@ -1931,6 +1921,16 @@
       "source": "OFFICIAL",
       "officialId": "point_2026102912020203",
       "updatedAt": 1793246522397
+    },
+    {
+      "id": "point_2026102912335201",
+      "folderId": "folder_pure_shrine",
+      "name": "神社_大通寺",
+      "lat": 34.670639,
+      "lng": 135.522312,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102912335201",
+      "updatedAt": 1793248432302
     }
   ]
 }
