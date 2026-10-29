@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793250165909,
+  "updatedAt": 1793251708544,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -1948,6 +1948,76 @@
       "source": "OFFICIAL",
       "officialId": "point_2026102912543505",
       "updatedAt": 1793249675402
+    },
+    {
+      "id": "point_2026102913282801",
+      "folderId": "folder_pure_cinema",
+      "name": "電影院_台中豐偉路",
+      "lat": 24.130307,
+      "lng": 120.644955,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102913282801",
+      "updatedAt": 1793251708544
+    },
+    {
+      "id": "point_2026102913282802",
+      "folderId": "folder_pure_cinema",
+      "name": "電影院_淡水義山",
+      "lat": 25.199464,
+      "lng": 121.437678,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102913282802",
+      "updatedAt": 1793251708544
+    },
+    {
+      "id": "point_2026102913282803",
+      "folderId": "folder_pure_cinema",
+      "name": "電影院_花蓮校園",
+      "lat": 23.9715009,
+      "lng": 121.5958001,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102913282803",
+      "updatedAt": 1793251708544
+    },
+    {
+      "id": "point_2026102913282804",
+      "folderId": "folder_pure_cinema",
+      "name": "電影院_三重三和路",
+      "lat": 25.079787,
+      "lng": 121.483345,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102913282804",
+      "updatedAt": 1793251708544
+    },
+    {
+      "id": "point_2026102913282805",
+      "folderId": "folder_pure_cinema",
+      "name": "電影院_雲林同心街",
+      "lat": 23.704852,
+      "lng": 120.53579,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102913282805",
+      "updatedAt": 1793251708544
+    },
+    {
+      "id": "point_2026102913282806",
+      "folderId": "folder_pure_cinema",
+      "name": "電影院_金門",
+      "lat": 24.478949,
+      "lng": 118.427874,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102913282806",
+      "updatedAt": 1793251708544
+    },
+    {
+      "id": "point_2026102913282807",
+      "folderId": "folder_pure_cinema",
+      "name": "電影院_高雄介壽路",
+      "lat": 22.68449,
+      "lng": 120.280914,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102913282807",
+      "updatedAt": 1793251708544
     }
   ]
 }
