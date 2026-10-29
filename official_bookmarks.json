@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793248965913,
+  "updatedAt": 1793252765755,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -229,6 +229,13 @@
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1792381987279
+    },
+    {
+      "id": "folder_pure_cinema",
+      "name": "🎬 電影院",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1793252765755
     }
   ],
   "bookmarks": [
@@ -1931,6 +1938,66 @@
       "source": "OFFICIAL",
       "officialId": "point_2026102912414501",
       "updatedAt": 1793248965913
+    },
+    {
+      "id": "point_2026102912543505",
+      "folderId": "folder_pure_cinema",
+      "name": "電影院_雲林虎尾白宮影城",
+      "lat": 23.70568,
+      "lng": 120.4322,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102912543505",
+      "updatedAt": 1793252765755
+    },
+    {
+      "id": "point_2026102913421301",
+      "folderId": "folder_pure_cinema",
+      "name": "電影院_荷蘭Movie W",
+      "lat": 51.9663266,
+      "lng": 5.6725779,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102913421301",
+      "updatedAt": 1793252765755
+    },
+    {
+      "id": "point_2026102913421302",
+      "folderId": "folder_pure_cinema",
+      "name": "電影院_紐約North Shore Towers",
+      "lat": 40.7568121,
+      "lng": -73.714883,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102913421302",
+      "updatedAt": 1793252765755
+    },
+    {
+      "id": "point_2026102913421303",
+      "folderId": "folder_pure_cinema",
+      "name": "電影院_倫敦Sky Cinema",
+      "lat": 51.4884965,
+      "lng": -0.3280474,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102913421303",
+      "updatedAt": 1793252765755
+    },
+    {
+      "id": "point_2026102913421304",
+      "folderId": "folder_pure_cinema",
+      "name": "電影院_西班牙Gateway Cinema",
+      "lat": 36.63435266236549,
+      "lng": -6.352357508797101,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102913421304",
+      "updatedAt": 1793252765755
+    },
+    {
+      "id": "point_2026102913421305",
+      "folderId": "folder_pure_cinema",
+      "name": "電影院_新加坡Hersing Kitchen",
+      "lat": 1.3411711,
+      "lng": 103.9454685,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102913421305",
+      "updatedAt": 1793252765755
     }
   ]
 }
