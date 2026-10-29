@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793238907237,
+  "updatedAt": 1793246522397,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -1283,26 +1283,6 @@
       "updatedAt": 1787306797456
     },
     {
-      "id": "point_2026082118063706",
-      "folderId": "folder_pure_dessert",
-      "name": "甜點_宜蘭義豐蔥油派",
-      "lat": 24.621857,
-      "lng": 121.815472,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082118063706",
-      "updatedAt": 1787306797456
-    },
-    {
-      "id": "point_2026082118063707",
-      "folderId": "folder_pure_dessert",
-      "name": "甜點_桃園詠宸銀絲卷",
-      "lat": 25.042588,
-      "lng": 121.243556,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082118063707",
-      "updatedAt": 1787306797456
-    },
-    {
       "id": "point_2026082118063708",
       "folderId": "folder_pure_dessert",
       "name": "甜點_台南",
@@ -1310,16 +1290,6 @@
       "lng": 120.216265,
       "source": "OFFICIAL",
       "officialId": "point_2026082118063708",
-      "updatedAt": 1787306797456
-    },
-    {
-      "id": "point_2026082118063709",
-      "folderId": "folder_pure_dessert",
-      "name": "甜點_台北詔安街",
-      "lat": 25.024928,
-      "lng": 121.514248,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082118063709",
       "updatedAt": 1787306797456
     },
     {
@@ -1931,6 +1901,36 @@
       "source": "OFFICIAL",
       "officialId": "point_melbourne_mini_walk_06",
       "updatedAt": 1793237332965
+    },
+    {
+      "id": "point_2026102912020201",
+      "folderId": "folder_pure_dessert",
+      "name": "甜點_101男士專業理髮店",
+      "lat": 23.94302,
+      "lng": 120.693385,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102912020201",
+      "updatedAt": 1793246522397
+    },
+    {
+      "id": "point_2026102912020202",
+      "folderId": "folder_pure_dessert",
+      "name": "甜點_台北市大同區延平國小",
+      "lat": 25.066662,
+      "lng": 121.512349,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102912020202",
+      "updatedAt": 1793246522397
+    },
+    {
+      "id": "point_2026102912020203",
+      "folderId": "folder_pure_dessert",
+      "name": "甜點_龍興免洗餐具塑膠袋",
+      "lat": 24.683426,
+      "lng": 120.870913,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102912020203",
+      "updatedAt": 1793246522397
     }
   ]
 }
