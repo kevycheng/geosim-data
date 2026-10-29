@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793254088892,
+  "updatedAt": 1793254143811,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -1978,6 +1978,26 @@
       "source": "OFFICIAL",
       "officialId": "point_2026102913541901",
       "updatedAt": 1793253259243
+    },
+    {
+      "id": "point_2026102914090301",
+      "folderId": "folder_pure_korean",
+      "name": "泡菜_台南安平",
+      "lat": 22.993497,
+      "lng": 120.174141,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102914090301",
+      "updatedAt": 1793254143811
+    },
+    {
+      "id": "point_2026102914090302",
+      "folderId": "folder_pure_korean",
+      "name": "泡菜_新莊龍門",
+      "lat": 25.018759,
+      "lng": 121.423666,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102914090302",
+      "updatedAt": 1793254143811
     }
   ]
 }
