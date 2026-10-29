@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793252925952,
+  "updatedAt": 1793253027457,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -1978,6 +1978,26 @@
       "source": "OFFICIAL",
       "officialId": "point_2026102913421305",
       "updatedAt": 1793252533050
+    },
+    {
+      "id": "point_2026102913502701",
+      "folderId": "folder_pure_cafe",
+      "name": "咖啡杯_高雄大社",
+      "lat": 22.7304136,
+      "lng": 120.3444268,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102913502701",
+      "updatedAt": 1793253027457
+    },
+    {
+      "id": "point_2026102913502702",
+      "folderId": "folder_pure_cafe",
+      "name": "咖啡杯_台北內湖",
+      "lat": 25.0767107,
+      "lng": 121.5718815,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102913502702",
+      "updatedAt": 1793253027457
     }
   ]
 }
