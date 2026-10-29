@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793249675402,
+  "updatedAt": 1793250165909,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -1938,46 +1938,6 @@
       "source": "OFFICIAL",
       "officialId": "point_2026102912414501",
       "updatedAt": 1793248905916
-    },
-    {
-      "id": "point_2026102912543501",
-      "folderId": "folder_pure_cinema",
-      "name": "電影院_台北信義",
-      "lat": 25.044496,
-      "lng": 121.55871,
-      "source": "OFFICIAL",
-      "officialId": "point_2026102912543501",
-      "updatedAt": 1793249675402
-    },
-    {
-      "id": "point_2026102912543502",
-      "folderId": "folder_pure_cinema",
-      "name": "電影院_新竹戲院",
-      "lat": 24.889278,
-      "lng": 120.990837,
-      "source": "OFFICIAL",
-      "officialId": "point_2026102912543502",
-      "updatedAt": 1793249675402
-    },
-    {
-      "id": "point_2026102912543503",
-      "folderId": "folder_pure_cinema",
-      "name": "電影院_嘉義新榮戲院",
-      "lat": 23.474644,
-      "lng": 120.445876,
-      "source": "OFFICIAL",
-      "officialId": "point_2026102912543503",
-      "updatedAt": 1793249675402
-    },
-    {
-      "id": "point_2026102912543504",
-      "folderId": "folder_pure_cinema",
-      "name": "電影院_高雄十全二路",
-      "lat": 22.645641,
-      "lng": 120.3025,
-      "source": "OFFICIAL",
-      "officialId": "point_2026102912543504",
-      "updatedAt": 1793249675402
     },
     {
       "id": "point_2026102912543505",
