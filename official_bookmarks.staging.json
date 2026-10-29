@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793251708544,
+  "updatedAt": 1793252533050,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -1950,74 +1950,54 @@
       "updatedAt": 1793249675402
     },
     {
-      "id": "point_2026102913282801",
+      "id": "point_2026102913421301",
       "folderId": "folder_pure_cinema",
-      "name": "電影院_台中豐偉路",
-      "lat": 24.130307,
-      "lng": 120.644955,
+      "name": "電影院_荷蘭Movie W",
+      "lat": 51.9663266,
+      "lng": 5.6725779,
       "source": "OFFICIAL",
-      "officialId": "point_2026102913282801",
-      "updatedAt": 1793251708544
+      "officialId": "point_2026102913421301",
+      "updatedAt": 1793252533050
     },
     {
-      "id": "point_2026102913282802",
+      "id": "point_2026102913421302",
       "folderId": "folder_pure_cinema",
-      "name": "電影院_淡水義山",
-      "lat": 25.199464,
-      "lng": 121.437678,
+      "name": "電影院_紐約North Shore Towers",
+      "lat": 40.7568121,
+      "lng": -73.714883,
       "source": "OFFICIAL",
-      "officialId": "point_2026102913282802",
-      "updatedAt": 1793251708544
+      "officialId": "point_2026102913421302",
+      "updatedAt": 1793252533050
     },
     {
-      "id": "point_2026102913282803",
+      "id": "point_2026102913421303",
       "folderId": "folder_pure_cinema",
-      "name": "電影院_花蓮校園",
-      "lat": 23.9715009,
-      "lng": 121.5958001,
+      "name": "電影院_倫敦Sky Cinema",
+      "lat": 51.4884965,
+      "lng": -0.3280474,
       "source": "OFFICIAL",
-      "officialId": "point_2026102913282803",
-      "updatedAt": 1793251708544
+      "officialId": "point_2026102913421303",
+      "updatedAt": 1793252533050
     },
     {
-      "id": "point_2026102913282804",
+      "id": "point_2026102913421304",
       "folderId": "folder_pure_cinema",
-      "name": "電影院_三重三和路",
-      "lat": 25.079787,
-      "lng": 121.483345,
+      "name": "電影院_西班牙Gateway Cinema",
+      "lat": 36.63435266236549,
+      "lng": -6.352357508797101,
       "source": "OFFICIAL",
-      "officialId": "point_2026102913282804",
-      "updatedAt": 1793251708544
+      "officialId": "point_2026102913421304",
+      "updatedAt": 1793252533050
     },
     {
-      "id": "point_2026102913282805",
+      "id": "point_2026102913421305",
       "folderId": "folder_pure_cinema",
-      "name": "電影院_雲林同心街",
-      "lat": 23.704852,
-      "lng": 120.53579,
+      "name": "電影院_新加坡Hersing Kitchen",
+      "lat": 1.3411711,
+      "lng": 103.9454685,
       "source": "OFFICIAL",
-      "officialId": "point_2026102913282805",
-      "updatedAt": 1793251708544
-    },
-    {
-      "id": "point_2026102913282806",
-      "folderId": "folder_pure_cinema",
-      "name": "電影院_金門",
-      "lat": 24.478949,
-      "lng": 118.427874,
-      "source": "OFFICIAL",
-      "officialId": "point_2026102913282806",
-      "updatedAt": 1793251708544
-    },
-    {
-      "id": "point_2026102913282807",
-      "folderId": "folder_pure_cinema",
-      "name": "電影院_高雄介壽路",
-      "lat": 22.68449,
-      "lng": 120.280914,
-      "source": "OFFICIAL",
-      "officialId": "point_2026102913282807",
-      "updatedAt": 1793251708544
+      "officialId": "point_2026102913421305",
+      "updatedAt": 1793252533050
     }
   ]
 }
