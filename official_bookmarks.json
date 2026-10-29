@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793253796024,
+  "updatedAt": 1793254557969,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -1380,16 +1380,6 @@
       "updatedAt": 1787306170234
     },
     {
-      "id": "point_2026082117561026",
-      "folderId": "folder_pure_korean",
-      "name": "泡菜_南港車站",
-      "lat": 25.053771,
-      "lng": 121.609742,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082117561026",
-      "updatedAt": 1787306170234
-    },
-    {
       "id": "point_2026082117561027",
       "folderId": "folder_pure_korean",
       "name": "泡菜_三元花園韓式餐廳",
@@ -1397,16 +1387,6 @@
       "lng": 120.598504,
       "source": "OFFICIAL",
       "officialId": "point_2026082117561027",
-      "updatedAt": 1787306170234
-    },
-    {
-      "id": "point_2026082117561028",
-      "folderId": "folder_pure_korean",
-      "name": "泡菜_新竹夯臭豆腐",
-      "lat": 24.809643,
-      "lng": 120.955038,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082117561028",
       "updatedAt": 1787306170234
     },
     {
@@ -1998,6 +1978,26 @@
       "source": "OFFICIAL",
       "officialId": "point_2026102913541901",
       "updatedAt": 1793253796024
+    },
+    {
+      "id": "point_2026102914090301",
+      "folderId": "folder_pure_korean",
+      "name": "泡菜_台南安平",
+      "lat": 22.993497,
+      "lng": 120.174141,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102914090301",
+      "updatedAt": 1793254557969
+    },
+    {
+      "id": "point_2026102914090302",
+      "folderId": "folder_pure_korean",
+      "name": "泡菜_新莊龍門",
+      "lat": 25.018759,
+      "lng": 121.423666,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102914090302",
+      "updatedAt": 1793254557969
     }
   ]
 }
