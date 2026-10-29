@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793248432302,
+  "updatedAt": 1793248905916,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -771,16 +771,6 @@
       "source": "OFFICIAL",
       "officialId": "point_20260622020800",
       "updatedAt": 1782094124366
-    },
-    {
-      "id": "point_20260801092812",
-      "folderId": "folder_pure_mexican",
-      "name": "塔可餅_台中",
-      "lat": 24.15233258914237,
-      "lng": 120.65639577805996,
-      "source": "OFFICIAL",
-      "officialId": "point_20260801092812",
-      "updatedAt": 1785930355000
     },
     {
       "id": "point_20260805154302",
@@ -1931,6 +1921,16 @@
       "source": "OFFICIAL",
       "officialId": "point_2026102912335201",
       "updatedAt": 1793248432302
+    },
+    {
+      "id": "point_2026102912414501",
+      "folderId": "folder_pure_mexican",
+      "name": "塔可餅_美國Zarzamora",
+      "lat": 29.40921,
+      "lng": -98.52961,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102912414501",
+      "updatedAt": 1793248905916
     }
   ]
 }
