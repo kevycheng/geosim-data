@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793247834935,
+  "updatedAt": 1793248965913,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -973,16 +973,6 @@
       "updatedAt": 1782094124366
     },
     {
-      "id": "point_20260801092812",
-      "folderId": "folder_pure_mexican",
-      "name": "塔可餅_台中",
-      "lat": 24.15233258914237,
-      "lng": 120.65639577805996,
-      "source": "OFFICIAL",
-      "officialId": "point_20260801092812",
-      "updatedAt": 1785930355000
-    },
-    {
       "id": "point_20260805154302",
       "folderId": "folder_pure_stadium",
       "name": "體育館_台北大巨蛋",
@@ -1120,16 +1110,6 @@
       "lng": 143.209487,
       "source": "OFFICIAL",
       "officialId": "point_2026082117493501",
-      "updatedAt": 1787305775622
-    },
-    {
-      "id": "point_2026082117493502",
-      "folderId": "folder_pure_shrine",
-      "name": "神社_東京傳通院",
-      "lat": 35.712419,
-      "lng": 139.746871,
-      "source": "OFFICIAL",
-      "officialId": "point_2026082117493502",
       "updatedAt": 1787305775622
     },
     {
@@ -1931,6 +1911,26 @@
       "source": "OFFICIAL",
       "officialId": "point_2026102912020203",
       "updatedAt": 1793247834935
+    },
+    {
+      "id": "point_2026102912335201",
+      "folderId": "folder_pure_shrine",
+      "name": "神社_大通寺",
+      "lat": 34.670639,
+      "lng": 135.522312,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102912335201",
+      "updatedAt": 1793248965913
+    },
+    {
+      "id": "point_2026102912414501",
+      "folderId": "folder_pure_mexican",
+      "name": "塔可餅_美國Zarzamora",
+      "lat": 29.40921,
+      "lng": -98.52961,
+      "source": "OFFICIAL",
+      "officialId": "point_2026102912414501",
+      "updatedAt": 1793248965913
     }
   ]
 }
