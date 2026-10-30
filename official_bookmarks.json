@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793254557969,
+  "updatedAt": 1793346134552,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -542,72 +542,72 @@
     {
       "id": "point_2026100216054301",
       "folderId": "folder_nashville_2026",
-      "name": "地點1",
+      "name": "禮物貼紙",
       "lat": 36.159024,
       "lng": -86.776504,
       "source": "OFFICIAL",
       "officialId": "point_2026100216054301",
-      "updatedAt": 1790928343279
+      "updatedAt": 1793346134552
     },
     {
       "id": "point_2026100216054302",
       "folderId": "folder_nashville_2026",
-      "name": "地點2",
+      "name": "管弦樂器",
       "lat": 36.16013,
       "lng": -86.775742,
       "source": "OFFICIAL",
       "officialId": "point_2026100216054302",
-      "updatedAt": 1790928343279
+      "updatedAt": 1793346134552
     },
     {
       "id": "point_2026100216054303",
       "folderId": "folder_nashville_2026",
-      "name": "地點3",
+      "name": "巧克力",
       "lat": 36.160984,
       "lng": -86.775365,
       "source": "OFFICIAL",
       "officialId": "point_2026100216054303",
-      "updatedAt": 1790928343279
+      "updatedAt": 1793346134552
     },
     {
       "id": "point_2026100216054304",
       "folderId": "folder_nashville_2026",
-      "name": "地點4",
+      "name": "照片鈕扣",
       "lat": 36.162446,
       "lng": -86.774053,
       "source": "OFFICIAL",
       "officialId": "point_2026100216054304",
-      "updatedAt": 1790928343279
+      "updatedAt": 1793346134552
     },
     {
       "id": "point_2026100216054305",
       "folderId": "folder_nashville_2026",
-      "name": "地點5",
+      "name": "冰淇淋 2024",
       "lat": 36.162744,
       "lng": -86.775954,
       "source": "OFFICIAL",
       "officialId": "point_2026100216054305",
-      "updatedAt": 1790928343279
+      "updatedAt": 1793346134552
     },
     {
       "id": "point_2026100216054306",
       "folderId": "folder_nashville_2026",
-      "name": "地點6",
+      "name": "銅管樂器",
       "lat": 36.161585,
       "lng": -86.777866,
       "source": "OFFICIAL",
       "officialId": "point_2026100216054306",
-      "updatedAt": 1790928343279
+      "updatedAt": 1793346134552
     },
     {
       "id": "point_2026100216054307",
       "folderId": "folder_nashville_2026",
-      "name": "地點7",
+      "name": "餐廳",
       "lat": 36.160785,
       "lng": -86.779836,
       "source": "OFFICIAL",
       "officialId": "point_2026100216054307",
-      "updatedAt": 1790928343279
+      "updatedAt": 1793346134552
     },
     {
       "id": "point_2026100621564601",
@@ -1998,6 +1998,16 @@
       "source": "OFFICIAL",
       "officialId": "point_2026102914090302",
       "updatedAt": 1793254557969
+    },
+    {
+      "id": "point_2026103015375101",
+      "folderId": "folder_nashville_2026",
+      "name": "活動限定明信片",
+      "lat": 36.1576,
+      "lng": -86.777,
+      "source": "OFFICIAL",
+      "officialId": "point_2026103015375101",
+      "updatedAt": 1793346134552
     }
   ]
 }
