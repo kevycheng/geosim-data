@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793346134552,
+  "updatedAt": 1793345871739,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -197,26 +197,6 @@
       "updatedAt": 1793237332965
     },
     {
-      "id": "folder_weekly_featured",
-      "name": "0.[每周精選] 主題:瀑布",
-      "source": "OFFICIAL",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "folder_weekly_featured_mushroom",
-      "name": "[菇] 主題: 瀑布",
-      "parentId": "folder_weekly_featured",
-      "source": "OFFICIAL",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "folder_weekly_featured_flower",
-      "name": "[花] 主題: 瀑布",
-      "parentId": "folder_weekly_featured",
-      "source": "OFFICIAL",
-      "updatedAt": 1792173689800
-    },
-    {
       "id": "folder_pure_salon",
       "name": "💇 美容院",
       "parentId": "folder_pure",
@@ -231,11 +211,31 @@
       "updatedAt": 1792381987279
     },
     {
+      "id": "folder_weekly_featured",
+      "name": "0.[每周精選] 主題:龍貓/吉卜力",
+      "source": "OFFICIAL",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "folder_weekly_featured_mushroom",
+      "name": "[菇] 主題: 龍貓/吉卜力",
+      "parentId": "folder_weekly_featured",
+      "source": "OFFICIAL",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "folder_weekly_featured_flower",
+      "name": "[花] 主題: 龍貓/吉卜力",
+      "parentId": "folder_weekly_featured",
+      "source": "OFFICIAL",
+      "updatedAt": 1792800448643
+    },
+    {
       "id": "folder_pure_cinema",
       "name": "🎬 電影院",
       "parentId": "folder_pure",
       "source": "OFFICIAL",
-      "updatedAt": 1793252765755
+      "updatedAt": 1793249675402
     }
   ],
   "bookmarks": [
@@ -547,7 +547,7 @@
       "lng": -86.776504,
       "source": "OFFICIAL",
       "officialId": "point_2026100216054301",
-      "updatedAt": 1793346134552
+      "updatedAt": 1793345871739
     },
     {
       "id": "point_2026100216054302",
@@ -557,7 +557,7 @@
       "lng": -86.775742,
       "source": "OFFICIAL",
       "officialId": "point_2026100216054302",
-      "updatedAt": 1793346134552
+      "updatedAt": 1793345871739
     },
     {
       "id": "point_2026100216054303",
@@ -567,7 +567,7 @@
       "lng": -86.775365,
       "source": "OFFICIAL",
       "officialId": "point_2026100216054303",
-      "updatedAt": 1793346134552
+      "updatedAt": 1793345871739
     },
     {
       "id": "point_2026100216054304",
@@ -577,7 +577,7 @@
       "lng": -86.774053,
       "source": "OFFICIAL",
       "officialId": "point_2026100216054304",
-      "updatedAt": 1793346134552
+      "updatedAt": 1793345871739
     },
     {
       "id": "point_2026100216054305",
@@ -587,7 +587,7 @@
       "lng": -86.775954,
       "source": "OFFICIAL",
       "officialId": "point_2026100216054305",
-      "updatedAt": 1793346134552
+      "updatedAt": 1793345871739
     },
     {
       "id": "point_2026100216054306",
@@ -597,7 +597,7 @@
       "lng": -86.777866,
       "source": "OFFICIAL",
       "officialId": "point_2026100216054306",
-      "updatedAt": 1793346134552
+      "updatedAt": 1793345871739
     },
     {
       "id": "point_2026100216054307",
@@ -607,7 +607,7 @@
       "lng": -86.779836,
       "source": "OFFICIAL",
       "officialId": "point_2026100216054307",
-      "updatedAt": 1793346134552
+      "updatedAt": 1793345871739
     },
     {
       "id": "point_2026100621564601",
@@ -678,206 +678,6 @@
       "source": "OFFICIAL",
       "officialId": "point_2026100621565708",
       "updatedAt": 1791295017702
-    },
-    {
-      "id": "pc_b7a795c82c9f4ce4b59a5ef01981b39d",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "萊希瀑布",
-      "lat": 47.562052,
-      "lng": 10.694721,
-      "source": "OFFICIAL",
-      "officialId": "pc_b7a795c82c9f4ce4b59a5ef01981b39d",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_743906acfbd343edb1b9c7a2824797b0",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "五丈の滝",
-      "lat": 40.173725,
-      "lng": 141.83699,
-      "source": "OFFICIAL",
-      "officialId": "pc_743906acfbd343edb1b9c7a2824797b0",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_3a4cd45372dc4db7adf7a9477d2701a1",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "姥湯温泉",
-      "lat": 37.760101,
-      "lng": 140.222087,
-      "source": "OFFICIAL",
-      "officialId": "pc_3a4cd45372dc4db7adf7a9477d2701a1",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_56c4676df6cf4ff7be6de0e4d6548cc5",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "斯科加瀑布解說牌",
-      "lat": 63.531846,
-      "lng": -19.510203,
-      "source": "OFFICIAL",
-      "officialId": "pc_56c4676df6cf4ff7be6de0e4d6548cc5",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_5b173fb0ee5d458ea4c3a4c19526b613",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "瀑畔涼亭",
-      "lat": 51.121759,
-      "lng": -114.145647,
-      "source": "OFFICIAL",
-      "officialId": "pc_5b173fb0ee5d458ea4c3a4c19526b613",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_be75d43125484ab99cb8e1748e186fbb",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "黃金瀑布",
-      "lat": 64.325232,
-      "lng": -20.124934,
-      "source": "OFFICIAL",
-      "officialId": "pc_be75d43125484ab99cb8e1748e186fbb",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_7761cec834b4485387dee75d7746152a",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "流光造景",
-      "lat": 25.059309,
-      "lng": 121.615732,
-      "source": "OFFICIAL",
-      "officialId": "pc_7761cec834b4485387dee75d7746152a",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_380c5d1f25a4464d9f91d6d7a80ce99d",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "潮汐漫步噴泉",
-      "lat": 34.089474,
-      "lng": -77.895163,
-      "source": "OFFICIAL",
-      "officialId": "pc_380c5d1f25a4464d9f91d6d7a80ce99d",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_b6eb70a4090349078e4a2a4b8b501e2c",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "寶可夢嬉遊壁畫",
-      "lat": 44.081981,
-      "lng": -121.30362,
-      "source": "OFFICIAL",
-      "officialId": "pc_b6eb70a4090349078e4a2a4b8b501e2c",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_34d9f753ec6f41b28dfeefbdeb964417",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "牛伏川 式階段工",
-      "lat": 36.161755,
-      "lng": 138.021435,
-      "source": "OFFICIAL",
-      "officialId": "pc_34d9f753ec6f41b28dfeefbdeb964417",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_af7ee60eb8c84bdaacfecb243d2b4e29",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "竜頭丿滝",
-      "lat": 36.758375,
-      "lng": 139.451542,
-      "source": "OFFICIAL",
-      "officialId": "pc_af7ee60eb8c84bdaacfecb243d2b4e29",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_51044792365f4089bdff3472bec9b14b",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "翠滝の東屋",
-      "lat": 37.291855,
-      "lng": 140.381271,
-      "source": "OFFICIAL",
-      "officialId": "pc_51044792365f4089bdff3472bec9b14b",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_d8460c0df2494e73b45e7ef662e4b233",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "米迦勒之翼・運河漫步之秋",
-      "lat": 37.400765,
-      "lng": 126.638283,
-      "source": "OFFICIAL",
-      "officialId": "pc_d8460c0df2494e73b45e7ef662e4b233",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_105743d5b1d24195a79e024435b1e322",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "層疊噴泉池",
-      "lat": -37.80988,
-      "lng": 144.977421,
-      "source": "OFFICIAL",
-      "officialId": "pc_105743d5b1d24195a79e024435b1e322",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_f873acbed9274a979999b4a88ff22b5d",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "費爾菲爾德酒店泳池",
-      "lat": 38.605383,
-      "lng": -109.582001,
-      "source": "OFFICIAL",
-      "officialId": "pc_f873acbed9274a979999b4a88ff22b5d",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_48bc8e5cb08942f3ad64b67c14e189b8",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "鼓刁滝",
-      "lat": 34.789277,
-      "lng": 135.245852,
-      "source": "OFFICIAL",
-      "officialId": "pc_48bc8e5cb08942f3ad64b67c14e189b8",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_8f84fcc7b623432a9db05979a3d16a0b",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "潟湖飛瀑",
-      "lat": 4.968889,
-      "lng": 114.852128,
-      "source": "OFFICIAL",
-      "officialId": "pc_8f84fcc7b623432a9db05979a3d16a0b",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_32bd1c6b54cf43c2874d21144f8c467a",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "亭中閒",
-      "lat": 24.340926,
-      "lng": 120.781982,
-      "source": "OFFICIAL",
-      "officialId": "pc_32bd1c6b54cf43c2874d21144f8c467a",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_30c256e372d74fc3b0cc82c1282f4d24",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "萊茵瀑布觀景臺",
-      "lat": 47.680406,
-      "lng": 8.615141,
-      "source": "OFFICIAL",
-      "officialId": "pc_30c256e372d74fc3b0cc82c1282f4d24",
-      "updatedAt": 1792173689800
-    },
-    {
-      "id": "pc_db3fd14d79744eb49bf2825467310b2e",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "飛瀑流泉",
-      "lat": 17.484027,
-      "lng": 106.600904,
-      "source": "OFFICIAL",
-      "officialId": "pc_db3fd14d79744eb49bf2825467310b2e",
-      "updatedAt": 1792173689800
     },
     {
       "id": "point_new_2",
@@ -1780,6 +1580,206 @@
       "updatedAt": 1792381986093
     },
     {
+      "id": "pc_1c4122c1b2d046f4a038a7472f3956da",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "戶外嶺貓巴士",
+      "lat": 43.691553,
+      "lng": 142.097576,
+      "source": "OFFICIAL",
+      "officialId": "pc_1c4122c1b2d046f4a038a7472f3956da",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_5fc1ed7cf4b14438a02e0adfdf137e63",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "嘉義公車路龍貓",
+      "lat": 23.592118,
+      "lng": 120.355486,
+      "source": "OFFICIAL",
+      "officialId": "pc_5fc1ed7cf4b14438a02e0adfdf137e63",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_369ce892b11448dea091138f06dc04f8",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "崖上的波妞壁畫",
+      "lat": -34.592279,
+      "lng": -58.635043,
+      "source": "OFFICIAL",
+      "officialId": "pc_369ce892b11448dea091138f06dc04f8",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_45fc442c9b004e9ca5d42a497849dff0",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "龍貓雕像",
+      "lat": 29.543793,
+      "lng": -95.145634,
+      "source": "OFFICIAL",
+      "officialId": "pc_45fc442c9b004e9ca5d42a497849dff0",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_c27e93349e4f42a1a0c750463c22a1c6",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "龍貓造景藝術",
+      "lat": 35.787622,
+      "lng": 139.388451,
+      "source": "OFFICIAL",
+      "officialId": "pc_c27e93349e4f42a1a0c750463c22a1c6",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_052cfd59353a4052bd3731f29770f793",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "七國山公車站",
+      "lat": 34.8875029,
+      "lng": 139.1118598,
+      "source": "OFFICIAL",
+      "officialId": "pc_052cfd59353a4052bd3731f29770f793",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_f732b3dc3cb14532bb8835f09c299ef5",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "女孩與貓咪彩繪壁畫",
+      "lat": 15.520604,
+      "lng": -88.023185,
+      "source": "OFFICIAL",
+      "officialId": "pc_f732b3dc3cb14532bb8835f09c299ef5",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_3adc061536ac45a0af0b63df4f2b8b10",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "童趣龍貓雕塑",
+      "lat": 42.733858,
+      "lng": 142.349624,
+      "source": "OFFICIAL",
+      "officialId": "pc_3adc061536ac45a0af0b63df4f2b8b10",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_d8e2e5ca886c487a9239484b0e2b2e6c",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "龍貓乘涼彩繪",
+      "lat": -34.594122,
+      "lng": -58.62995,
+      "source": "OFFICIAL",
+      "officialId": "pc_d8e2e5ca886c487a9239484b0e2b2e6c",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_639af5d3e91944b18008f302c8bda2b0",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "龍貓岩 トトロ岩(権現岩)",
+      "lat": 37.23643,
+      "lng": 136.7007,
+      "source": "OFFICIAL",
+      "officialId": "pc_639af5d3e91944b18008f302c8bda2b0",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_d176c986543d442a838d3939d45dfd4c",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "龍貓樹籬綠雕",
+      "lat": 35.171228,
+      "lng": 136.883047,
+      "source": "OFFICIAL",
+      "officialId": "pc_d176c986543d442a838d3939d45dfd4c",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_0cf5fa0138264bb49d084fbc25aa11de",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "貓巴士彩繪站牌",
+      "lat": 24.304048,
+      "lng": 120.709564,
+      "source": "OFFICIAL",
+      "officialId": "pc_0cf5fa0138264bb49d084fbc25aa11de",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_e24b65afdf3744968bc13ff5488a44fc",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "貓巴士路標",
+      "lat": 26.393535,
+      "lng": 127.750506,
+      "source": "OFFICIAL",
+      "officialId": "pc_e24b65afdf3744968bc13ff5488a44fc",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_0cdada3bef1f4667a1bf45efd36d22b1",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "龍貓",
+      "lat": -34.89379127629876,
+      "lng": -57.93398331437695,
+      "source": "OFFICIAL",
+      "officialId": "pc_0cdada3bef1f4667a1bf45efd36d22b1",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_a68c92d513b54fd18787307f774a0471",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "龍貓",
+      "lat": 35.169715,
+      "lng": 137.093622,
+      "source": "OFFICIAL",
+      "officialId": "pc_a68c92d513b54fd18787307f774a0471",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_550a1b755b00447da081bf840f2f1491",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "龍貓",
+      "lat": 26.262363,
+      "lng": 127.69843,
+      "source": "OFFICIAL",
+      "officialId": "pc_550a1b755b00447da081bf840f2f1491",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_e0712c735a004c04b749a44795914e1a",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "田心村社區壁畫：霍爾的移動城堡",
+      "lat": 22.433554,
+      "lng": 113.991316,
+      "source": "OFFICIAL",
+      "officialId": "pc_e0712c735a004c04b749a44795914e1a",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_e957bcf630794fef876b6d5b7e16fbb4",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "龍貓彩繪壁畫",
+      "lat": 48.948195,
+      "lng": 8.400814,
+      "source": "OFFICIAL",
+      "officialId": "pc_e957bcf630794fef876b6d5b7e16fbb4",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_09018df352e64aff88d07f4febb8c8d0",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "台南大內豆豆龍彩繪",
+      "lat": 22.973568,
+      "lng": 120.213824,
+      "source": "OFFICIAL",
+      "officialId": "pc_09018df352e64aff88d07f4febb8c8d0",
+      "updatedAt": 1792800448643
+    },
+    {
+      "id": "pc_9b542a31eb7e43b68bbc84e145037096",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "雲頂高原龍貓公車站",
+      "lat": 3.3824,
+      "lng": 101.774482,
+      "source": "OFFICIAL",
+      "officialId": "pc_9b542a31eb7e43b68bbc84e145037096",
+      "updatedAt": 1792800448643
+    },
+    {
       "id": "point_melbourne_mini_walk_01",
       "folderId": "folder_melbourne_mini_walk",
       "name": "🍀 四葉草",
@@ -1847,7 +1847,7 @@
       "lng": 120.693385,
       "source": "OFFICIAL",
       "officialId": "point_2026102912020201",
-      "updatedAt": 1793247834935
+      "updatedAt": 1793246522397
     },
     {
       "id": "point_2026102912020202",
@@ -1857,7 +1857,7 @@
       "lng": 121.512349,
       "source": "OFFICIAL",
       "officialId": "point_2026102912020202",
-      "updatedAt": 1793247834935
+      "updatedAt": 1793246522397
     },
     {
       "id": "point_2026102912020203",
@@ -1867,7 +1867,7 @@
       "lng": 120.870913,
       "source": "OFFICIAL",
       "officialId": "point_2026102912020203",
-      "updatedAt": 1793247834935
+      "updatedAt": 1793246522397
     },
     {
       "id": "point_2026102912335201",
@@ -1877,7 +1877,7 @@
       "lng": 135.522312,
       "source": "OFFICIAL",
       "officialId": "point_2026102912335201",
-      "updatedAt": 1793248965913
+      "updatedAt": 1793248432302
     },
     {
       "id": "point_2026102912414501",
@@ -1887,7 +1887,7 @@
       "lng": -98.52961,
       "source": "OFFICIAL",
       "officialId": "point_2026102912414501",
-      "updatedAt": 1793248965913
+      "updatedAt": 1793248905916
     },
     {
       "id": "point_2026102912543505",
@@ -1897,7 +1897,7 @@
       "lng": 120.4322,
       "source": "OFFICIAL",
       "officialId": "point_2026102912543505",
-      "updatedAt": 1793252765755
+      "updatedAt": 1793249675402
     },
     {
       "id": "point_2026102913421301",
@@ -1907,7 +1907,7 @@
       "lng": 5.6725779,
       "source": "OFFICIAL",
       "officialId": "point_2026102913421301",
-      "updatedAt": 1793252765755
+      "updatedAt": 1793252533050
     },
     {
       "id": "point_2026102913421302",
@@ -1917,7 +1917,7 @@
       "lng": -73.714883,
       "source": "OFFICIAL",
       "officialId": "point_2026102913421302",
-      "updatedAt": 1793252765755
+      "updatedAt": 1793252533050
     },
     {
       "id": "point_2026102913421303",
@@ -1927,7 +1927,7 @@
       "lng": -0.3280474,
       "source": "OFFICIAL",
       "officialId": "point_2026102913421303",
-      "updatedAt": 1793252765755
+      "updatedAt": 1793252533050
     },
     {
       "id": "point_2026102913421304",
@@ -1937,7 +1937,7 @@
       "lng": -6.352357508797101,
       "source": "OFFICIAL",
       "officialId": "point_2026102913421304",
-      "updatedAt": 1793252765755
+      "updatedAt": 1793252533050
     },
     {
       "id": "point_2026102913421305",
@@ -1947,7 +1947,7 @@
       "lng": 103.9454685,
       "source": "OFFICIAL",
       "officialId": "point_2026102913421305",
-      "updatedAt": 1793252765755
+      "updatedAt": 1793252533050
     },
     {
       "id": "point_2026102913502701",
@@ -1957,7 +1957,7 @@
       "lng": 120.3444268,
       "source": "OFFICIAL",
       "officialId": "point_2026102913502701",
-      "updatedAt": 1793253138045
+      "updatedAt": 1793253027457
     },
     {
       "id": "point_2026102913502702",
@@ -1967,7 +1967,7 @@
       "lng": 121.5718815,
       "source": "OFFICIAL",
       "officialId": "point_2026102913502702",
-      "updatedAt": 1793253138045
+      "updatedAt": 1793253027457
     },
     {
       "id": "point_2026102913541901",
@@ -1977,7 +1977,7 @@
       "lng": 121.451196,
       "source": "OFFICIAL",
       "officialId": "point_2026102913541901",
-      "updatedAt": 1793253796024
+      "updatedAt": 1793253259243
     },
     {
       "id": "point_2026102914090301",
@@ -1987,7 +1987,7 @@
       "lng": 120.174141,
       "source": "OFFICIAL",
       "officialId": "point_2026102914090301",
-      "updatedAt": 1793254557969
+      "updatedAt": 1793254143811
     },
     {
       "id": "point_2026102914090302",
@@ -1997,7 +1997,7 @@
       "lng": 121.423666,
       "source": "OFFICIAL",
       "officialId": "point_2026102914090302",
-      "updatedAt": 1793254557969
+      "updatedAt": 1793254143811
     },
     {
       "id": "point_2026103015375101",
@@ -2007,7 +2007,7 @@
       "lng": -86.777,
       "source": "OFFICIAL",
       "officialId": "point_2026103015375101",
-      "updatedAt": 1793346134552
+      "updatedAt": 1793345871739
     }
   ]
 }
