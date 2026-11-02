@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793634364125,
+  "updatedAt": 1793634384673,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -2035,6 +2035,16 @@
       "source": "OFFICIAL",
       "officialId": "point_2026110223460101",
       "updatedAt": 1793634361221
+    },
+    {
+      "id": "point_2026110223462401",
+      "folderId": "folder_pure_sushi",
+      "name": "壽司_日本尼崎",
+      "lat": 34.7338961,
+      "lng": 135.4042126,
+      "source": "OFFICIAL",
+      "officialId": "point_2026110223462401",
+      "updatedAt": 1793634384408
     }
   ]
 }
