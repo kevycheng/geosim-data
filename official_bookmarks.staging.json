@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793404893754,
+  "updatedAt": 1793634313121,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -236,6 +236,13 @@
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
       "updatedAt": 1793404893754
+    },
+    {
+      "id": "folder_pure_sushi",
+      "name": "🍣 壽司",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1793634313121
     }
   ],
   "bookmarks": [
@@ -678,6 +685,276 @@
       "source": "OFFICIAL",
       "officialId": "point_2026100621565708",
       "updatedAt": 1791295017702
+    },
+    {
+      "id": "point_melbourne_mini_walk_01",
+      "folderId": "folder_melbourne_mini_walk",
+      "name": "🍀 四葉草",
+      "lat": -37.806229,
+      "lng": 144.970303,
+      "source": "OFFICIAL",
+      "officialId": "point_melbourne_mini_walk_01",
+      "updatedAt": 1793237332965
+    },
+    {
+      "id": "point_melbourne_mini_walk_02",
+      "folderId": "folder_melbourne_mini_walk",
+      "name": "📖 迷你書",
+      "lat": -37.8100005,
+      "lng": 144.9644355,
+      "source": "OFFICIAL",
+      "officialId": "point_melbourne_mini_walk_02",
+      "updatedAt": 1793237332965
+    },
+    {
+      "id": "point_melbourne_mini_walk_03",
+      "folderId": "folder_melbourne_mini_walk",
+      "name": "🍫 巧克力",
+      "lat": -37.8106646,
+      "lng": 144.9630521,
+      "source": "OFFICIAL",
+      "officialId": "point_melbourne_mini_walk_03",
+      "updatedAt": 1793237332965
+    },
+    {
+      "id": "point_melbourne_mini_walk_04",
+      "folderId": "folder_melbourne_mini_walk",
+      "name": "🍰 糕點",
+      "lat": -37.810885,
+      "lng": 144.963936,
+      "source": "OFFICIAL",
+      "officialId": "point_melbourne_mini_walk_04",
+      "updatedAt": 1793237332965
+    },
+    {
+      "id": "point_melbourne_mini_walk_05",
+      "folderId": "folder_melbourne_mini_walk",
+      "name": "🛸 宇宙船",
+      "lat": -37.8101367,
+      "lng": 144.9631035,
+      "source": "OFFICIAL",
+      "officialId": "point_melbourne_mini_walk_05",
+      "updatedAt": 1793237332965
+    },
+    {
+      "id": "point_melbourne_mini_walk_06",
+      "folderId": "folder_melbourne_mini_walk",
+      "name": "☕️ 下午茶",
+      "lat": -37.811992,
+      "lng": 144.960461,
+      "source": "OFFICIAL",
+      "officialId": "point_melbourne_mini_walk_06",
+      "updatedAt": 1793237332965
+    },
+    {
+      "id": "point_2026103015375101",
+      "folderId": "folder_nashville_2026",
+      "name": "活動限定明信片",
+      "lat": 36.1576,
+      "lng": -86.777,
+      "source": "OFFICIAL",
+      "officialId": "point_2026103015375101",
+      "updatedAt": 1793345871739
+    },
+    {
+      "id": "pc_70da88ecaa3d41e1bef52897a33d967e",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "能登鹿島駅",
+      "lat": 37.179958,
+      "lng": 136.898209,
+      "source": "OFFICIAL",
+      "officialId": "pc_70da88ecaa3d41e1bef52897a33d967e",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_68c4e04c59c74f1aa3bea60c7af79574",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "甲斐上野城",
+      "lat": 35.567442,
+      "lng": 138.521023,
+      "source": "OFFICIAL",
+      "officialId": "pc_68c4e04c59c74f1aa3bea60c7af79574",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_38171028eb994257915657af7fff87cf",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "腕公園の東屋",
+      "lat": 34.550134,
+      "lng": 133.709771,
+      "source": "OFFICIAL",
+      "officialId": "pc_38171028eb994257915657af7fff87cf",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_41423b752cc0460c8db45d6a6812b28f",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "東屋",
+      "lat": 35.604265,
+      "lng": 138.610743,
+      "source": "OFFICIAL",
+      "officialId": "pc_41423b752cc0460c8db45d6a6812b28f",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_e48123a197b34ab18ed010daf1d4d89b",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "紀念碑時鐘",
+      "lat": 37.638042,
+      "lng": 140.985703,
+      "source": "OFFICIAL",
+      "officialId": "pc_e48123a197b34ab18ed010daf1d4d89b",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_c3a569e5a9674eb1888da73f01a128c7",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "法隆寺",
+      "lat": 42.354014,
+      "lng": 142.354183,
+      "source": "OFFICIAL",
+      "officialId": "pc_c3a569e5a9674eb1888da73f01a128c7",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_3fb1a722dcf34fb6ba8df3030ef49d81",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "海津大崎の桜",
+      "lat": 35.462683,
+      "lng": 136.080494,
+      "source": "OFFICIAL",
+      "officialId": "pc_3fb1a722dcf34fb6ba8df3030ef49d81",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_2e36187db1934246baf3cbaf7abf2c40",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "長岡槇山八幡宮",
+      "lat": 37.481528,
+      "lng": 138.840182,
+      "source": "OFFICIAL",
+      "officialId": "pc_2e36187db1934246baf3cbaf7abf2c40",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_82691285f7ca4e6982d65011be0e368d",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "津嶋神社",
+      "lat": 38.138826,
+      "lng": 140.017912,
+      "source": "OFFICIAL",
+      "officialId": "pc_82691285f7ca4e6982d65011be0e368d",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "cmm7gvs2u002qoj01dvwgfy03",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "憩いの場櫻亭",
+      "lat": 37.996643,
+      "lng": 138.369633,
+      "source": "OFFICIAL",
+      "officialId": "cmm7gvs2u002qoj01dvwgfy03",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_5b47bf1e17ad4704b9336deb4a1de747",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "富士芝桜",
+      "lat": 35.44244,
+      "lng": 138.602958,
+      "source": "OFFICIAL",
+      "officialId": "pc_5b47bf1e17ad4704b9336deb4a1de747",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_5ccff9d74df84260a9cba829f3959585",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "太鼓橋",
+      "lat": 37.290405,
+      "lng": 140.379954,
+      "source": "OFFICIAL",
+      "officialId": "pc_5ccff9d74df84260a9cba829f3959585",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_c693276bb27542ce8f8fbaa777a69e43",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "植物園樹木手帖【枝垂櫻】",
+      "lat": 35.049397,
+      "lng": 135.761973,
+      "source": "OFFICIAL",
+      "officialId": "pc_c693276bb27542ce8f8fbaa777a69e43",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_22c83850b57e444c96248583f3105ea3",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "熊本城 天守閣",
+      "lat": 32.806215,
+      "lng": 130.705864,
+      "source": "OFFICIAL",
+      "officialId": "pc_22c83850b57e444c96248583f3105ea3",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_c237715049794cdeb47a026004ebf8c6",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "大阪城",
+      "lat": 34.687377,
+      "lng": 135.525828,
+      "source": "OFFICIAL",
+      "officialId": "pc_c237715049794cdeb47a026004ebf8c6",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_45d0532299d14fd1b81b747c0512928e",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "爱宕隧道",
+      "lat": 35.664088,
+      "lng": 139.748818,
+      "source": "OFFICIAL",
+      "officialId": "pc_45d0532299d14fd1b81b747c0512928e",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_450934d99a1f470ea480fb6280fa12c7",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "稻荷神社 鳥居",
+      "lat": 33.563719,
+      "lng": 131.368601,
+      "source": "OFFICIAL",
+      "officialId": "pc_450934d99a1f470ea480fb6280fa12c7",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_2aad1eb687734a859ccc6a9d1773564d",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "日枝神社",
+      "lat": 35.101205,
+      "lng": 138.868857,
+      "source": "OFFICIAL",
+      "officialId": "pc_2aad1eb687734a859ccc6a9d1773564d",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_629bcdec235b48dbb216486ef5657247",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "煤氣燈",
+      "lat": 36.6951725,
+      "lng": 137.2149042,
+      "source": "OFFICIAL",
+      "officialId": "pc_629bcdec235b48dbb216486ef5657247",
+      "updatedAt": 1793404893754
+    },
+    {
+      "id": "pc_740fe94dee7b4e8883943afb806251f6",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "円通寺",
+      "lat": 35.502876,
+      "lng": 138.767754,
+      "source": "OFFICIAL",
+      "officialId": "pc_740fe94dee7b4e8883943afb806251f6",
+      "updatedAt": 1793404893754
     },
     {
       "id": "point_new_2",
@@ -1580,66 +1857,6 @@
       "updatedAt": 1792381986093
     },
     {
-      "id": "point_melbourne_mini_walk_01",
-      "folderId": "folder_melbourne_mini_walk",
-      "name": "🍀 四葉草",
-      "lat": -37.806229,
-      "lng": 144.970303,
-      "source": "OFFICIAL",
-      "officialId": "point_melbourne_mini_walk_01",
-      "updatedAt": 1793237332965
-    },
-    {
-      "id": "point_melbourne_mini_walk_02",
-      "folderId": "folder_melbourne_mini_walk",
-      "name": "📖 迷你書",
-      "lat": -37.8100005,
-      "lng": 144.9644355,
-      "source": "OFFICIAL",
-      "officialId": "point_melbourne_mini_walk_02",
-      "updatedAt": 1793237332965
-    },
-    {
-      "id": "point_melbourne_mini_walk_03",
-      "folderId": "folder_melbourne_mini_walk",
-      "name": "🍫 巧克力",
-      "lat": -37.8106646,
-      "lng": 144.9630521,
-      "source": "OFFICIAL",
-      "officialId": "point_melbourne_mini_walk_03",
-      "updatedAt": 1793237332965
-    },
-    {
-      "id": "point_melbourne_mini_walk_04",
-      "folderId": "folder_melbourne_mini_walk",
-      "name": "🍰 糕點",
-      "lat": -37.810885,
-      "lng": 144.963936,
-      "source": "OFFICIAL",
-      "officialId": "point_melbourne_mini_walk_04",
-      "updatedAt": 1793237332965
-    },
-    {
-      "id": "point_melbourne_mini_walk_05",
-      "folderId": "folder_melbourne_mini_walk",
-      "name": "🛸 宇宙船",
-      "lat": -37.8101367,
-      "lng": 144.9631035,
-      "source": "OFFICIAL",
-      "officialId": "point_melbourne_mini_walk_05",
-      "updatedAt": 1793237332965
-    },
-    {
-      "id": "point_melbourne_mini_walk_06",
-      "folderId": "folder_melbourne_mini_walk",
-      "name": "☕️ 下午茶",
-      "lat": -37.811992,
-      "lng": 144.960461,
-      "source": "OFFICIAL",
-      "officialId": "point_melbourne_mini_walk_06",
-      "updatedAt": 1793237332965
-    },
-    {
       "id": "point_2026102912020201",
       "folderId": "folder_pure_dessert",
       "name": "甜點_101男士專業理髮店",
@@ -1800,214 +2017,14 @@
       "updatedAt": 1793254143811
     },
     {
-      "id": "point_2026103015375101",
-      "folderId": "folder_nashville_2026",
-      "name": "活動限定明信片",
-      "lat": 36.1576,
-      "lng": -86.777,
+      "id": "point_2026110223451201",
+      "folderId": "folder_pure_sushi",
+      "name": "壽司_台中",
+      "lat": 24.1799523,
+      "lng": 120.6417323,
       "source": "OFFICIAL",
-      "officialId": "point_2026103015375101",
-      "updatedAt": 1793345871739
-    },
-    {
-      "id": "pc_70da88ecaa3d41e1bef52897a33d967e",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "能登鹿島駅",
-      "lat": 37.179958,
-      "lng": 136.898209,
-      "source": "OFFICIAL",
-      "officialId": "pc_70da88ecaa3d41e1bef52897a33d967e",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_68c4e04c59c74f1aa3bea60c7af79574",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "甲斐上野城",
-      "lat": 35.567442,
-      "lng": 138.521023,
-      "source": "OFFICIAL",
-      "officialId": "pc_68c4e04c59c74f1aa3bea60c7af79574",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_38171028eb994257915657af7fff87cf",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "腕公園の東屋",
-      "lat": 34.550134,
-      "lng": 133.709771,
-      "source": "OFFICIAL",
-      "officialId": "pc_38171028eb994257915657af7fff87cf",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_41423b752cc0460c8db45d6a6812b28f",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "東屋",
-      "lat": 35.604265,
-      "lng": 138.610743,
-      "source": "OFFICIAL",
-      "officialId": "pc_41423b752cc0460c8db45d6a6812b28f",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_e48123a197b34ab18ed010daf1d4d89b",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "紀念碑時鐘",
-      "lat": 37.638042,
-      "lng": 140.985703,
-      "source": "OFFICIAL",
-      "officialId": "pc_e48123a197b34ab18ed010daf1d4d89b",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_c3a569e5a9674eb1888da73f01a128c7",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "法隆寺",
-      "lat": 42.354014,
-      "lng": 142.354183,
-      "source": "OFFICIAL",
-      "officialId": "pc_c3a569e5a9674eb1888da73f01a128c7",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_3fb1a722dcf34fb6ba8df3030ef49d81",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "海津大崎の桜",
-      "lat": 35.462683,
-      "lng": 136.080494,
-      "source": "OFFICIAL",
-      "officialId": "pc_3fb1a722dcf34fb6ba8df3030ef49d81",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_2e36187db1934246baf3cbaf7abf2c40",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "長岡槇山八幡宮",
-      "lat": 37.481528,
-      "lng": 138.840182,
-      "source": "OFFICIAL",
-      "officialId": "pc_2e36187db1934246baf3cbaf7abf2c40",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_82691285f7ca4e6982d65011be0e368d",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "津嶋神社",
-      "lat": 38.138826,
-      "lng": 140.017912,
-      "source": "OFFICIAL",
-      "officialId": "pc_82691285f7ca4e6982d65011be0e368d",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "cmm7gvs2u002qoj01dvwgfy03",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "憩いの場櫻亭",
-      "lat": 37.996643,
-      "lng": 138.369633,
-      "source": "OFFICIAL",
-      "officialId": "cmm7gvs2u002qoj01dvwgfy03",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_5b47bf1e17ad4704b9336deb4a1de747",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "富士芝桜",
-      "lat": 35.44244,
-      "lng": 138.602958,
-      "source": "OFFICIAL",
-      "officialId": "pc_5b47bf1e17ad4704b9336deb4a1de747",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_5ccff9d74df84260a9cba829f3959585",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "太鼓橋",
-      "lat": 37.290405,
-      "lng": 140.379954,
-      "source": "OFFICIAL",
-      "officialId": "pc_5ccff9d74df84260a9cba829f3959585",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_c693276bb27542ce8f8fbaa777a69e43",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "植物園樹木手帖【枝垂櫻】",
-      "lat": 35.049397,
-      "lng": 135.761973,
-      "source": "OFFICIAL",
-      "officialId": "pc_c693276bb27542ce8f8fbaa777a69e43",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_22c83850b57e444c96248583f3105ea3",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "熊本城 天守閣",
-      "lat": 32.806215,
-      "lng": 130.705864,
-      "source": "OFFICIAL",
-      "officialId": "pc_22c83850b57e444c96248583f3105ea3",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_c237715049794cdeb47a026004ebf8c6",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "大阪城",
-      "lat": 34.687377,
-      "lng": 135.525828,
-      "source": "OFFICIAL",
-      "officialId": "pc_c237715049794cdeb47a026004ebf8c6",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_45d0532299d14fd1b81b747c0512928e",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "爱宕隧道",
-      "lat": 35.664088,
-      "lng": 139.748818,
-      "source": "OFFICIAL",
-      "officialId": "pc_45d0532299d14fd1b81b747c0512928e",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_450934d99a1f470ea480fb6280fa12c7",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "稻荷神社 鳥居",
-      "lat": 33.563719,
-      "lng": 131.368601,
-      "source": "OFFICIAL",
-      "officialId": "pc_450934d99a1f470ea480fb6280fa12c7",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_2aad1eb687734a859ccc6a9d1773564d",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "日枝神社",
-      "lat": 35.101205,
-      "lng": 138.868857,
-      "source": "OFFICIAL",
-      "officialId": "pc_2aad1eb687734a859ccc6a9d1773564d",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_629bcdec235b48dbb216486ef5657247",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "煤氣燈",
-      "lat": 36.6951725,
-      "lng": 137.2149042,
-      "source": "OFFICIAL",
-      "officialId": "pc_629bcdec235b48dbb216486ef5657247",
-      "updatedAt": 1793404893754
-    },
-    {
-      "id": "pc_740fe94dee7b4e8883943afb806251f6",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "円通寺",
-      "lat": 35.502876,
-      "lng": 138.767754,
-      "source": "OFFICIAL",
-      "officialId": "pc_740fe94dee7b4e8883943afb806251f6",
-      "updatedAt": 1793404893754
+      "officialId": "point_2026110223451201",
+      "updatedAt": 1793634312964
     }
   ]
 }
