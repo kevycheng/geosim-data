@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793345871739,
+  "updatedAt": 1793634335358,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -236,6 +236,13 @@
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1793249675402
+    },
+    {
+      "id": "folder_pure_sushi",
+      "name": "🍣 壽司",
+      "parentId": "folder_pure",
+      "source": "OFFICIAL",
+      "updatedAt": 1793634313121
     }
   ],
   "bookmarks": [
@@ -2008,6 +2015,16 @@
       "source": "OFFICIAL",
       "officialId": "point_2026103015375101",
       "updatedAt": 1793345871739
+    },
+    {
+      "id": "point_2026110223451201",
+      "folderId": "folder_pure_sushi",
+      "name": "壽司_台中",
+      "lat": 24.1799523,
+      "lng": 120.6417323,
+      "source": "OFFICIAL",
+      "officialId": "point_2026110223451201",
+      "updatedAt": 1793634312964
     }
   ]
 }
