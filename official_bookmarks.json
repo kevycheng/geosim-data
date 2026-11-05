@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793634425481,
+  "updatedAt": 1793840753450,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -243,6 +243,13 @@
       "parentId": "folder_pure",
       "source": "OFFICIAL",
       "updatedAt": 1793634313121
+    },
+    {
+      "id": "folder_lotte_2026",
+      "name": "樂天活動",
+      "parentId": "folder_gold_pots",
+      "source": "OFFICIAL",
+      "updatedAt": 1793838102797
     }
   ],
   "bookmarks": [
@@ -2065,6 +2072,16 @@
       "source": "OFFICIAL",
       "officialId": "point_2026110223470501",
       "updatedAt": 1793634425206
+    },
+    {
+      "id": "point_2026110508214201",
+      "folderId": "folder_lotte_2026",
+      "name": "樂天百貨B1",
+      "lat": 37.5799,
+      "lng": 127.0462,
+      "source": "OFFICIAL",
+      "officialId": "point_2026110508214201",
+      "updatedAt": 1793838102797
     }
   ]
 }
