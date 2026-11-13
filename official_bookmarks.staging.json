@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1793988087644,
+  "updatedAt": 1794592893788,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -219,23 +219,23 @@
     },
     {
       "id": "folder_weekly_featured",
-      "name": "0.[每周精選] 主題:迪士尼",
+      "name": "0.[每周精選] 主題:任天堂/瑪利歐",
       "source": "OFFICIAL",
-      "updatedAt": 1793988087644
+      "updatedAt": 1794592893788
     },
     {
       "id": "folder_weekly_featured_mushroom",
-      "name": "[菇] 主題: 迪士尼",
+      "name": "[菇] 主題: 任天堂/瑪利歐",
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
-      "updatedAt": 1793988087644
+      "updatedAt": 1794592893788
     },
     {
       "id": "folder_weekly_featured_flower",
-      "name": "[花] 主題: 迪士尼",
+      "name": "[花] 主題: 任天堂/瑪利歐",
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
-      "updatedAt": 1793988087644
+      "updatedAt": 1794592893788
     }
   ],
   "bookmarks": [
@@ -1730,204 +1730,204 @@
       "updatedAt": 1793838102797
     },
     {
-      "id": "pc_3f67d1321a0e4502a10bb6d076710658",
+      "id": "pc_3e2eb7a994ea4f608d8c58165a964820",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "阿倫黛爾城堡",
-      "lat": 22.312564,
-      "lng": 114.038748,
+      "name": "瑪利歐賽車壁畫",
+      "lat": 20.674489,
+      "lng": -101.355917,
       "source": "OFFICIAL",
-      "officialId": "pc_3f67d1321a0e4502a10bb6d076710658",
-      "updatedAt": 1793988087644
+      "officialId": "pc_3e2eb7a994ea4f608d8c58165a964820",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_c85827a6a2c1453daf337913b764fd9b",
+      "id": "pc_a3d78882ab034e8d930b2d9b21f043d5",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "香港迪士尼樂園奇妙夢想城堡",
-      "lat": 22.312629,
-      "lng": 114.041188,
+      "name": "強大的庫巴雕像",
+      "lat": 34.141017,
+      "lng": -118.358079,
       "source": "OFFICIAL",
-      "officialId": "pc_c85827a6a2c1453daf337913b764fd9b",
-      "updatedAt": 1793988087644
+      "officialId": "pc_a3d78882ab034e8d930b2d9b21f043d5",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_3e8a94e092eb440f8201a74a31349b9e",
+      "id": "pc_f284080a1a794c33b74b0642e4560e37",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "愛麗絲夢遊仙境黑光壁畫",
-      "lat": 39.76233,
-      "lng": -121.619986,
+      "name": "超級瑪利歐",
+      "lat": 22.372554,
+      "lng": 114.179817,
       "source": "OFFICIAL",
-      "officialId": "pc_3e8a94e092eb440f8201a74a31349b9e",
-      "updatedAt": 1793988087644
+      "officialId": "pc_f284080a1a794c33b74b0642e4560e37",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_f54dc670a2044d1096d15f156e5ab5a8",
+      "id": "pc_8d3148bed83f4fbfabe718ff426e88c9",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "邪惡唐老鴨",
-      "lat": 13.709995,
-      "lng": -89.194951,
+      "name": "阿特拉斯",
+      "lat": 40.758949,
+      "lng": -73.977185,
       "source": "OFFICIAL",
-      "officialId": "pc_f54dc670a2044d1096d15f156e5ab5a8",
-      "updatedAt": 1793988087644
+      "officialId": "pc_8d3148bed83f4fbfabe718ff426e88c9",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_422088aec6a344fb9ff0fc697425c0ef",
+      "id": "pc_98c34d0cd7a448b5b6ec71c483cc2d0f",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "米奇",
-      "lat": 25.786225,
-      "lng": -100.189553,
+      "name": "海灘椅",
+      "lat": 53.887949,
+      "lng": 8.670605,
       "source": "OFFICIAL",
-      "officialId": "pc_422088aec6a344fb9ff0fc697425c0ef",
-      "updatedAt": 1793988087644
+      "officialId": "pc_98c34d0cd7a448b5b6ec71c483cc2d0f",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_75de114097954dcf91de06dd6aff0672",
+      "id": "pc_cdb772f218d149a7be117ede3932e2cd",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "迪士尼商店米妮壁畫",
-      "lat": 36.294456,
-      "lng": 139.399626,
+      "name": "超級瑪利歐",
+      "lat": 55.38203,
+      "lng": 10.42848,
       "source": "OFFICIAL",
-      "officialId": "pc_75de114097954dcf91de06dd6aff0672",
-      "updatedAt": 1793988087644
+      "officialId": "pc_cdb772f218d149a7be117ede3932e2cd",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_e6f7c0f39a064dfca970c66a28cf12f9",
+      "id": "pc_036ddd6a3c584981b737ff809c009abe",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "香港迪士尼樂園彈簧狗旋轉",
-      "lat": 22.310483,
-      "lng": 114.039569,
+      "name": "阿拉伯瑪利歐",
+      "lat": 25.097453,
+      "lng": 55.176489,
       "source": "OFFICIAL",
-      "officialId": "pc_e6f7c0f39a064dfca970c66a28cf12f9",
-      "updatedAt": 1793988087644
+      "officialId": "pc_036ddd6a3c584981b737ff809c009abe",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_234beb296dfe4c8a992ab1054ac9929d",
+      "id": "pc_24889560210d40ea9fabdf635468ab7c",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "唐老鴨壁畫",
-      "lat": 4.810399,
-      "lng": -74.099006,
+      "name": "跆拳道",
+      "lat": 47.765266,
+      "lng": -122.365406,
       "source": "OFFICIAL",
-      "officialId": "pc_234beb296dfe4c8a992ab1054ac9929d",
-      "updatedAt": 1793988087644
+      "officialId": "pc_24889560210d40ea9fabdf635468ab7c",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_a6e28845515147549073c5f7d95a5fa4",
+      "id": "pc_0a4178bc987c4a69b736e8ebcb3be55c",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "樂佩壁畫",
-      "lat": 37.657574,
-      "lng": 127.243776,
+      "name": "藍色亭閣",
+      "lat": 47.315782,
+      "lng": -122.174683,
       "source": "OFFICIAL",
-      "officialId": "pc_a6e28845515147549073c5f7d95a5fa4",
-      "updatedAt": 1793988087644
+      "officialId": "pc_0a4178bc987c4a69b736e8ebcb3be55c",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_c6ff3bc688b647c882f86363c4dcb687",
+      "id": "pc_6087c9a743e945c385384fa63051bac6",
       "folderId": "folder_weekly_featured_mushroom",
-      "name": "隱藏馬林與多莉壁畫",
-      "lat": -16.840139,
-      "lng": 145.739497,
+      "name": "子午谷公園",
+      "lat": 47.354601,
+      "lng": -122.158341,
       "source": "OFFICIAL",
-      "officialId": "pc_c6ff3bc688b647c882f86363c4dcb687",
-      "updatedAt": 1793988087644
+      "officialId": "pc_6087c9a743e945c385384fa63051bac6",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_5f844d001b464f3db09b360cb7dffbba",
+      "id": "pc_4aa8670651b746f0af442a9d71448553",
       "folderId": "folder_weekly_featured_flower",
-      "name": "歐拉夫與史文",
-      "lat": 28.370931,
-      "lng": -81.545939,
+      "name": "瑪利歐兄弟藝術壁畫",
+      "lat": 15.529734,
+      "lng": -88.023082,
       "source": "OFFICIAL",
-      "officialId": "pc_5f844d001b464f3db09b360cb7dffbba",
-      "updatedAt": 1793988087644
+      "officialId": "pc_4aa8670651b746f0af442a9d71448553",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_9034f8ae990b45d98b681212dd685868",
+      "id": "pc_8b01b0eb5c41474dbd5aeb3793b5c216",
       "folderId": "folder_weekly_featured_flower",
-      "name": "瘋狂公主",
-      "lat": 36.168972,
-      "lng": -5.349011,
+      "name": "梅田友都八喜內的瑪利歐",
+      "lat": 34.704006,
+      "lng": 135.496085,
       "source": "OFFICIAL",
-      "officialId": "pc_9034f8ae990b45d98b681212dd685868",
-      "updatedAt": 1793988087644
+      "officialId": "pc_8b01b0eb5c41474dbd5aeb3793b5c216",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_e4ccd6cd81a249679ded1d26598f09bb",
+      "id": "pc_808038b670b647eaaf8702adcf852dd0",
       "folderId": "folder_weekly_featured_flower",
-      "name": "美女と野獣の像",
-      "lat": 35.630551,
-      "lng": 139.877739,
+      "name": "爺爺所繪皮卡丘？",
+      "lat": 34.553459,
+      "lng": 133.707021,
       "source": "OFFICIAL",
-      "officialId": "pc_e4ccd6cd81a249679ded1d26598f09bb",
-      "updatedAt": 1793988087644
+      "officialId": "pc_808038b670b647eaaf8702adcf852dd0",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_5baafc19da844c64940cfd1e6bb339a2",
+      "id": "pc_65c3f27f47c4408ba5e18a31c4caf46c",
       "folderId": "folder_weekly_featured_flower",
-      "name": "小美人魚雕像",
-      "lat": 28.353832,
-      "lng": -81.546206,
+      "name": "小巷裡的貓",
+      "lat": 45.546159,
+      "lng": -73.571595,
       "source": "OFFICIAL",
-      "officialId": "pc_5baafc19da844c64940cfd1e6bb339a2",
-      "updatedAt": 1793988087644
+      "officialId": "pc_65c3f27f47c4408ba5e18a31c4caf46c",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_f47803593e2b43ae8d540de15658b370",
+      "id": "pc_321264378cf14072a3ba24ec367fcf15",
       "folderId": "folder_weekly_featured_flower",
-      "name": "拖線（拖吊車）",
-      "lat": 48.867211,
-      "lng": 2.773775,
+      "name": "百合花壁畫",
+      "lat": 30.209094,
+      "lng": -95.470506,
       "source": "OFFICIAL",
-      "officialId": "pc_f47803593e2b43ae8d540de15658b370",
-      "updatedAt": 1793988087644
+      "officialId": "pc_321264378cf14072a3ba24ec367fcf15",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_cf23c85cdf9d48f492cb8859bafdee76",
+      "id": "pc_9776efce91514de6b540bf2ff82d05c9",
       "folderId": "folder_weekly_featured_flower",
-      "name": "史迪奇",
-      "lat": 22.50327,
-      "lng": -98.055754,
+      "name": "庫巴Jr.雕像",
+      "lat": 34.667859,
+      "lng": 135.429794,
       "source": "OFFICIAL",
-      "officialId": "pc_cf23c85cdf9d48f492cb8859bafdee76",
-      "updatedAt": 1793988087644
+      "officialId": "pc_9776efce91514de6b540bf2ff82d05c9",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_c34cd62b80014b8c9dd104aae0902c39",
+      "id": "pc_4795e021d05c4f0d9961e43cd96b73f9",
       "folderId": "folder_weekly_featured_flower",
-      "name": "史迪奇",
-      "lat": 22.503116,
-      "lng": -98.056741,
+      "name": "超級任天堂世界",
+      "lat": 34.667125,
+      "lng": 135.430436,
       "source": "OFFICIAL",
-      "officialId": "pc_c34cd62b80014b8c9dd104aae0902c39",
-      "updatedAt": 1793988087644
+      "officialId": "pc_4795e021d05c4f0d9961e43cd96b73f9",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_459b70a63a3440e2971498051be5be9f",
+      "id": "pc_e7043d24f5e344bb826332c5c09e8133",
       "folderId": "folder_weekly_featured_flower",
-      "name": "七矮人花園",
-      "lat": 28.368387,
-      "lng": -81.547381,
+      "name": "史努比玻璃牆",
+      "lat": 25.073041,
+      "lng": 121.520018,
       "source": "OFFICIAL",
-      "officialId": "pc_459b70a63a3440e2971498051be5be9f",
-      "updatedAt": 1793988087644
+      "officialId": "pc_e7043d24f5e344bb826332c5c09e8133",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_e0089014f2d548f39d3ec70c7e4f7856",
+      "id": "pc_9d0dd833f00c476d947ea4151890aedc",
       "folderId": "folder_weekly_featured_flower",
-      "name": "Roz from Monsters Inc.",
-      "lat": 33.808291,
-      "lng": -117.917471,
+      "name": "寶可夢商店",
+      "lat": 41.383008,
+      "lng": 2.173508,
       "source": "OFFICIAL",
-      "officialId": "pc_e0089014f2d548f39d3ec70c7e4f7856",
-      "updatedAt": 1793988087644
+      "officialId": "pc_9d0dd833f00c476d947ea4151890aedc",
+      "updatedAt": 1794592893788
     },
     {
-      "id": "pc_7ce3441a5c9346e48761f3a020f96c63",
+      "id": "pc_280ebfcd2dea443a890a20774aeb8cbb",
       "folderId": "folder_weekly_featured_flower",
-      "name": "三眼仔",
-      "lat": 33.812027,
-      "lng": -117.917947,
+      "name": "高雄夢時代 遊戲達人任天堂授權商品旗艦店",
+      "lat": 22.5950901,
+      "lng": 120.3074215,
       "source": "OFFICIAL",
-      "officialId": "pc_7ce3441a5c9346e48761f3a020f96c63",
-      "updatedAt": 1793988087644
+      "officialId": "pc_280ebfcd2dea443a890a20774aeb8cbb",
+      "updatedAt": 1794592893788
     }
   ]
 }
