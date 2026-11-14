@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1794592893788,
+  "updatedAt": 1794660962395,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -236,6 +236,13 @@
       "parentId": "folder_weekly_featured",
       "source": "OFFICIAL",
       "updatedAt": 1794592893788
+    },
+    {
+      "id": "folder_nov_event_2026",
+      "name": "11月活動盆",
+      "parentId": "folder_gold_pots",
+      "source": "OFFICIAL",
+      "updatedAt": 1794660962395
     }
   ],
   "bookmarks": [
@@ -1928,6 +1935,56 @@
       "source": "OFFICIAL",
       "officialId": "pc_280ebfcd2dea443a890a20774aeb8cbb",
       "updatedAt": 1794592893788
+    },
+    {
+      "id": "point_2026111420560201",
+      "folderId": "folder_nov_event_2026",
+      "name": "紐約太空船",
+      "lat": 40.75817692623187,
+      "lng": -73.97939558465417,
+      "source": "OFFICIAL",
+      "officialId": "point_2026111420560201",
+      "updatedAt": 1794660962395
+    },
+    {
+      "id": "point_2026111420560202",
+      "folderId": "folder_nov_event_2026",
+      "name": "舊金山太空船",
+      "lat": 37.78759040704014,
+      "lng": -122.40857102883646,
+      "source": "OFFICIAL",
+      "officialId": "point_2026111420560202",
+      "updatedAt": 1794660962395
+    },
+    {
+      "id": "point_2026111420560203",
+      "folderId": "folder_nov_event_2026",
+      "name": "新加坡瑪利歐",
+      "lat": 1.265306,
+      "lng": 103.821615,
+      "source": "OFFICIAL",
+      "officialId": "point_2026111420560203",
+      "updatedAt": 1794660962395
+    },
+    {
+      "id": "point_2026111420560204",
+      "folderId": "folder_nov_event_2026",
+      "name": "香榭麗舍大道老佛爺百貨",
+      "lat": 48.87056,
+      "lng": 2.30641,
+      "source": "OFFICIAL",
+      "officialId": "point_2026111420560204",
+      "updatedAt": 1794660962395
+    },
+    {
+      "id": "point_2026111420560205",
+      "folderId": "folder_nov_event_2026",
+      "name": "韓國蠶室",
+      "lat": 37.51318,
+      "lng": 127.10181,
+      "source": "OFFICIAL",
+      "officialId": "point_2026111420560205",
+      "updatedAt": 1794660962395
     }
   ]
 }
