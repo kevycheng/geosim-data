@@ -26,6 +26,7 @@
   "adHighTierEnabled": false,
   "adRewardedUnitId": "ca-app-pub-6208515360908866/4775253838",
   "adRewardedUnitIdHigh": "",
+  "adBuckets": [ { "buckets": [6], "unitId": "ca-app-pub-6208515360908866/4372470090" } ],
   "inAppUpdateEnabled": true,
   "inAppUpdateStalenessDays": 0,
   "whatsNewEnabled": true,
