@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "source": "OFFICIAL",
-  "updatedAt": 1794660962395,
+  "updatedAt": 1795197688419,
   "folders": [
     {
       "id": "folder_gold_pots",
@@ -218,31 +218,31 @@
       "updatedAt": 1793838102797
     },
     {
-      "id": "folder_weekly_featured",
-      "name": "0.[每周精選] 主題:任天堂/瑪利歐",
-      "source": "OFFICIAL",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "folder_weekly_featured_mushroom",
-      "name": "[菇] 主題: 任天堂/瑪利歐",
-      "parentId": "folder_weekly_featured",
-      "source": "OFFICIAL",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "folder_weekly_featured_flower",
-      "name": "[花] 主題: 任天堂/瑪利歐",
-      "parentId": "folder_weekly_featured",
-      "source": "OFFICIAL",
-      "updatedAt": 1794592893788
-    },
-    {
       "id": "folder_nov_event_2026",
       "name": "11月活動盆",
       "parentId": "folder_gold_pots",
       "source": "OFFICIAL",
       "updatedAt": 1794660962395
+    },
+    {
+      "id": "folder_weekly_featured",
+      "name": "0.[每周精選] 主題:咖啡店",
+      "source": "OFFICIAL",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "folder_weekly_featured_mushroom",
+      "name": "[菇] 主題: 咖啡店",
+      "parentId": "folder_weekly_featured",
+      "source": "OFFICIAL",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "folder_weekly_featured_flower",
+      "name": "[花] 主題: 咖啡店",
+      "parentId": "folder_weekly_featured",
+      "source": "OFFICIAL",
+      "updatedAt": 1795197688419
     }
   ],
   "bookmarks": [
@@ -1737,206 +1737,6 @@
       "updatedAt": 1793838102797
     },
     {
-      "id": "pc_3e2eb7a994ea4f608d8c58165a964820",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "瑪利歐賽車壁畫",
-      "lat": 20.674489,
-      "lng": -101.355917,
-      "source": "OFFICIAL",
-      "officialId": "pc_3e2eb7a994ea4f608d8c58165a964820",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_a3d78882ab034e8d930b2d9b21f043d5",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "強大的庫巴雕像",
-      "lat": 34.141017,
-      "lng": -118.358079,
-      "source": "OFFICIAL",
-      "officialId": "pc_a3d78882ab034e8d930b2d9b21f043d5",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_f284080a1a794c33b74b0642e4560e37",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "超級瑪利歐",
-      "lat": 22.372554,
-      "lng": 114.179817,
-      "source": "OFFICIAL",
-      "officialId": "pc_f284080a1a794c33b74b0642e4560e37",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_8d3148bed83f4fbfabe718ff426e88c9",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "阿特拉斯",
-      "lat": 40.758949,
-      "lng": -73.977185,
-      "source": "OFFICIAL",
-      "officialId": "pc_8d3148bed83f4fbfabe718ff426e88c9",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_98c34d0cd7a448b5b6ec71c483cc2d0f",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "海灘椅",
-      "lat": 53.887949,
-      "lng": 8.670605,
-      "source": "OFFICIAL",
-      "officialId": "pc_98c34d0cd7a448b5b6ec71c483cc2d0f",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_cdb772f218d149a7be117ede3932e2cd",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "超級瑪利歐",
-      "lat": 55.38203,
-      "lng": 10.42848,
-      "source": "OFFICIAL",
-      "officialId": "pc_cdb772f218d149a7be117ede3932e2cd",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_036ddd6a3c584981b737ff809c009abe",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "阿拉伯瑪利歐",
-      "lat": 25.097453,
-      "lng": 55.176489,
-      "source": "OFFICIAL",
-      "officialId": "pc_036ddd6a3c584981b737ff809c009abe",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_24889560210d40ea9fabdf635468ab7c",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "跆拳道",
-      "lat": 47.765266,
-      "lng": -122.365406,
-      "source": "OFFICIAL",
-      "officialId": "pc_24889560210d40ea9fabdf635468ab7c",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_0a4178bc987c4a69b736e8ebcb3be55c",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "藍色亭閣",
-      "lat": 47.315782,
-      "lng": -122.174683,
-      "source": "OFFICIAL",
-      "officialId": "pc_0a4178bc987c4a69b736e8ebcb3be55c",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_6087c9a743e945c385384fa63051bac6",
-      "folderId": "folder_weekly_featured_mushroom",
-      "name": "子午谷公園",
-      "lat": 47.354601,
-      "lng": -122.158341,
-      "source": "OFFICIAL",
-      "officialId": "pc_6087c9a743e945c385384fa63051bac6",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_4aa8670651b746f0af442a9d71448553",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "瑪利歐兄弟藝術壁畫",
-      "lat": 15.529734,
-      "lng": -88.023082,
-      "source": "OFFICIAL",
-      "officialId": "pc_4aa8670651b746f0af442a9d71448553",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_8b01b0eb5c41474dbd5aeb3793b5c216",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "梅田友都八喜內的瑪利歐",
-      "lat": 34.704006,
-      "lng": 135.496085,
-      "source": "OFFICIAL",
-      "officialId": "pc_8b01b0eb5c41474dbd5aeb3793b5c216",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_808038b670b647eaaf8702adcf852dd0",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "爺爺所繪皮卡丘？",
-      "lat": 34.553459,
-      "lng": 133.707021,
-      "source": "OFFICIAL",
-      "officialId": "pc_808038b670b647eaaf8702adcf852dd0",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_65c3f27f47c4408ba5e18a31c4caf46c",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "小巷裡的貓",
-      "lat": 45.546159,
-      "lng": -73.571595,
-      "source": "OFFICIAL",
-      "officialId": "pc_65c3f27f47c4408ba5e18a31c4caf46c",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_321264378cf14072a3ba24ec367fcf15",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "百合花壁畫",
-      "lat": 30.209094,
-      "lng": -95.470506,
-      "source": "OFFICIAL",
-      "officialId": "pc_321264378cf14072a3ba24ec367fcf15",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_9776efce91514de6b540bf2ff82d05c9",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "庫巴Jr.雕像",
-      "lat": 34.667859,
-      "lng": 135.429794,
-      "source": "OFFICIAL",
-      "officialId": "pc_9776efce91514de6b540bf2ff82d05c9",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_4795e021d05c4f0d9961e43cd96b73f9",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "超級任天堂世界",
-      "lat": 34.667125,
-      "lng": 135.430436,
-      "source": "OFFICIAL",
-      "officialId": "pc_4795e021d05c4f0d9961e43cd96b73f9",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_e7043d24f5e344bb826332c5c09e8133",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "史努比玻璃牆",
-      "lat": 25.073041,
-      "lng": 121.520018,
-      "source": "OFFICIAL",
-      "officialId": "pc_e7043d24f5e344bb826332c5c09e8133",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_9d0dd833f00c476d947ea4151890aedc",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "寶可夢商店",
-      "lat": 41.383008,
-      "lng": 2.173508,
-      "source": "OFFICIAL",
-      "officialId": "pc_9d0dd833f00c476d947ea4151890aedc",
-      "updatedAt": 1794592893788
-    },
-    {
-      "id": "pc_280ebfcd2dea443a890a20774aeb8cbb",
-      "folderId": "folder_weekly_featured_flower",
-      "name": "高雄夢時代 遊戲達人任天堂授權商品旗艦店",
-      "lat": 22.5950901,
-      "lng": 120.3074215,
-      "source": "OFFICIAL",
-      "officialId": "pc_280ebfcd2dea443a890a20774aeb8cbb",
-      "updatedAt": 1794592893788
-    },
-    {
       "id": "point_2026111420560201",
       "folderId": "folder_nov_event_2026",
       "name": "紐約太空船",
@@ -1985,6 +1785,206 @@
       "source": "OFFICIAL",
       "officialId": "point_2026111420560205",
       "updatedAt": 1794660962395
+    },
+    {
+      "id": "pc_cf1e2f78e95f41068e390a392e5a5ee3",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "落合公園休憩亭",
+      "lat": 35.269696,
+      "lng": 136.987677,
+      "source": "OFFICIAL",
+      "officialId": "pc_cf1e2f78e95f41068e390a392e5a5ee3",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_ada75fcd6da9439a8a2ed93f2898e076",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "帕潘羅特霍恩峰",
+      "lat": 46.742549,
+      "lng": 9.597328,
+      "source": "OFFICIAL",
+      "officialId": "pc_ada75fcd6da9439a8a2ed93f2898e076",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_619bd157ab804319910922f7699d0d1d",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "姆明",
+      "lat": 37.656986,
+      "lng": 126.668483,
+      "source": "OFFICIAL",
+      "officialId": "pc_619bd157ab804319910922f7699d0d1d",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_3340d3bd46be4308bde96c02ec7e0c07",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "團聚咖啡屋",
+      "lat": 39.88874,
+      "lng": -104.780001,
+      "source": "OFFICIAL",
+      "officialId": "pc_3340d3bd46be4308bde96c02ec7e0c07",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_15cf2924210d47608dc7f3fa2d888d1e",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "喫茶店リゲル",
+      "lat": 34.927033,
+      "lng": 135.716752,
+      "source": "OFFICIAL",
+      "officialId": "pc_15cf2924210d47608dc7f3fa2d888d1e",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_cdd876331de44011a0a833339ac3e643",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "植物園咖啡館",
+      "lat": 48.162725,
+      "lng": 11.50033,
+      "source": "OFFICIAL",
+      "officialId": "pc_cdd876331de44011a0a833339ac3e643",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_e265447e10be4abd9da8d2c97e9761d4",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "貓咖啡壁畫",
+      "lat": 33.133703,
+      "lng": -117.229409,
+      "source": "OFFICIAL",
+      "officialId": "pc_e265447e10be4abd9da8d2c97e9761d4",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_b70275a9717f4d8991b3458ad0504892",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "義式壁畫",
+      "lat": 39.159196,
+      "lng": -77.277885,
+      "source": "OFFICIAL",
+      "officialId": "pc_b70275a9717f4d8991b3458ad0504892",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_368f5c3601044601942a8b0c265db211",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "人道協會彩繪電箱",
+      "lat": 37.419139,
+      "lng": -121.890496,
+      "source": "OFFICIAL",
+      "officialId": "pc_368f5c3601044601942a8b0c265db211",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_7ccccca39c764361acdcbe24706f71be",
+      "folderId": "folder_weekly_featured_mushroom",
+      "name": "窗邊懶貓",
+      "lat": 11.461058,
+      "lng": 106.629226,
+      "source": "OFFICIAL",
+      "officialId": "pc_7ccccca39c764361acdcbe24706f71be",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_fa750f8c49c84b8ab6b8d4e8d796fe7e",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "咖波狗狗等烏龜公車",
+      "lat": 24.147636,
+      "lng": 120.667549,
+      "source": "OFFICIAL",
+      "officialId": "pc_fa750f8c49c84b8ab6b8d4e8d796fe7e",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_4e4b189cbacc442192928ada81b81fcd",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "巨型生日馬克杯",
+      "lat": 43.07191,
+      "lng": -89.395736,
+      "source": "OFFICIAL",
+      "officialId": "pc_4e4b189cbacc442192928ada81b81fcd",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_6928785547d34a10a6355a1bc3362ada",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "星之卡比",
+      "lat": 33.590103,
+      "lng": 130.410532,
+      "source": "OFFICIAL",
+      "officialId": "pc_6928785547d34a10a6355a1bc3362ada",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_8c29e83837ea468f8901bbd9eaec29f6",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "喵喵們",
+      "lat": 35.458217,
+      "lng": 133.086279,
+      "source": "OFFICIAL",
+      "officialId": "pc_8c29e83837ea468f8901bbd9eaec29f6",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_6cdefc9dca004fa894c31c363477ff61",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "貓桑咖啡",
+      "lat": 22.974396,
+      "lng": 120.212974,
+      "source": "OFFICIAL",
+      "officialId": "pc_6cdefc9dca004fa894c31c363477ff61",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_e85ea0e16b3d4fc28a0003e4f14f707a",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "Vivo City 長廊",
+      "lat": 1.263131,
+      "lng": 103.821909,
+      "source": "OFFICIAL",
+      "officialId": "pc_e85ea0e16b3d4fc28a0003e4f14f707a",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_afaf6a9a9e50439ab4e4d823f0e48d05",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "莫洛峰",
+      "lat": 54.448117,
+      "lng": 18.576672,
+      "source": "OFFICIAL",
+      "officialId": "pc_afaf6a9a9e50439ab4e4d823f0e48d05",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_ec541fafcf704d68a18f39ad2a7d2caf",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "嵌牆甜甜圈",
+      "lat": 37.05773,
+      "lng": 140.896106,
+      "source": "OFFICIAL",
+      "officialId": "pc_ec541fafcf704d68a18f39ad2a7d2caf",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_c6c58159fbf1409699d9440c951bae29",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "米奇",
+      "lat": 35.634409,
+      "lng": 139.880169,
+      "source": "OFFICIAL",
+      "officialId": "pc_c6c58159fbf1409699d9440c951bae29",
+      "updatedAt": 1795197688419
+    },
+    {
+      "id": "pc_85ead1e903084419947070d82c42c04b",
+      "folderId": "folder_weekly_featured_flower",
+      "name": "La Conga 霓虹起司漢堡",
+      "lat": -26.171664,
+      "lng": 28.20507,
+      "source": "OFFICIAL",
+      "officialId": "pc_85ead1e903084419947070d82c42c04b",
+      "updatedAt": 1795197688419
     }
   ]
 }
